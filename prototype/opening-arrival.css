@@ -1,0 +1,32 @@
+/* The opening background itself persists across the section handoff.
+   The trailing space lets the copy reach a comfortable reading position before
+   the following section triggers its fade. Keep this out of shared typography. */
+.sporting-home .spirit-copy{text-shadow:0 2px 24px #09231d80}
+.sporting-home .spirit-story:focus-within{opacity:1!important}
+@media(prefers-reduced-motion:reduce){
+.sporting-home .spirit-story{padding-top:150px}
+}
+
+@media(prefers-reduced-motion:no-preference){
+.single-photo-active .sporting-home .spirit-story{padding-bottom:32svh}
+.single-photo-active main{position:static;z-index:auto}
+.single-photo-active #welcome{position:relative;z-index:7}
+.single-photo-active #welcome,.single-photo-active .spirit-scene{background:transparent}
+.single-photo-active body>.spirit-backdrop:after{opacity:var(--arrival-shade,1)}
+.single-photo-active .arrival-placeholder{background:transparent;visibility:hidden}
+.sporting-home #opening.arrival-composition{margin-top:0;padding:0;border-radius:0;overflow:clip}
+.sporting-home .arrival-composition .opening-sequence{--opening-height:100svh;height:210svh}
+.sporting-home .arrival-composition .opening-sticky{height:100svh;padding:35px 4.5% 0;position:sticky;top:0}
+.sporting-home .arrival-composition .hero-heading{opacity:var(--arrival-type,0)}
+.sporting-home .arrival-composition .hero-top,.sporting-home .arrival-composition .opening-footer{opacity:var(--arrival-type,0)}
+.sporting-home .arrival-composition .opening-art figcaption{opacity:var(--arrival-equipment,0)!important}
+#opening-flight-canvas{opacity:var(--arrival-equipment,0)!important}
+.sporting-home .arrival-composition .opening-footer{left:4.5%;right:4.5%}
+@media(max-width:760px){
+.sporting-home .arrival-composition .opening-sequence{height:200svh}
+.sporting-home .arrival-composition .opening-sticky{padding:20px 6% 0}
+.sporting-home .arrival-composition .opening-footer{left:auto;right:auto}
+}
+}
+.motion-paused .arrival-composition .hero-heading,.motion-paused .arrival-composition .hero-top,.motion-paused .arrival-composition .opening-footer,.motion-paused #opening-flight-canvas{opacity:1!important}
+.arrival-composition:focus-within .hero-heading{opacity:1!important}

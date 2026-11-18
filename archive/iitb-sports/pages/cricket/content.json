@@ -1,0 +1,343 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Cricket\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Main Cricket Ground"
+    },
+    {
+      "level": "H3",
+      "text": "Indoor Nets"
+    },
+    {
+      "level": "H3",
+      "text": "Equipment"
+    },
+    {
+      "level": "H3",
+      "text": "Open to New Talent"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Cricmania"
+    },
+    {
+      "level": "H3",
+      "text": "Cricket GC"
+    },
+    {
+      "level": "H3",
+      "text": "Mixed Cricket League"
+    },
+    {
+      "level": "H3",
+      "text": "Freshman League"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the ground."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Cricket Ground",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cricket_1.f7c74f6ee3c962461fa1.jpg"
+    },
+    {
+      "alt": "Main Cricket Ground",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cricket_1.f7c74f6ee3c962461fa1.jpg"
+    },
+    {
+      "alt": "Indoor Nets",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric1.ce65b399006f3639b404.jpg"
+    },
+    {
+      "alt": "Equipment",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric3.25ea270af7a1ccef9a03.jpg"
+    },
+    {
+      "alt": "Open to New Talent",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric4.014d6ffb2db8874bacbb.jpg"
+    },
+    {
+      "alt": "Day & Night — the main ground under the new floodlights.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric2.40c3e74fca9b38a09d3a.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cricket_1.f7c74f6ee3c962461fa1.jpg"
+    },
+    {
+      "alt": "Cricmania",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric1.ce65b399006f3639b404.jpg"
+    },
+    {
+      "alt": "Cricket GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric2.40c3e74fca9b38a09d3a.jpg"
+    },
+    {
+      "alt": "Mixed Cricket League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric3.25ea270af7a1ccef9a03.jpg"
+    },
+    {
+      "alt": "Freshman League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric4.014d6ffb2db8874bacbb.jpg"
+    },
+    {
+      "alt": "Cricmania — the flagship open tournament, Spring Semester.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric4.014d6ffb2db8874bacbb.jpg"
+    },
+    {
+      "alt": "Param Shilu",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/param.0ba8540aa09e04c04c23.JPG"
+    },
+    {
+      "alt": "Cricket gallery 1",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cricket_1.f7c74f6ee3c962461fa1.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cricket_1.f7c74f6ee3c962461fa1.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric1.ce65b399006f3639b404.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric2.40c3e74fca9b38a09d3a.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric3.25ea270af7a1ccef9a03.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/cric4.014d6ffb2db8874bacbb.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "C\nIIT BOMBAY CRICKET / MAIN GROUND & INDOOR NETS\nGOLD · INTER-IIT 2023–24\n4 INDOOR PITCHES\nPOWAI · IIT BOMBAY\nDOSSIER NO. 06\n§\nCRICKET · MAIN GROUND & INDOOR NETS\nCricket\nat IIT Bombay.\n\nCricket is as much a religion at IIT Bombay as it is across the country. From Day & Night matches on our main field to late-night sessions in the Indoor Nets, the passion runs deep. Last year, the institute made history by winning Gold in Inter-IIT Cricket after 16 years — a proud moment for the entire campus.\n\nINDOOR PITCHES\n2\nOpp. Hostel 3\nLAST INTER-IIT\nGold\nAfter 16 years\nFIXTURES\n2\nAnnual events\nNSO DAYS\n2\nMon & Tue each week\n§ 01\n · FACILITIES\nWhat's on offer.\n\nMain ground · Indoor nets · Full equipment.\n\nMain Cricket Ground\nSituated in the heart of the Gymkhana, bordered by the athletic tracks.\nNew floodlights installed to facilitate Day & Night matches on the main field.\nIndoor Nets\n4 indoor cricket pitches for practice during the Monsoon season.\nLocated just opposite Hostel 3 — customised pitches upcoming.\nEquipment\nInstitute Cricket team is fully equipped with all necessary gear.\nWhite balls, protective equipment, and training aids provided for GC and open events.\nOpen to New Talent\nNew players are welcomed, given space and opportunity to grow and develop game skills.\nNSO training runs 2 days a week (Mon & Tue), open to ~30–40 selected students.\nFIG. A\nDAY & NIGHT — THE MAIN GROUND UNDER THE NEW FLOODLIGHTS.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nNSO\n\nPart of the academic curriculum for undergraduate students. Through selections, 30–40 students who opted for cricket are trained throughout the academic year, two days a week (Monday and Tuesday). NSO is the structured entry point for serious cricket development at IITB.\n\nCONTINUE READING →\nN° 02\nCricmania\n\nThe flagship open tournament for Cricket at IIT Bombay. Open to all students, alumni, professors, and staff, it is held in the Spring Semester. Highly competitive, it is a must-play for all cricket enthusiasts — an especially valuable platform for intermediates to go up against experienced Inter-IIT team members.\n\nCONTINUE READING →\nN° 03\nCricket GC\n\nThe inter-hostel cricket tournament held annually on the main ground. Hostels bring their best players to compete for valuable General Championship points. Comprises 15-over matches played with white balls, taking place in January.\n\nCONTINUE READING →\nN° 04\nMixed Cricket League\n\nA fun event held at the Open Air Theatre (OAT) where 32 teams — each of 5 guys and 2 girls — play against each other with rules similar to street cricket. Usually takes place in October, it's one of the most inclusive and high-energy events on the cricket calendar.\n\nCONTINUE READING →\nN° 05\nFreshman League\n\nA league initiated to give freshmen an opportunity to showcase talent developed through NSO, GC, Cricmania, and camps. Four teams formed through bidding compete in March. It has been a consistent source of raw talent and an encouragement for cricket enthusiasts to pursue the game throughout their time at the institute.\n\nCONTINUE READING →\nFIG. B\nCRICMANIA — THE FLAGSHIP OPEN TOURNAMENT, SPRING SEMESTER.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nParam Shilu\n\nINSTITUTE CRICKET SECRETARY\n\n+91 81412 29825\n\n§ 05\n · GALLERY\nFrom the ground.\nFIG. 01 / 05\nCRICKET · MAIN GROUND\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nCricket Ground · IIT Bombay Gymkhana · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3869185665076!2d72.90968797511066!3d19.134533450132537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820fd0657%3A0xe732ba0e0eb134b1!2sCricket%20Ground!5e0!3m2!1sen!2sin!4v1720263060691!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nC\nIIT BOMBAY CRICKET / MAIN GROUND & INDOOR NETS\nGOLD · INTER-IIT 2023–24\n4 INDOOR PITCHES\nPOWAI · IIT BOMBAY\nDOSSIER NO. 06\n§\nCRICKET · MAIN GROUND & INDOOR NETS\nCricket\nat IIT Bombay.\n\nCricket is as much a religion at IIT Bombay as it is across the country. From Day & Night matches on our main field to late-night sessions in the Indoor Nets, the passion runs deep. Last year, the institute made history by winning Gold in Inter-IIT Cricket after 16 years — a proud moment for the entire campus.\n\nINDOOR PITCHES\n2\nOpp. Hostel 3\nLAST INTER-IIT\nGold\nAfter 16 years\nFIXTURES\n2\nAnnual events\nNSO DAYS\n2\nMon & Tue each week\n§ 01\n · FACILITIES\nWhat's on offer.\n\nMain ground · Indoor nets · Full equipment.\n\nMain Cricket Ground\nSituated in the heart of the Gymkhana, bordered by the athletic tracks.\nNew floodlights installed to facilitate Day & Night matches on the main field.\nIndoor Nets\n4 indoor cricket pitches for practice during the Monsoon season.\nLocated just opposite Hostel 3 — customised pitches upcoming.\nEquipment\nInstitute Cricket team is fully equipped with all necessary gear.\nWhite balls, protective equipment, and training aids provided for GC and open events.\nOpen to New Talent\nNew players are welcomed, given space and opportunity to grow and develop game skills.\nNSO training runs 2 days a week (Mon & Tue), open to ~30–40 selected students.\nFIG. A\nDAY & NIGHT — THE MAIN GROUND UNDER THE NEW FLOODLIGHTS.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nNSO\n\nPart of the academic curriculum for undergraduate students. Through selections, 30–40 students who opted for cricket are trained throughout the academic year, two days a week (Monday and Tuesday). NSO is the structured entry point for serious cricket development at IITB.\n\nCONTINUE READING →\nN° 02\nCricmania\n\nThe flagship open tournament for Cricket at IIT Bombay. Open to all students, alumni, professors, and staff, it is held in the Spring Semester. Highly competitive, it is a must-play for all cricket enthusiasts — an especially valuable platform for intermediates to go up against experienced Inter-IIT team members.\n\nCONTINUE READING →\nN° 03\nCricket GC\n\nThe inter-hostel cricket tournament held annually on the main ground. Hostels bring their best players to compete for valuable General Championship points. Comprises 15-over matches played with white balls, taking place in January.\n\nCONTINUE READING →\nN° 04\nMixed Cricket League\n\nA fun event held at the Open Air Theatre (OAT) where 32 teams — each of 5 guys and 2 girls — play against each other with rules similar to street cricket. Usually takes place in October, it's one of the most inclusive and high-energy events on the cricket calendar.\n\nCONTINUE READING →\nN° 05\nFreshman League\n\nA league initiated to give freshmen an opportunity to showcase talent developed through NSO, GC, Cricmania, and camps. Four teams formed through bidding compete in March. It has been a consistent source of raw talent and an encouragement for cricket enthusiasts to pursue the game throughout their time at the institute.\n\nCONTINUE READING →\nFIG. B\nCRICMANIA — THE FLAGSHIP OPEN TOURNAMENT, SPRING SEMESTER.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nParam Shilu\n\nINSTITUTE CRICKET SECRETARY\n\n+91 81412 29825\n\n§ 05\n · GALLERY\nFrom the ground.\nFIG. 01 / 05\nCRICKET · MAIN GROUND\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nCricket Ground · IIT Bombay Gymkhana · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/cricket",
+  "captured_at": "2026-10-18T15:27:32.066808+00:00"
+}

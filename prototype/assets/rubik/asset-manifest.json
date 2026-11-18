@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-25",
+  "totalVisualBytes": 463226,
+  "files": [
+    {
+      "path": "prototype/assets/rubik/archive-1.webp",
+      "bytes": 92266,
+      "sha256": "9f8f840045a15e70d79a5b8ec18a12bf249eba450b3a00a93aa33227e9d02da7",
+      "kind": "archive-photo-derivative"
+    },
+    {
+      "path": "prototype/assets/rubik/archive-2.webp",
+      "bytes": 95150,
+      "sha256": "4a17b327ac27e8065f040caf02db302c1019e1a436e78113c85e7654b8dcf182",
+      "kind": "archive-photo-derivative"
+    },
+    {
+      "path": "prototype/assets/rubik/archive-3.webp",
+      "bytes": 100394,
+      "sha256": "59a8c23c8329b06b9da72430b29e0e58ea3fd035654ac9820a0d8769316a0d48",
+      "kind": "archive-photo-derivative"
+    },
+    {
+      "path": "prototype/assets/rubik/finale-compact.webp",
+      "bytes": 8126,
+      "sha256": "8eb9135e31c6061bf6e035a45482056ac74cd6a3a1d6f7f3a53917b5bcd73be4",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/finale-portrait.webp",
+      "bytes": 16712,
+      "sha256": "bdda6880519bc5e5bd864a024d7fdf736aa129b6488ca22069c80e89a1c4ed02",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/finale-tablet.webp",
+      "bytes": 26464,
+      "sha256": "70e164be34f1f2ff956acd5c23d082239fae718b9390519603768a9a41004a7a",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/finale-wide.webp",
+      "bytes": 30912,
+      "sha256": "6285b8d97b7ed1734a0b3af9db719ce33ec8fb01138017feee7133a0e5fcb9ef",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/opening-compact.webp",
+      "bytes": 8866,
+      "sha256": "6d1fd05c457dbae7511ae0dad863767cff8b799d5ec42f13095c6872d88a7878",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/opening-portrait.webp",
+      "bytes": 18094,
+      "sha256": "3a919ec9fe75be28b954d8aef4cf811114f07bbd23af6241516730551342ff71",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/opening-tablet.webp",
+      "bytes": 29012,
+      "sha256": "2190cdb55a56221856f6fd9584daf1027545b8088930b7dce6b317e1cf867048",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/opening-wide.webp",
+      "bytes": 33256,
+      "sha256": "51571c902516c7d4e751f1203cfdb5d2eaaf8fe6e954077dc6122691a5269385",
+      "kind": "original-scene-capture"
+    },
+    {
+      "path": "prototype/assets/rubik/solved-diagram.svg",
+      "bytes": 3974,
+      "sha256": "6bb5169cf498d44af3cdc6cee8cda8a729ab7c61374d0991727b7a8095359820",
+      "kind": "original-vector-diagram"
+    }
+  ]
+}

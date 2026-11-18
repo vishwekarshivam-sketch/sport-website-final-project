@@ -1,0 +1,354 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:00 PM - 4:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:30 PM - 5:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM - 5:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:30 PM - 6:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:00 PM - 6:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 PM - 7:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:00 PM - 7:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:30 PM - 8:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:00 PM - 8:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:30 PM - 9:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "9:00 PM - 9:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:00 PM - 4:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:30 PM - 5:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM - 5:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:30 PM - 6:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:00 PM - 6:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 PM - 7:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:00 PM - 7:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:30 PM - 8:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:00 PM - 8:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:30 PM - 9:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "9:00 PM - 9:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "REQUEST SLOT"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:00 PM - 4:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:30 PM - 5:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM - 5:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:30 PM - 6:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:00 PM - 6:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 PM - 7:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:00 PM - 7:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:30 PM - 8:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:00 PM - 8:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:30 PM - 9:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "9:00 PM - 9:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:00 PM - 4:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:30 PM - 5:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM - 5:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:30 PM - 6:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:00 PM - 6:30 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 PM - 7:00 PM\nConfirmed"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:00 PM - 7:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:30 PM - 8:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:00 PM - 8:30 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:30 PM - 9:00 PM\nAvailable"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "9:00 PM - 9:30 PM\nAvailable"
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Badminton Court Booking"
+    },
+    {
+      "level": "H2",
+      "text": "AVAILABLE COURTS FOR TOMORROW (19 OCTOBER 2026)"
+    },
+    {
+      "level": "H3",
+      "text": "COURT 6"
+    },
+    {
+      "level": "H3",
+      "text": "COURT 7"
+    },
+    {
+      "level": "H2",
+      "text": "BOOKING FORM"
+    },
+    {
+      "level": "H2",
+      "text": "TODAY'S COURT STATUS (18 OCTOBER 2026) - DISPLAY ONLY"
+    },
+    {
+      "level": "H3",
+      "text": "COURT 6"
+    },
+    {
+      "level": "H3",
+      "text": "COURT 7"
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://docs.google.com/document/d/1PzsRNHQ4SHDt7LL77KNm9Mda_4z_HoqOnQwdc0UgysI/edit?tab=t.0#heading=h.x5e4q43qgafw",
+      "text": "RULEBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "Badminton Court Booking\nAVAILABLE COURTS FOR TOMORROW (19 OCTOBER 2026)\n\nSelect a court and a 30-minute session.\n\nCOURT 6\n4:00 PM - 4:30 PM\nAvailable\n4:30 PM - 5:00 PM\nAvailable\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nAvailable\n6:00 PM - 6:30 PM\nAvailable\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nConfirmed\n7:30 PM - 8:00 PM\nConfirmed\n8:00 PM - 8:30 PM\nAvailable\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nCOURT 7\n4:00 PM - 4:30 PM\nAvailable\n4:30 PM - 5:00 PM\nAvailable\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nAvailable\n6:00 PM - 6:30 PM\nAvailable\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nConfirmed\n7:30 PM - 8:00 PM\nConfirmed\n8:00 PM - 8:30 PM\nAvailable\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nBOOKING FORM\nNAME\nROLL NUMBER\nLDAP EMAIL\nPLAYER ROLL NUMBERS (COMMA SEPARATED)\nNUMBER OF PLAYERS\n\nSelected: Choose a court and slot above\n\nI ACCEPT THE TERMS AND CONDITIONS MENTIONED IN THE RULEBOOK.\n\nThe Institute Sports Council reserves the right to cancel any badminton court booking for valid reasons.\n\nREQUEST SLOT\nTODAY'S COURT STATUS (18 OCTOBER 2026) - DISPLAY ONLY\nCOURT 6\n4:00 PM - 4:30 PM\nConfirmed\n4:30 PM - 5:00 PM\nConfirmed\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nConfirmed\n6:00 PM - 6:30 PM\nConfirmed\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nConfirmed\n7:30 PM - 8:00 PM\nConfirmed\n8:00 PM - 8:30 PM\nConfirmed\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nCOURT 7\n4:00 PM - 4:30 PM\nConfirmed\n4:30 PM - 5:00 PM\nConfirmed\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nConfirmed\n6:00 PM - 6:30 PM\nConfirmed\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nAvailable\n7:30 PM - 8:00 PM\nAvailable\n8:00 PM - 8:30 PM\nAvailable\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nBadminton Court Booking\nAVAILABLE COURTS FOR TOMORROW (19 OCTOBER 2026)\n\nSelect a court and a 30-minute session.\n\nCOURT 6\n4:00 PM - 4:30 PM\nAvailable\n4:30 PM - 5:00 PM\nAvailable\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nAvailable\n6:00 PM - 6:30 PM\nAvailable\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nConfirmed\n7:30 PM - 8:00 PM\nConfirmed\n8:00 PM - 8:30 PM\nAvailable\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nCOURT 7\n4:00 PM - 4:30 PM\nAvailable\n4:30 PM - 5:00 PM\nAvailable\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nAvailable\n6:00 PM - 6:30 PM\nAvailable\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nConfirmed\n7:30 PM - 8:00 PM\nConfirmed\n8:00 PM - 8:30 PM\nAvailable\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nBOOKING FORM\nNAME\nROLL NUMBER\nLDAP EMAIL\nPLAYER ROLL NUMBERS (COMMA SEPARATED)\nNUMBER OF PLAYERS\n\nSelected: Choose a court and slot above\n\nI ACCEPT THE TERMS AND CONDITIONS MENTIONED IN THE RULEBOOK.\n\nThe Institute Sports Council reserves the right to cancel any badminton court booking for valid reasons.\n\nREQUEST SLOT\nTODAY'S COURT STATUS (18 OCTOBER 2026) - DISPLAY ONLY\nCOURT 6\n4:00 PM - 4:30 PM\nConfirmed\n4:30 PM - 5:00 PM\nConfirmed\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nConfirmed\n6:00 PM - 6:30 PM\nConfirmed\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nConfirmed\n7:30 PM - 8:00 PM\nConfirmed\n8:00 PM - 8:30 PM\nConfirmed\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nCOURT 7\n4:00 PM - 4:30 PM\nConfirmed\n4:30 PM - 5:00 PM\nConfirmed\n5:00 PM - 5:30 PM\nAvailable\n5:30 PM - 6:00 PM\nConfirmed\n6:00 PM - 6:30 PM\nConfirmed\n6:30 PM - 7:00 PM\nConfirmed\n7:00 PM - 7:30 PM\nAvailable\n7:30 PM - 8:00 PM\nAvailable\n8:00 PM - 8:30 PM\nAvailable\n8:30 PM - 9:00 PM\nAvailable\n9:00 PM - 9:30 PM\nAvailable\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+  "captured_at": "2026-10-18T15:27:59.321665+00:00"
+}

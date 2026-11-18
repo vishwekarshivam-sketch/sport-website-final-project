@@ -1,0 +1,395 @@
+[
+  {
+    "route": "/",
+    "url": "https://gymkhana.iitb.ac.in/sports/",
+    "component": "HomePage",
+    "source": "source/app/components/homepage/HomePage.js",
+    "status": "captured",
+    "content": "pages/home/content.json"
+  },
+  {
+    "route": "/contact",
+    "url": "https://gymkhana.iitb.ac.in/sports/contact",
+    "component": "ContactUs",
+    "source": "source/app/components/Contact/ContactUs.js",
+    "status": "captured",
+    "content": "pages/contact/content.json"
+  },
+  {
+    "route": "/explore",
+    "url": "https://gymkhana.iitb.ac.in/sports/explore",
+    "component": "Sports",
+    "source": "source/app/components/sports/Sports.js",
+    "status": "captured",
+    "content": "pages/explore/content.json"
+  },
+  {
+    "route": "/aquatics",
+    "url": "https://gymkhana.iitb.ac.in/sports/aquatics",
+    "component": "Aquatics",
+    "source": "source/app/components/sports/SportsPages/aquatics/src/aquatics/aquatics.js",
+    "status": "captured",
+    "content": "pages/aquatics/content.json"
+  },
+  {
+    "route": "/volleyball",
+    "url": "https://gymkhana.iitb.ac.in/sports/volleyball",
+    "component": "Volleyball",
+    "source": "source/app/components/sports/SportsPages/volleyball/volleyball/volleyball.jsx",
+    "status": "captured",
+    "content": "pages/volleyball/content.json"
+  },
+  {
+    "route": "/SAC",
+    "url": "https://gymkhana.iitb.ac.in/sports/SAC",
+    "component": "SAC",
+    "source": "source/app/components/Contact/SAC.js",
+    "status": "captured",
+    "content": "pages/SAC/content.json"
+  },
+  {
+    "route": "/Council",
+    "url": "https://gymkhana.iitb.ac.in/sports/Council",
+    "component": "Council",
+    "source": "source/app/components/Contact/SportsCouncil.js",
+    "status": "captured",
+    "content": "pages/Council/content.json"
+  },
+  {
+    "route": "/Webteam",
+    "url": "https://gymkhana.iitb.ac.in/sports/Webteam",
+    "component": "Webteam",
+    "source": "source/app/components/Contact/webteam.js",
+    "status": "captured",
+    "content": "pages/Webteam/content.json"
+  },
+  {
+    "route": "/CourtStatus",
+    "url": "https://gymkhana.iitb.ac.in/sports/CourtStatus",
+    "component": "CourtStatus",
+    "source": "source/app/components/CourtStatus/CourtStatus.js",
+    "status": "captured",
+    "content": "pages/CourtStatus/content.json"
+  },
+  {
+    "route": "/turfbooking",
+    "url": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+    "component": "BookingPage",
+    "source": "source/app/components/turf-booking/BookingPage.js",
+    "status": "captured",
+    "content": "pages/turfbooking/content.json"
+  },
+  {
+    "route": "/badmintonbooking",
+    "url": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+    "component": "BadmintonBookingPage",
+    "source": "source/app/components/badminton-booking/BookingPage.js",
+    "status": "captured",
+    "content": "pages/badmintonbooking/content.json"
+  },
+  {
+    "route": "/admin-badminton-booking",
+    "url": "https://gymkhana.iitb.ac.in/sports/admin-badminton-booking",
+    "component": "BadmintonAdminPage",
+    "source": "source/app/components/badminton-booking/AdminPage.js",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/GC",
+    "url": "https://gymkhana.iitb.ac.in/sports/GC",
+    "component": "GC",
+    "source": "source/app/components/Gc/GC.js",
+    "status": "captured",
+    "content": "pages/GC/content.json"
+  },
+  {
+    "route": "/gc-admin",
+    "url": "https://gymkhana.iitb.ac.in/sports/gc-admin",
+    "component": "GcAdmin",
+    "source": "source/app/components/Gc/GCAdmin.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/admin-turf-booking-raj",
+    "url": "https://gymkhana.iitb.ac.in/sports/admin-turf-booking-raj",
+    "component": "AdminPage",
+    "source": "source/app/components/turf-booking/AdminPage.js",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/events-timeline",
+    "url": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+    "component": "SportsCalendar",
+    "source": "source/app/components/EventsTimeline/index.js",
+    "status": "captured",
+    "content": "pages/events-timeline/content.json"
+  },
+  {
+    "route": "/football",
+    "url": "https://gymkhana.iitb.ac.in/sports/football",
+    "component": "Football",
+    "source": "source/app/components/sports/SportsPages/football/football/Football.jsx",
+    "status": "captured",
+    "content": "pages/football/content.json"
+  },
+  {
+    "route": "/badminton",
+    "url": "https://gymkhana.iitb.ac.in/sports/badminton",
+    "component": "Badminton",
+    "source": "source/app/components/sports/SportsPages/badminton/src/badminton/badminton.jsx",
+    "status": "captured",
+    "content": "pages/badminton/content.json"
+  },
+  {
+    "route": "/basketball",
+    "url": "https://gymkhana.iitb.ac.in/sports/basketball",
+    "component": "Basketball",
+    "source": "source/app/components/sports/SportsPages/basketball/src/aquatics/basketball.jsx",
+    "status": "captured",
+    "content": "pages/basketball/content.json"
+  },
+  {
+    "route": "/squash",
+    "url": "https://gymkhana.iitb.ac.in/sports/squash",
+    "component": "Squash",
+    "source": "source/app/components/sports/SportsPages/squash/squash/squash.jsx",
+    "status": "captured",
+    "content": "pages/squash/content.json"
+  },
+  {
+    "route": "/tabletennis",
+    "url": "https://gymkhana.iitb.ac.in/sports/tabletennis",
+    "component": "Tabletennis",
+    "source": "source/app/components/sports/SportsPages/tabletennis/tabletennis/tabletennis.jsx",
+    "status": "captured",
+    "content": "pages/tabletennis/content.json"
+  },
+  {
+    "route": "/tennis",
+    "url": "https://gymkhana.iitb.ac.in/sports/tennis",
+    "component": "Tennis",
+    "source": "source/app/components/sports/SportsPages/tennis/Tennis.jsx",
+    "status": "captured",
+    "content": "pages/tennis/content.json"
+  },
+  {
+    "route": "/weightlifting",
+    "url": "https://gymkhana.iitb.ac.in/sports/weightlifting",
+    "component": "Wtlift",
+    "source": "source/app/components/sports/SportsPages/wtlift/wtlift/wtlift.jsx",
+    "status": "captured",
+    "content": "pages/weightlifting/content.json"
+  },
+  {
+    "route": "/indiangames",
+    "url": "https://gymkhana.iitb.ac.in/sports/indiangames",
+    "component": "IndianGames",
+    "source": "source/app/components/sports/SportsPages/indiangames/indiangames/IndianGames.jsx",
+    "status": "captured",
+    "content": "pages/indiangames/content.json"
+  },
+  {
+    "route": "/hockey",
+    "url": "https://gymkhana.iitb.ac.in/sports/hockey",
+    "component": "Hockey",
+    "source": "source/app/components/sports/SportsPages/hockey/hockey/Hockey.jsx",
+    "status": "captured",
+    "content": "pages/hockey/content.json"
+  },
+  {
+    "route": "/cricket",
+    "url": "https://gymkhana.iitb.ac.in/sports/cricket",
+    "component": "Cricket",
+    "source": "source/app/components/sports/SportsPages/cricket/cricket/Cricket.jsx",
+    "status": "captured",
+    "content": "pages/cricket/content.json"
+  },
+  {
+    "route": "/boardgames",
+    "url": "https://gymkhana.iitb.ac.in/sports/boardgames",
+    "component": "BoardGames",
+    "source": "source/app/components/sports/SportsPages/boardgame/src/aquatics/boardgames.jsx",
+    "status": "captured",
+    "content": "pages/boardgames/content.json"
+  },
+  {
+    "route": "/admin-court-management",
+    "url": "https://gymkhana.iitb.ac.in/sports/admin-court-management",
+    "component": "AdminCourtManagement",
+    "source": "source/app/components/admin/AdminCourtManagement.js",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/adventureclub",
+    "url": "https://gymkhana.iitb.ac.in/sports/adventureclub",
+    "component": "AdventureClub",
+    "source": "source/app/components/sports/SportsPages/adventure club/adventureclub.jsx",
+    "status": "captured",
+    "content": "pages/adventureclub/content.json"
+  },
+  {
+    "route": "/yoga",
+    "url": "https://gymkhana.iitb.ac.in/sports/yoga",
+    "component": "Yogastha",
+    "source": "source/app/components/sports/SportsPages/yogastha/yogastha.jsx",
+    "status": "captured",
+    "content": "pages/yoga/content.json"
+  },
+  {
+    "route": "/chess",
+    "url": "https://gymkhana.iitb.ac.in/sports/chess",
+    "component": "Chess",
+    "source": "source/app/components/sports/SportsPages/chess/chess.jsx",
+    "status": "captured",
+    "content": "pages/chess/content.json"
+  },
+  {
+    "route": "/rubik",
+    "url": "https://gymkhana.iitb.ac.in/sports/rubik",
+    "component": "Rubics",
+    "source": "source/app/components/sports/SportsPages/rubics/rubics.jsx",
+    "status": "captured",
+    "content": "pages/rubik/content.json"
+  },
+  {
+    "route": "/frisbee",
+    "url": "https://gymkhana.iitb.ac.in/sports/frisbee",
+    "component": "Frisbee",
+    "source": "source/app/components/sports/SportsPages/frisbee/frisbee.jsx",
+    "status": "captured",
+    "content": "pages/frisbee/content.json"
+  },
+  {
+    "route": "/athletics",
+    "url": "https://gymkhana.iitb.ac.in/sports/athletics",
+    "component": "Athletics",
+    "source": "source/app/components/sports/SportsPages/athletics/src/aquatics/aquatics.jsx",
+    "status": "captured",
+    "content": "pages/athletics/content.json"
+  },
+  {
+    "route": "/yearbook",
+    "url": "https://gymkhana.iitb.ac.in/sports/yearbook",
+    "component": "Yearbook",
+    "source": "source/app/components/yearbook/yearbook.js",
+    "status": "captured",
+    "content": "pages/yearbook/content.json"
+  },
+  {
+    "route": "/feedback",
+    "url": "https://gymkhana.iitb.ac.in/sports/feedback",
+    "component": "Feedback",
+    "source": "source/app/components/Feedback/Feedback.js",
+    "status": "captured",
+    "content": "pages/feedback/content.json"
+  },
+  {
+    "route": "/feedback-admin",
+    "url": "https://gymkhana.iitb.ac.in/sports/feedback-admin",
+    "component": "AdminDashboard",
+    "source": "source/app/components/FeedbackAdmin/Feedback-Admin.js",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/blogs",
+    "url": "https://gymkhana.iitb.ac.in/sports/blogs",
+    "component": "BlogsPage",
+    "source": "source/app/components/Blogs/BlogPage.js",
+    "status": "captured",
+    "content": "pages/blogs/content.json"
+  },
+  {
+    "route": "/player-database",
+    "url": "https://gymkhana.iitb.ac.in/sports/player-database",
+    "component": "PlayerDatabase",
+    "source": "source/app/components/PlayerDatabase/PlayerDatabase.jsx",
+    "status": "captured",
+    "content": "pages/player-database/content.json"
+  },
+  {
+    "route": "/match-prediction",
+    "url": "https://gymkhana.iitb.ac.in/sports/match-prediction",
+    "component": "MatchPrediction",
+    "source": "source/app/components/matchprediction/matchprediction.js",
+    "status": "captured",
+    "content": "pages/match-prediction/content.json"
+  },
+  {
+    "route": "/certificates",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificates",
+    "component": "CertificatesPage",
+    "source": "source/app/components/Certificates/Certificatespage.jsx",
+    "status": "captured",
+    "content": "pages/certificates/content.json"
+  },
+  {
+    "route": "/certificate-verification/:certId",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-verification/:certId",
+    "component": "VerificationPage",
+    "source": "source/app/components/Certificates/Verificationpage.jsx",
+    "status": "requires_record_identifier"
+  },
+  {
+    "route": "/certificate-admin-gssa-0000",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-gssa-0000",
+    "component": "AdminLogin",
+    "source": "source/app/components/AdminPanel/AdminLogin.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-chairperson-1542",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-chairperson-1542",
+    "component": "AdminLogin",
+    "source": "source/app/components/AdminPanel/AdminLogin.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-dean-3000",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-dean-3000",
+    "component": "AdminLogin",
+    "source": "source/app/components/AdminPanel/AdminLogin.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-superadmin-73",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-superadmin-73",
+    "component": "AdminLogin",
+    "source": "source/app/components/AdminPanel/AdminLogin.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-gssa-0000/dashboard",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-gssa-0000/dashboard",
+    "component": "SecyDashboard",
+    "source": "source/app/components/AdminPanel/SecyDashboard.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-chairperson-1542/dashboard",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-chairperson-1542/dashboard",
+    "component": "ChairpersonDashboard",
+    "source": "source/app/components/AdminPanel/ChairpersonDashboard.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-dean-3000/dashboard",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-dean-3000/dashboard",
+    "component": "DeanDashboard",
+    "source": "source/app/components/AdminPanel/DeanDashboard.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/certificate-admin-superadmin-73/dashboard",
+    "url": "https://gymkhana.iitb.ac.in/sports/certificate-admin-superadmin-73/dashboard",
+    "component": "SuperadminDashboard",
+    "source": "source/app/components/AdminPanel/SuperadminDashboard.jsx",
+    "status": "not_crawled_admin"
+  },
+  {
+    "route": "/admin/batches/:batchId",
+    "url": "https://gymkhana.iitb.ac.in/sports/admin/batches/:batchId",
+    "component": "BatchDetail",
+    "source": "source/app/components/AdminPanel/BatchDetail.jsx",
+    "status": "not_crawled_admin"
+  }
+]

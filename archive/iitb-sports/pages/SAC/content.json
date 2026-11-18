@@ -1,0 +1,203 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Students Affairs Council"
+    },
+    {
+      "level": "H3",
+      "text": "2024-2025"
+    },
+    {
+      "level": "H2",
+      "text": "Sports Chairperson :"
+    },
+    {
+      "level": "H2",
+      "text": "SAC Incharge :"
+    },
+    {
+      "level": "H2",
+      "text": "Sports Officers :"
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "Students Affairs Council\n2024-2025\nSports Chairperson :\n\nFull name\n\nSAC Incharge :\n\nFull name\n\nSports Officers :\nDr Prabhakaran Ramasamy9475349787\nDr Harish Padinjarethil7034057773\nMr. Pritesh Yadav8850176798\nMs. Prapti Salunkhe9167938056\nMr Anuj Pratap Singh9560909875\nMr Ritesh Guchhait7389582408\nMr Shelendra Rasaniya9793990585\nDr. Prabhu Pandian ##****\nDr. Prabhu Pandian ##**##",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nStudents Affairs Council\n2024-2025\nSports Chairperson :\n\nFull name\n\nSAC Incharge :\n\nFull name\n\nSports Officers :\nDr Prabhakaran Ramasamy9475349787\nDr Harish Padinjarethil7034057773\nMr. Pritesh Yadav8850176798\nMs. Prapti Salunkhe9167938056\nMr Anuj Pratap Singh9560909875\nMr Ritesh Guchhait7389582408\nMr Shelendra Rasaniya9793990585\nDr. Prabhu Pandian ##****\nDr. Prabhu Pandian ##**##\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/SAC",
+  "captured_at": "2026-10-18T15:26:38.223048+00:00"
+}

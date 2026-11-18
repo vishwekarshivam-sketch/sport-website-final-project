@@ -1,0 +1,9 @@
+Stage 1: 5 resources
+1/5 error https://court-status-backend-node-production.up.railway.app/api/sports
+4/5 error https://feedbackbackend-mlc8bmyp.b4a.run/api/feedback/contacts
+5/5 html_fallback https://gymkhana.iitb.ac.in/sports/pictures/phone.svg
+Stage 2: 3 resources
+1/3 error https://court-status-backend-node-production.up.railway.app/api/sports
+2/3 error https://feedbackbackend-mlc8bmyp.b4a.run/api/feedback/contacts
+3/3 html_fallback https://gymkhana.iitb.ac.in/sports/pictures/phone.svg
+{"resources": 507, "saved": 363, "events": 269, "bytes": 834486088}

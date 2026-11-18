@@ -1,0 +1,41 @@
+/* An airy continuation below the pool. All artwork sits behind the menus. */
+.submerged-directory{position:relative;isolation:isolate;background:#dce8df}
+.submerged-directory .scatter-section,.submerged-directory .scatter-section#clubs{background:transparent}
+.submerged-directory .scatter-section{z-index:1}
+.collection-water{position:absolute;inset:0;overflow:hidden;pointer-events:none;background:radial-gradient(ellipse at 49% 9%,#f3f3e4b3,transparent 51%),linear-gradient(175deg,#deebe2 0%,#d7e6dc 45%,#c9e0d7 100%);z-index:-1}
+.collection-water::after{content:"";position:absolute;inset:0;background:radial-gradient(ellipse at 50% 30%,#eff2e682,transparent 58%);pointer-events:none}
+.water-defs{position:absolute}
+.water-architecture{position:absolute;inset:0;width:100%;height:100%;opacity:.8;transform-origin:50% 50%;animation:water-architecture-sway 9s ease-in-out infinite alternate;animation-play-state:paused}
+.water-caustics{position:absolute;inset:-8%;background:url('assets/sporting-world/caustics.webp') repeat;background-size:780px 780px;opacity:.16;transform-origin:50% 0;animation:water-light 8s ease-in-out infinite alternate;animation-play-state:paused;mask-image:linear-gradient(#000,transparent 41%,#000 80%);-webkit-mask-image:linear-gradient(#000,transparent 41%,#000 80%)}
+.water-caustics-far{background-size:530px 530px;opacity:.09;animation-duration:11s;animation-delay:-12s;transform:rotate(13deg) scale(1.15)}
+.water-rays{position:absolute;inset:-10% -25% 0;background:conic-gradient(from 167deg at 51% -10%,transparent 0deg,#fffde733 5deg,transparent 9deg,#faffed21 13deg,transparent 18deg,#fffbe826 22deg,transparent 29deg);filter:blur(18px);opacity:.8;animation:water-rays 10s ease-in-out infinite alternate;animation-play-state:paused}
+.water-life{position:absolute;inset:0}
+.water-fish{position:absolute;width:var(--size,90px);height:auto;left:var(--left);top:var(--top);opacity:var(--opacity,.38);transform:scaleX(var(--direction,1)) rotate(var(--tilt,0deg));animation:water-drift calc(var(--duration,23s) * .45) ease-in-out infinite alternate;animation-delay:var(--delay,-5s);animation-play-state:paused;filter:blur(var(--blur,0px))}
+.fish-1{--left:5%;--top:18%;--size:115px;--tilt:-12deg;--duration:26s;--opacity:.4}
+.fish-2{--left:87%;--top:10%;--size:70px;--direction:-1;--tilt:14deg;--duration:31s;--opacity:.3}
+.fish-3{--left:91%;--top:13%;--size:47px;--direction:-1;--tilt:12deg;--duration:31s;--opacity:.22;--delay:-7s;--blur:.35px}
+.fish-4{--left:81%;--top:37%;--size:100px;--tilt:-18deg;--duration:29s;--delay:-17s;--opacity:.32}
+.fish-5{--left:9%;--top:62%;--size:76px;--direction:-1;--tilt:8deg;--duration:33s;--delay:-13s;--opacity:.35}
+.fish-6{--left:4%;--top:66%;--size:48px;--direction:-1;--tilt:9deg;--duration:33s;--delay:-16s;--opacity:.22;--blur:.4px}
+.fish-7{--left:86%;--top:81%;--size:128px;--tilt:-14deg;--duration:28s;--delay:-19s;--opacity:.36}
+.fish-8{--left:27%;--top:94%;--size:50px;--tilt:10deg;--duration:34s;--opacity:.2;--blur:.6px}
+.water-motes{position:absolute;inset:0}
+.water-motes i{position:absolute;left:var(--x);top:var(--y);width:3px;height:3px;border-radius:50%;background:#faffeb;opacity:.6;box-shadow:0 0 5px #fffdeb80;animation:water-rise var(--duration) ease-in-out infinite;animation-delay:var(--delay);animation-play-state:paused}
+.water-motes i:nth-child(3n){width:5px;height:5px;background:transparent;border:1px solid #f8ffe999;box-shadow:none}
+.water-ripple-field{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+.water-running .collection-water *{animation-play-state:running}
+.sports-directory .collection-outro{background:linear-gradient(#c9e0d7,#e5e8dc 90%)}
+@keyframes water-architecture-sway{from{transform:translate(-3px,2px) skewY(-.18deg) scale(1.01)}to{transform:translate(5px,-3px) skewY(.22deg) scale(1.018)}}
+@keyframes water-light{from{transform:translate3d(-1.5%,-1%,0) scale(1.04) rotate(-2deg)}to{transform:translate3d(1.5%,1.5%,0) scale(1.1) rotate(2deg)}}
+@keyframes water-rays{from{transform:translateX(-1.5%) rotate(-3deg);opacity:.6}to{transform:translateX(1.5%) rotate(3deg);opacity:.85}}
+@keyframes water-drift{from{transform:translate3d(-22px,8px,0) scaleX(var(--direction,1)) rotate(var(--tilt,0deg))}to{transform:translate3d(34px,-15px,0) scaleX(var(--direction,1)) rotate(calc(var(--tilt,0deg) + 5deg))}}
+@keyframes water-rise{0%{transform:translate3d(0,32px,0);opacity:0}20%{opacity:.5}80%{opacity:.35}100%{transform:translate3d(15px,-70px,0);opacity:0}}
+@media(max-width:700px){
+ .water-caustics{background-size:480px 480px;opacity:.12}
+ .water-caustics-far{display:none}
+ .water-rays{filter:blur(12px)}
+ .water-fish{width:calc(var(--size,90px) * .65)}
+ .fish-1{--left:1%;--top:17%}.fish-2{--left:80%;--top:8%}.fish-3{--left:90%;--top:11%}
+ .fish-4{--left:78%;--top:39%}.fish-5{--left:2%;--top:66%}.fish-6{display:none}.fish-7{--left:76%;--top:82%}
+}
+@media(prefers-reduced-motion:reduce){.collection-water *{animation:none!important}}

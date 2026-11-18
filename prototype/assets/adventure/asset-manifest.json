@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-25",
+  "sceneBytes": 5043659,
+  "files": [
+    {
+      "path": "archive-1.webp",
+      "bytes": 589506,
+      "sha256": "c36d094976a79ca04568f1e88732a96544f4fac0c0b66ab76d9258d8ff1684ce"
+    },
+    {
+      "path": "archive-2.webp",
+      "bytes": 311984,
+      "sha256": "200e90a88b39cf158fb3015ad0fcf67bfeea57f09e79bbd5ffdf81c75194bc41"
+    },
+    {
+      "path": "archive-3.webp",
+      "bytes": 290208,
+      "sha256": "f533ece38bae2a7c4539c90dda157492ff21bb447281e452276f2c3f36397e6f"
+    },
+    {
+      "path": "archive-4.webp",
+      "bytes": 268236,
+      "sha256": "1951fa589133135fda6b22584a386e493c99f3766d00ac38dd28ca5c363b1079"
+    },
+    {
+      "path": "archive-5.webp",
+      "bytes": 307870,
+      "sha256": "646227b8b817ce087e1b66b73d08339157634b93c723a206010ce75d3e187759"
+    },
+    {
+      "path": "fern/fern.gltf",
+      "bytes": 6899,
+      "sha256": "33974295ee19670af4877705fc7d91f33f42d6302f0d44a625e072271223031f"
+    },
+    {
+      "path": "fern/fern_02.bin",
+      "bytes": 176176,
+      "sha256": "fe1abb762bcbbc7ad9e86925c8080437a62add257d9280e9142fdc85c226e64c"
+    },
+    {
+      "path": "fern/textures/fern_02_alpha_1k.png",
+      "bytes": 114589,
+      "sha256": "ea3c64284c7ebdeedf484d2d816eae92825ec526140c3bb83859ddc7a64001f9"
+    },
+    {
+      "path": "fern/textures/fern_02_arm_1k.jpg",
+      "bytes": 280359,
+      "sha256": "ebfb5d76ce9cbdaec20bcd22dce9b755f0b1b8650ef29ca13555e3e6961025d7"
+    },
+    {
+      "path": "fern/textures/fern_02_diff_1k.jpg",
+      "bytes": 315705,
+      "sha256": "a828a6e7b4c01c826911e2eac4b3afc7457dab7b3b392a31c681ed88b7d50029"
+    },
+    {
+      "path": "fern/textures/fern_02_nor_gl_1k.jpg",
+      "bytes": 367222,
+      "sha256": "45bce132c6e96a0864bc89ab5da51361ab3f4afa83a6669ae499ab5ca811f621"
+    },
+    {
+      "path": "ground/rock_face_diff_1k.jpg",
+      "bytes": 732721,
+      "sha256": "cce4b50517161264bdef196f5e247e328ca3739083cd6044ad3cc54d88cb82e2"
+    },
+    {
+      "path": "interior-portrait.webp",
+      "bytes": 11426,
+      "sha256": "fb9aba43f8c4743d509be3d4fc3d8856b42e2bbdd9b64c854a08e052f28d306b",
+      "source": "Actual Adventure tent interior scene capture; original procedural geometry, no HTML or CSS shading."
+    },
+    {
+      "path": "interior.webp",
+      "bytes": 34452,
+      "sha256": "6e1505a320c1fc943f1aca9689d36a318243fdba50be1725ccc399ef7c55bdb0",
+      "source": "Actual Adventure tent interior scene capture; original procedural geometry, no HTML or CSS shading."
+    },
+    {
+      "path": "landscape.webp",
+      "bytes": 199338,
+      "sha256": "034b77d4cac4cff88c89ee94040cd2f8d166c153ea80a1f0b5727839a85e210d",
+      "source": "Actual opening canvas capture with all DOM content and CSS shading hidden. Replaced full-page screenshots to remove duplicated UI on loading/refresh, 25 October 2026."
+    },
+    {
+      "path": "portrait.webp",
+      "bytes": 27864,
+      "sha256": "36d05cf540de1be1e6105ad7c35f7f7c15c2a43799498f12a8e974f71f4b439b",
+      "source": "Actual opening canvas capture with all DOM content and CSS shading hidden. Replaced full-page screenshots to remove duplicated UI on loading/refresh, 25 October 2026."
+    },
+    {
+      "path": "rock/rock.gltf",
+      "bytes": 2793,
+      "sha256": "96c332c01d173a2431115f3bac29be101fba341e5500e2a08e384f4edd17299e"
+    },
+    {
+      "path": "rock/rock_face_01.bin",
+      "bytes": 476436,
+      "sha256": "873eac0319333e92bc96ddeedf8ebf69dc3c68ff1dfe32d8c14ddc165cdb20ac"
+    },
+    {
+      "path": "rock/textures/rock_face_01_arm_1k.jpg",
+      "bytes": 693610,
+      "sha256": "59128c79d207a50a69a38002986135ade3b19642d26158cec141eca41578c9ca"
+    },
+    {
+      "path": "rock/textures/rock_face_01_diff_1k.jpg",
+      "bytes": 853749,
+      "sha256": "41bd26ed2db1332b1ebb4b1326fd8af4d21f0f0eb57b8ea385033115c722cfdb"
+    },
+    {
+      "path": "rock/textures/rock_face_01_nor_gl_1k.jpg",
+      "bytes": 1023400,
+      "sha256": "9a9d85b9a01f4e24fc9ceec8baf96c019f552bca69591ff544c7a725e28b1d97"
+    }
+  ],
+  "tentCaptureBytes": 45878
+}

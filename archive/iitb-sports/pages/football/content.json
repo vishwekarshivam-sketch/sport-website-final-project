@@ -1,0 +1,352 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Football\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "11-a-Side Ground"
+    },
+    {
+      "level": "H3",
+      "text": "6-a-Side Turf"
+    },
+    {
+      "level": "H3",
+      "text": "Training Equipment"
+    },
+    {
+      "level": "H3",
+      "text": "Sports App Booking"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Institute Turf League"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Freshie Tournament"
+    },
+    {
+      "level": "H3",
+      "text": "Football GC"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Football League"
+    },
+    {
+      "level": "H3",
+      "text": "Fantasy League"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the pitch."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Football Ground",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_ground.a92881e1d4ab796945ed.jpeg"
+    },
+    {
+      "alt": "11-a-Side Ground",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_ground.a92881e1d4ab796945ed.jpeg"
+    },
+    {
+      "alt": "6-a-Side Turf",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/turf.fc909f415dee1be70616.jpeg"
+    },
+    {
+      "alt": "Training Equipment",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.51b82d63f55e114cc7ea.jpeg"
+    },
+    {
+      "alt": "Sports App Booking",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_team.71fe8f8e7e0e69e9a43c.jpeg"
+    },
+    {
+      "alt": "The 6-a-side turf — bookable via the Sports App.",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/turf.fc909f415dee1be70616.jpeg"
+    },
+    {
+      "alt": "Institute Turf League",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.51b82d63f55e114cc7ea.jpeg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_ground.a92881e1d4ab796945ed.jpeg"
+    },
+    {
+      "alt": "Freshie Tournament",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_team.71fe8f8e7e0e69e9a43c.jpeg"
+    },
+    {
+      "alt": "Football GC",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/logo.de7c4dc8d0c15091f33b.jpeg"
+    },
+    {
+      "alt": "Institute Football League",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/turf.fc909f415dee1be70616.jpeg"
+    },
+    {
+      "alt": "Fantasy League",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.51b82d63f55e114cc7ea.jpeg"
+    },
+    {
+      "alt": "Football GC — 11-a-side inter-hostel championship.",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_team.71fe8f8e7e0e69e9a43c.jpeg"
+    },
+    {
+      "alt": "Yash Shah",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Aditya.4bff9450c8716a41bfc3.jpeg"
+    },
+    {
+      "alt": "Football gallery 1",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.51b82d63f55e114cc7ea.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.51b82d63f55e114cc7ea.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_ground.a92881e1d4ab796945ed.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/football_team.71fe8f8e7e0e69e9a43c.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/logo.de7c4dc8d0c15091f33b.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/turf.fc909f415dee1be70616.jpeg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "F\nIIT BOMBAY FOOTBALL / GROUND & TURF\n11-A-SIDE GROUND · 6-A-SIDE TURF\nMOST FOLLOWED SPORT ON CAMPUS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 07\n§\nFOOTBALL · GROUND & TURF\nFootball\nat IIT Bombay.\n\nFootball is the most followed sport at IIT Bombay. From the 11-a-side General Championship to late-evening turf sessions, the passion for the game cuts across every year group — students, research scholars, and faculty alike. IITB students can book the turf and ground via the Sports App, with slot availability visible in real time.\n\nPLAYING SURFACES\n0\nGround + Turf\nFORMAT\n11v11\nAlso 6-a-side turf\nFIXTURES\n1\nAnnual events\nBOOKING\nSports App\nLive slot availability\n§ 01\n · FACILITIES\nWhat's on offer.\n\nGround · Turf · Equipment · App booking.\n\n11-a-Side Ground\nFull-size professional football ground at the heart of the Gymkhana.\nHosts Football GC, Institute Football League, and Inter-IIT training camps.\n6-a-Side Turf\nNewly constructed 6-aside turf for smaller-format and recreational play.\nBookable via the IITB Sports App — slot availability visible in real time.\nTraining Equipment\nFull suite of latest training equipment to supplement team practices.\nOn-site refrigerator for ice packs and a water cooler in the equipment shed.\nSports App Booking\nIITB students can book turf and ground slots directly from the Sports Application.\nTimetable view shows all booked and available slots across both surfaces.\nFIG. A\nTHE 6-A-SIDE TURF — BOOKABLE VIA THE SPORTS APP.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nInstitute Turf League\n\nOne of its kind in the institute — an open turf tournament that draws gaming enthusiasts and serious footballers alike. The compact 6-aside format makes it one of the most fast-paced and entertaining fixtures on the football calendar.\n\nCONTINUE READING →\nN° 02\nNSO\n\nThe National Sports Organization scheme, available to all first-year students as part of the academic curriculum. Students who opt for Football undergo structured training throughout the year, two days a week, building a strong foundation for competitive play.\n\nCONTINUE READING →\nN° 03\nFreshie Tournament\n\nThe first competitive football event of the even semester, giving freshmen their first platform to showcase skills developed through NSO and informal play. An 11-on-11 format that mirrors the GC experience for new students.\n\nCONTINUE READING →\nN° 04\nFootball GC\n\nThe most celebrated football event in the institute — the inter-hostel General Championship. A professional 11-a-side tournament where hostels battle for GC glory. Matches are fierce, the stands are packed, and every point counts toward the overall championship.\n\nCONTINUE READING →\nN° 05\nInstitute Football League\n\nWith football being the most followed sport in the institute, the IFL includes everyone — students, research scholars, and even professors participating as team managers and players. The league format ensures maximum matches and maximum involvement.\n\nCONTINUE READING →\nN° 06\nFantasy League\n\nThe first of its kind and the most recent addition to the football events calendar. Conducted on the FPL platform, the Fantasy League has seen huge participation across the institute, bringing a new dimension of engagement to the football community.\n\nCONTINUE READING →\nFIG. B\nFOOTBALL GC — 11-A-SIDE INTER-HOSTEL CHAMPIONSHIP.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nAditya Patil\n\nINSTITUTE FOOTBALL SECRETARY\n\n+91 75079 90444\n\n§ 05\n · GALLERY\nFrom the pitch.\nFIG. 01 / 05\nFOOTBALL · IIT BOMBAY\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nFootball Ground · IIT Bombay Gymkhana · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3869185665076!2d72.90968797511066!3d19.134533450132537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820fd0657%3A0xe732ba0e0eb134b1!2sCricket%20Ground!5e0!3m2!1sen!2sin!4v1720263060691!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nF\nIIT BOMBAY FOOTBALL / GROUND & TURF\n11-A-SIDE GROUND · 6-A-SIDE TURF\nMOST FOLLOWED SPORT ON CAMPUS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 07\n§\nFOOTBALL · GROUND & TURF\nFootball\nat IIT Bombay.\n\nFootball is the most followed sport at IIT Bombay. From the 11-a-side General Championship to late-evening turf sessions, the passion for the game cuts across every year group — students, research scholars, and faculty alike. IITB students can book the turf and ground via the Sports App, with slot availability visible in real time.\n\nPLAYING SURFACES\n0\nGround + Turf\nFORMAT\n11v11\nAlso 6-a-side turf\nFIXTURES\n1\nAnnual events\nBOOKING\nSports App\nLive slot availability\n§ 01\n · FACILITIES\nWhat's on offer.\n\nGround · Turf · Equipment · App booking.\n\n11-a-Side Ground\nFull-size professional football ground at the heart of the Gymkhana.\nHosts Football GC, Institute Football League, and Inter-IIT training camps.\n6-a-Side Turf\nNewly constructed 6-aside turf for smaller-format and recreational play.\nBookable via the IITB Sports App — slot availability visible in real time.\nTraining Equipment\nFull suite of latest training equipment to supplement team practices.\nOn-site refrigerator for ice packs and a water cooler in the equipment shed.\nSports App Booking\nIITB students can book turf and ground slots directly from the Sports Application.\nTimetable view shows all booked and available slots across both surfaces.\nFIG. A\nTHE 6-A-SIDE TURF — BOOKABLE VIA THE SPORTS APP.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nInstitute Turf League\n\nOne of its kind in the institute — an open turf tournament that draws gaming enthusiasts and serious footballers alike. The compact 6-aside format makes it one of the most fast-paced and entertaining fixtures on the football calendar.\n\nCONTINUE READING →\nN° 02\nNSO\n\nThe National Sports Organization scheme, available to all first-year students as part of the academic curriculum. Students who opt for Football undergo structured training throughout the year, two days a week, building a strong foundation for competitive play.\n\nCONTINUE READING →\nN° 03\nFreshie Tournament\n\nThe first competitive football event of the even semester, giving freshmen their first platform to showcase skills developed through NSO and informal play. An 11-on-11 format that mirrors the GC experience for new students.\n\nCONTINUE READING →\nN° 04\nFootball GC\n\nThe most celebrated football event in the institute — the inter-hostel General Championship. A professional 11-a-side tournament where hostels battle for GC glory. Matches are fierce, the stands are packed, and every point counts toward the overall championship.\n\nCONTINUE READING →\nN° 05\nInstitute Football League\n\nWith football being the most followed sport in the institute, the IFL includes everyone — students, research scholars, and even professors participating as team managers and players. The league format ensures maximum matches and maximum involvement.\n\nCONTINUE READING →\nN° 06\nFantasy League\n\nThe first of its kind and the most recent addition to the football events calendar. Conducted on the FPL platform, the Fantasy League has seen huge participation across the institute, bringing a new dimension of engagement to the football community.\n\nCONTINUE READING →\nFIG. B\nFOOTBALL GC — 11-A-SIDE INTER-HOSTEL CHAMPIONSHIP.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nAditya Patil\n\nINSTITUTE FOOTBALL SECRETARY\n\n+91 75079 90444\n\n§ 05\n · GALLERY\nFrom the pitch.\nFIG. 01 / 05\nFOOTBALL · IIT BOMBAY\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nFootball Ground · IIT Bombay Gymkhana · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/football",
+  "captured_at": "2026-10-18T15:27:32.356332+00:00"
+}

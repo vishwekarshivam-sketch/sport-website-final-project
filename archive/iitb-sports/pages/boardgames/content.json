@@ -1,0 +1,457 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Board Games\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Pool & Snooker"
+    },
+    {
+      "level": "H3",
+      "text": "Carrom & Chess"
+    },
+    {
+      "level": "H3",
+      "text": "Foosball & More"
+    },
+    {
+      "level": "H3",
+      "text": "Board Games Room"
+    },
+    {
+      "level": "H2",
+      "text": "The community."
+    },
+    {
+      "level": "H4",
+      "text": "Dark Knight Chess Club (DKCC)"
+    },
+    {
+      "level": "H4",
+      "text": "Rubik's Club"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Institute Chess Open (Rapid)"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Chess Championship"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Chess League"
+    },
+    {
+      "level": "H3",
+      "text": "Chess General Championship"
+    },
+    {
+      "level": "H3",
+      "text": "Chess: PG Mania"
+    },
+    {
+      "level": "H3",
+      "text": "Carrom General Championship"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the room."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Board Games",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg5.c67d2653e13bf6e5492e.jpeg"
+    },
+    {
+      "alt": "Pool & Snooker",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg1.25b2dd89d2293ea59d06.jpeg"
+    },
+    {
+      "alt": "Carrom & Chess",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg2.c85af80204eb98bc8d0a.jpeg"
+    },
+    {
+      "alt": "Foosball & More",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg3.e2bdefb5a01e39d8824e.jpeg"
+    },
+    {
+      "alt": "Board Games Room",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg10.aae613620a23f798021c.jpeg"
+    },
+    {
+      "alt": "The Board Games Room — New SAC, 2nd Floor.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg8.e3cf51d0819aec45c2bb.jpeg"
+    },
+    {
+      "alt": "Institute Chess Open (Rapid)",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg1.25b2dd89d2293ea59d06.jpeg"
+    },
+    {
+      "alt": "Institute Chess Championship",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg2.c85af80204eb98bc8d0a.jpeg"
+    },
+    {
+      "alt": "Institute Chess League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg3.e2bdefb5a01e39d8824e.jpeg"
+    },
+    {
+      "alt": "Chess General Championship",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg4.2c6886e882d470e11650.jpeg"
+    },
+    {
+      "alt": "Chess: PG Mania",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg5.c67d2653e13bf6e5492e.jpeg"
+    },
+    {
+      "alt": "Carrom General Championship",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg6.5da922b1c122535d5a1d.jpeg"
+    },
+    {
+      "alt": "Institute Chess Championship — round in progress.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg12.b52351e00917797c4ddb.jpeg"
+    },
+    {
+      "alt": "Varad Walde",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/varad.a9feea842a8cb3bf7471.JPG"
+    },
+    {
+      "alt": "Board Games gallery 1",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg1.25b2dd89d2293ea59d06.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg1.25b2dd89d2293ea59d06.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg2.c85af80204eb98bc8d0a.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg3.e2bdefb5a01e39d8824e.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg4.2c6886e882d470e11650.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg5.c67d2653e13bf6e5492e.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg6.5da922b1c122535d5a1d.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg7.05c81a58260444f833f2.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg8.e3cf51d0819aec45c2bb.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg9.cc61d2e2a24c405c34a0.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg11.092f504cf81388290558.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg12.b52351e00917797c4ddb.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg13.9d53aa1a9219f830662e.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg14.b800429eca0416cb1589.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bg15.3fedc62aa1e3859cb156.jpeg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://www.instagram.com/dkcc_iitb/?hl=en",
+      "text": "INSTAGRAM → @DKCC_IITB"
+    },
+    {
+      "href": "https://www.instagram.com/rubiksclub_iitb/",
+      "text": "INSTAGRAM → @RUBIKSCLUB_IITB"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "G\nIIT BOMBAY BOARD GAMES / NEW SAC · 2ND FLOOR\nCHESS · CARROM · POOL · CUBING\n365 DAYS INDOORS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 05\n§\nCHESS · CARROM · POOL · CUBING\nBoard Games\nat IIT Bombay.\n\nInstitute Board Games caters to all who want to learn any kind of board game. With a growing culture of Chess, Carrom, and Pool on campus, we also conduct events for Snooker, Rubik's Cube, and Foosball. Being fully indoors, we have an opportunity to serve students all 365 days. Board Games is not for the lethargic — it is for the enthusiastic. Come be a part of Institute Board Games.\n\nTABLES\n1\nPool · Snooker · Foosball\nCLUBS\n2\nDKCC · Rubik's Club\nFIXTURES\n2\nAnnual events\nOPEN\n365\nDays a year · Indoors\n§ 01\n · FACILITIES\nWhat's on offer.\n\nNew SAC · 2nd Floor · All year round.\n\nPool & Snooker\n1 pool table and 1 snooker table in the Board Games Room, New SAC 2nd Floor.\nOpen to all campus residents — no prior booking required during general hours.\nCarrom & Chess\nMultiple carrom boards and chess sets available for drop-in play.\nRegular training and practice sessions facilitated by the Dark Knight Chess Club.\nFoosball & More\n1 foosball table for casual and competitive play.\nRubik's Cube puzzles — 2×2 through NxN — available via the Rubik's Club.\nBoard Games Room\nLocated on the 2nd Floor of the New SAC — fully indoors, available 365 days a year.\nHosts all institute-level board games events, workshops, and club activities.\nFIG. A\nTHE BOARD GAMES ROOM — NEW SAC, 2ND FLOOR.\n§ 02\n · OUR CLUBS\nThe community.\n\nTwo clubs. One home.\n\nDark Knight Chess Club (DKCC)\n\nIIT Bombay's official student-run chess community. Brings together enthusiasts across all skill levels — from casual players to rated professionals. Conducts friendly tournaments and All India College-level competitions like the All India Chess League (AICL), and encourages participation in inter-college and national events.\n\nINSTAGRAM → @DKCC_IITB\nRubik's Club\n\nA vibrant space for cubing enthusiasts at IIT Bombay. Promotes speedcubing and puzzle-solving through competitions and workshops. Nurtures problem-solving skills across 2×2, NxN, and complex twisty puzzles — something for every puzzle lover.\n\nINSTAGRAM → @RUBIKSCLUB_IITB\n§ 03\n · EVENTS\nThe fixtures.\n\nSix tournaments. Tap a headline to read the full brief.\n\nN° 01\nInstitute Chess Open (Rapid)\n\nA rapid-format open chess tournament open to all campus residents. The Institute Chess Open is one of the highest-participation fixtures on the board games calendar, drawing players across all rating ranges in a fast-paced, competitive format.\n\nCONTINUE READING →\nN° 02\nInstitute Chess Championship\n\nThe flagship classical-format chess tournament of IIT Bombay, recognising the strongest chess player on campus. Run over multiple rounds with standard time controls, the Championship is the most prestigious individual title in institute chess.\n\nCONTINUE READING →\nN° 03\nInstitute Chess League\n\nA league-format chess tournament ensuring every registered player competes in multiple matches across the semester. The league structure rewards consistency and depth, making it one of the most competitive fixtures in the board games programme.\n\nCONTINUE READING →\nN° 04\nChess General Championship\n\nThe inter-hostel chess general championship, where hostels field teams in a competitive bracket. Points contribute directly to the overall GC standings, making every match a high-stakes encounter for hostel pride.\n\nCONTINUE READING →\nN° 05\nChess: PG Mania\n\nA dedicated chess tournament for post-graduate students, running alongside the main GC season. PG Mania gives PG residents a focused competitive fixture and contributes to the PG General Championship standings.\n\nCONTINUE READING →\nN° 06\nCarrom General Championship\n\nThe inter-hostel carrom general championship — one of the most hotly contested indoor sport fixtures on campus. Hostels field players in singles and doubles categories, with the competition drawing large crowds to the Board Games Room.\n\nCONTINUE READING →\nFIG. B\nINSTITUTE CHESS CHAMPIONSHIP — ROUND IN PROGRESS.\n§ 04\n · ACHIEVEMENTS\nThe record.\n§ 05\n · CONTACT\nGet in touch.\n\nVarad Walde\n\nINSTITUTE BOARD GAMES SECRETARY\n\n+91 77220 97837\n\n§ 06\n · GALLERY\nFrom the room.\nFIG. 01 / 14\nBOARD GAMES · NEW SAC\n←\n→\n§ 07\n · LOCATION\nFind us.\n\nNew SAC · 2nd Floor · IITB New Gymkhana",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7538.855698547374!2d72.90781494213336!3d19.132740178333854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e0!3m2!1sen!2sin!4v1719953908712!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nG\nIIT BOMBAY BOARD GAMES / NEW SAC · 2ND FLOOR\nCHESS · CARROM · POOL · CUBING\n365 DAYS INDOORS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 05\n§\nCHESS · CARROM · POOL · CUBING\nBoard Games\nat IIT Bombay.\n\nInstitute Board Games caters to all who want to learn any kind of board game. With a growing culture of Chess, Carrom, and Pool on campus, we also conduct events for Snooker, Rubik's Cube, and Foosball. Being fully indoors, we have an opportunity to serve students all 365 days. Board Games is not for the lethargic — it is for the enthusiastic. Come be a part of Institute Board Games.\n\nTABLES\n1\nPool · Snooker · Foosball\nCLUBS\n2\nDKCC · Rubik's Club\nFIXTURES\n2\nAnnual events\nOPEN\n365\nDays a year · Indoors\n§ 01\n · FACILITIES\nWhat's on offer.\n\nNew SAC · 2nd Floor · All year round.\n\nPool & Snooker\n1 pool table and 1 snooker table in the Board Games Room, New SAC 2nd Floor.\nOpen to all campus residents — no prior booking required during general hours.\nCarrom & Chess\nMultiple carrom boards and chess sets available for drop-in play.\nRegular training and practice sessions facilitated by the Dark Knight Chess Club.\nFoosball & More\n1 foosball table for casual and competitive play.\nRubik's Cube puzzles — 2×2 through NxN — available via the Rubik's Club.\nBoard Games Room\nLocated on the 2nd Floor of the New SAC — fully indoors, available 365 days a year.\nHosts all institute-level board games events, workshops, and club activities.\nFIG. A\nTHE BOARD GAMES ROOM — NEW SAC, 2ND FLOOR.\n§ 02\n · OUR CLUBS\nThe community.\n\nTwo clubs. One home.\n\nDark Knight Chess Club (DKCC)\n\nIIT Bombay's official student-run chess community. Brings together enthusiasts across all skill levels — from casual players to rated professionals. Conducts friendly tournaments and All India College-level competitions like the All India Chess League (AICL), and encourages participation in inter-college and national events.\n\nINSTAGRAM → @DKCC_IITB\nRubik's Club\n\nA vibrant space for cubing enthusiasts at IIT Bombay. Promotes speedcubing and puzzle-solving through competitions and workshops. Nurtures problem-solving skills across 2×2, NxN, and complex twisty puzzles — something for every puzzle lover.\n\nINSTAGRAM → @RUBIKSCLUB_IITB\n§ 03\n · EVENTS\nThe fixtures.\n\nSix tournaments. Tap a headline to read the full brief.\n\nN° 01\nInstitute Chess Open (Rapid)\n\nA rapid-format open chess tournament open to all campus residents. The Institute Chess Open is one of the highest-participation fixtures on the board games calendar, drawing players across all rating ranges in a fast-paced, competitive format.\n\nCONTINUE READING →\nN° 02\nInstitute Chess Championship\n\nThe flagship classical-format chess tournament of IIT Bombay, recognising the strongest chess player on campus. Run over multiple rounds with standard time controls, the Championship is the most prestigious individual title in institute chess.\n\nCONTINUE READING →\nN° 03\nInstitute Chess League\n\nA league-format chess tournament ensuring every registered player competes in multiple matches across the semester. The league structure rewards consistency and depth, making it one of the most competitive fixtures in the board games programme.\n\nCONTINUE READING →\nN° 04\nChess General Championship\n\nThe inter-hostel chess general championship, where hostels field teams in a competitive bracket. Points contribute directly to the overall GC standings, making every match a high-stakes encounter for hostel pride.\n\nCONTINUE READING →\nN° 05\nChess: PG Mania\n\nA dedicated chess tournament for post-graduate students, running alongside the main GC season. PG Mania gives PG residents a focused competitive fixture and contributes to the PG General Championship standings.\n\nCONTINUE READING →\nN° 06\nCarrom General Championship\n\nThe inter-hostel carrom general championship — one of the most hotly contested indoor sport fixtures on campus. Hostels field players in singles and doubles categories, with the competition drawing large crowds to the Board Games Room.\n\nCONTINUE READING →\nFIG. B\nINSTITUTE CHESS CHAMPIONSHIP — ROUND IN PROGRESS.\n§ 04\n · ACHIEVEMENTS\nThe record.\n§ 05\n · CONTACT\nGet in touch.\n\nVarad Walde\n\nINSTITUTE BOARD GAMES SECRETARY\n\n+91 77220 97837\n\n§ 06\n · GALLERY\nFrom the room.\nFIG. 01 / 14\nBOARD GAMES · NEW SAC\n←\n→\n§ 07\n · LOCATION\nFind us.\n\nNew SAC · 2nd Floor · IITB New Gymkhana\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/boardgames",
+  "captured_at": "2026-10-18T15:27:31.287335+00:00"
+}

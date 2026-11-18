@@ -1,0 +1,343 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Hockey\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Hockey Ground"
+    },
+    {
+      "level": "H3",
+      "text": "Sticks & Balls"
+    },
+    {
+      "level": "H3",
+      "text": "Protective Gear"
+    },
+    {
+      "level": "H3",
+      "text": "Open to All Levels"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Hockey GC"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Hockey League"
+    },
+    {
+      "level": "H3",
+      "text": "Girls Camp"
+    },
+    {
+      "level": "H3",
+      "text": "Beginners Camp"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the ground."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Hockey",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.bd261ca458f7bc99dcf7.jpg"
+    },
+    {
+      "alt": "Hockey Ground",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.3ffec3d1e3b34064887e.jpg"
+    },
+    {
+      "alt": "Sticks & Balls",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.bd261ca458f7bc99dcf7.jpg"
+    },
+    {
+      "alt": "Protective Gear",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.9b6c0d4d373f1dbd798d.jpg"
+    },
+    {
+      "alt": "Open to All Levels",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.ab97e4a379d59a55b8ea.jpg"
+    },
+    {
+      "alt": "Match day — the Gymkhana Grounds in full flow.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.9b6c0d4d373f1dbd798d.jpg"
+    },
+    {
+      "alt": "Hockey GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.3ffec3d1e3b34064887e.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.bd261ca458f7bc99dcf7.jpg"
+    },
+    {
+      "alt": "Institute Hockey League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.9b6c0d4d373f1dbd798d.jpg"
+    },
+    {
+      "alt": "Girls Camp",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.ab97e4a379d59a55b8ea.jpg"
+    },
+    {
+      "alt": "Beginners Camp",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.1602462e281529e00be7.jpg"
+    },
+    {
+      "alt": "Hockey GC — the season's most anticipated contest.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.1602462e281529e00be7.jpg"
+    },
+    {
+      "alt": "Khushal",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Khushal.d5fdb11e90ba52568ba0.jpg"
+    },
+    {
+      "alt": "Hockey gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.3ffec3d1e3b34064887e.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.3ffec3d1e3b34064887e.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.bd261ca458f7bc99dcf7.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.9b6c0d4d373f1dbd798d.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.ab97e4a379d59a55b8ea.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.1602462e281529e00be7.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "H\nIIT BOMBAY HOCKEY / GYMKHANA GROUNDS\nCOACH DR. HARISH\n3 INTER-IIT MEDALS IN A ROW\nPOWAI · IIT BOMBAY\nDOSSIER NO. 08\n§\nHOCKEY · GYMKHANA GROUNDS\nHockey\nat IIT Bombay.\n\nHockey is one of the most competitive and well-loved sports at IIT Bombay. With a dedicated ground and full equipment setup, it offers a great space for both casual play and serious competition. Under the guidance of coach Dr. Harish, the team has shown steady growth — winning Inter-IIT medals for three consecutive years, including silver in the last two editions and a bronze before that.\n\nINTER-IIT MEDALS\n1\nConsecutive years\nLAST TWO EDITIONS\nSilver\n+ Bronze before that\nFIXTURES\n2\nAnnual events\nCOACH\nDr. Harish\nYear-round training\n§ 01\n · FACILITIES\nWhat's on offer.\n\nGround · Full kit · Open to all levels.\n\nHockey Ground\nStandard, well-maintained hockey ground available for practice and competitive matches.\nLocated within the Gymkhana Grounds — central and accessible year-round.\nSticks & Balls\nHockey sticks, grips, and balls maintained and available for all squad members.\nEquipment suitable for both beginners and experienced players.\nProtective Gear\nShin pads, stockings, and a full goalie kit available for use.\nMedical kits, sprays, and medical tape on hand for player safety at all times.\nOpen to All Levels\nWhether you're a beginner or an experienced player, all equipment is available on campus.\nBeginners' camps and girls' camps run regularly to onboard new players.\nFIG. A\nMATCH DAY — THE GYMKHANA GROUNDS IN FULL FLOW.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nHockey GC\n\nScheduled towards the end of the season each year, the Hockey General Championship frequently turns out to be the Overall Championship decider. The event draws great participation, with students showing tremendous spirit as they learn and compete for hostel glory.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the academic curriculum for undergraduate students. Through selections, 30–40 students who opt for hockey are trained throughout the academic year, two days a week. NSO is the structured gateway for serious development in the sport at IITB.\n\nCONTINUE READING →\nN° 03\nInstitute Hockey League\n\nTop hockey enthusiasts from the institute, as well as alumni based in the city, participate in the IHL. It's a great opportunity to play alongside excellent players across the institute in an open format — a different experience from the hostel-restricted GC.\n\nCONTINUE READING →\nN° 04\nGirls Camp\n\nOpen to all girls in the institute who have an interest in hockey. Designed as a beginner's camp — no prior experience or prerequisite is required. An inclusive, welcoming entry point into the sport for women across campus.\n\nCONTINUE READING →\nN° 05\nBeginners Camp\n\nDesigned for students enthusiastic about joining the Inter-IIT practice or those who simply want to learn hockey from scratch. A week-long camp held on the hockey field or in the SAC outdoor facilities, depending on conditions during the monsoon season.\n\nCONTINUE READING →\nFIG. B\nHOCKEY GC — THE SEASON'S MOST ANTICIPATED CONTEST.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nArnav Ashish Deshmukh\n\nINSTITUTE HOCKEY SECRETARY\n\n+91 75079 77922\n\n§ 05\n · GALLERY\nFrom the ground.\nFIG. 01 / 05\nHOCKEY · GYMKHANA GROUNDS\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nGymkhana Grounds · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3881728360093!2d72.90822443404429!3d19.134478500000018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b9b74d4b5f75%3A0xfbea904fa3f2af3!2sGymkhana%20Grounds!5e0!3m2!1sen!2sin!4v1720442540019!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nH\nIIT BOMBAY HOCKEY / GYMKHANA GROUNDS\nCOACH DR. HARISH\n3 INTER-IIT MEDALS IN A ROW\nPOWAI · IIT BOMBAY\nDOSSIER NO. 08\n§\nHOCKEY · GYMKHANA GROUNDS\nHockey\nat IIT Bombay.\n\nHockey is one of the most competitive and well-loved sports at IIT Bombay. With a dedicated ground and full equipment setup, it offers a great space for both casual play and serious competition. Under the guidance of coach Dr. Harish, the team has shown steady growth — winning Inter-IIT medals for three consecutive years, including silver in the last two editions and a bronze before that.\n\nINTER-IIT MEDALS\n1\nConsecutive years\nLAST TWO EDITIONS\nSilver\n+ Bronze before that\nFIXTURES\n2\nAnnual events\nCOACH\nDr. Harish\nYear-round training\n§ 01\n · FACILITIES\nWhat's on offer.\n\nGround · Full kit · Open to all levels.\n\nHockey Ground\nStandard, well-maintained hockey ground available for practice and competitive matches.\nLocated within the Gymkhana Grounds — central and accessible year-round.\nSticks & Balls\nHockey sticks, grips, and balls maintained and available for all squad members.\nEquipment suitable for both beginners and experienced players.\nProtective Gear\nShin pads, stockings, and a full goalie kit available for use.\nMedical kits, sprays, and medical tape on hand for player safety at all times.\nOpen to All Levels\nWhether you're a beginner or an experienced player, all equipment is available on campus.\nBeginners' camps and girls' camps run regularly to onboard new players.\nFIG. A\nMATCH DAY — THE GYMKHANA GROUNDS IN FULL FLOW.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nHockey GC\n\nScheduled towards the end of the season each year, the Hockey General Championship frequently turns out to be the Overall Championship decider. The event draws great participation, with students showing tremendous spirit as they learn and compete for hostel glory.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the academic curriculum for undergraduate students. Through selections, 30–40 students who opt for hockey are trained throughout the academic year, two days a week. NSO is the structured gateway for serious development in the sport at IITB.\n\nCONTINUE READING →\nN° 03\nInstitute Hockey League\n\nTop hockey enthusiasts from the institute, as well as alumni based in the city, participate in the IHL. It's a great opportunity to play alongside excellent players across the institute in an open format — a different experience from the hostel-restricted GC.\n\nCONTINUE READING →\nN° 04\nGirls Camp\n\nOpen to all girls in the institute who have an interest in hockey. Designed as a beginner's camp — no prior experience or prerequisite is required. An inclusive, welcoming entry point into the sport for women across campus.\n\nCONTINUE READING →\nN° 05\nBeginners Camp\n\nDesigned for students enthusiastic about joining the Inter-IIT practice or those who simply want to learn hockey from scratch. A week-long camp held on the hockey field or in the SAC outdoor facilities, depending on conditions during the monsoon season.\n\nCONTINUE READING →\nFIG. B\nHOCKEY GC — THE SEASON'S MOST ANTICIPATED CONTEST.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nArnav Ashish Deshmukh\n\nINSTITUTE HOCKEY SECRETARY\n\n+91 75079 77922\n\n§ 05\n · GALLERY\nFrom the ground.\nFIG. 01 / 05\nHOCKEY · GYMKHANA GROUNDS\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nGymkhana Grounds · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/hockey",
+  "captured_at": "2026-10-18T15:27:32.697213+00:00"
+}

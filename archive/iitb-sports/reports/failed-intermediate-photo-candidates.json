@@ -1,0 +1,989 @@
+[
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Divakar.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Divakar.jpeg",
+    "captured_at": "2026-10-18T15:28:55.905998+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Hemant.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Hemant.jpeg",
+    "captured_at": "2026-10-18T15:28:55.911007+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Shrutika.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Shrutika.jpeg",
+    "captured_at": "2026-10-18T15:28:55.924418+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Sumit.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Sumit.jpeg",
+    "captured_at": "2026-10-18T15:28:55.931496+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Tansy.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aavhan/Tansy.jpeg",
+    "captured_at": "2026-10-18T15:28:56.379099+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Achirangshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Achirangshu.jpeg",
+    "captured_at": "2026-10-18T15:28:56.383901+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Ashutosh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Ashutosh.jpeg",
+    "captured_at": "2026-10-18T15:28:56.384962+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Athrav.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Athrav.jpeg",
+    "captured_at": "2026-10-18T15:28:56.398549+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Karthikeyan.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Karthikeyan.jpeg",
+    "captured_at": "2026-10-18T15:28:56.839001+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Kaushal.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Kaushal.jpeg",
+    "captured_at": "2026-10-18T15:28:56.847501+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Muskaan.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Muskaan.jpeg",
+    "captured_at": "2026-10-18T15:28:56.860375+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Saatwik.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Saatwik.jpeg",
+    "captured_at": "2026-10-18T15:28:56.874931+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Shashank.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Shashank.jpeg",
+    "captured_at": "2026-10-18T15:28:57.318041+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Vedant.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Aquatics/Vedant.jpeg",
+    "captured_at": "2026-10-18T15:28:57.326448+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Amit.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Amit.jpeg",
+    "captured_at": "2026-10-18T15:28:57.327561+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Kamlesh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Kamlesh.jpeg",
+    "captured_at": "2026-10-18T15:28:57.351129+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Mahesh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Mahesh.jpeg",
+    "captured_at": "2026-10-18T15:28:57.791191+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Mohsin.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Mohsin.jpeg",
+    "captured_at": "2026-10-18T15:28:57.792652+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Palak.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Palak.jpeg",
+    "captured_at": "2026-10-18T15:28:57.793499+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Raghav.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Raghav.jpeg",
+    "captured_at": "2026-10-18T15:28:57.812506+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Raj.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Raj.jpeg",
+    "captured_at": "2026-10-18T15:28:58.258932+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Raunak.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Raunak.jpeg",
+    "captured_at": "2026-10-18T15:28:58.263619+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Sukesha.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Sukesha.jpeg",
+    "captured_at": "2026-10-18T15:28:58.264938+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Sunil.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Sunil.jpeg",
+    "captured_at": "2026-10-18T15:28:58.278678+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Vijyalaxmi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Athletics/Vijyalaxmi.jpeg",
+    "captured_at": "2026-10-18T15:28:58.726040+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Badminton/Hemant.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Badminton/Hemant.jpeg",
+    "captured_at": "2026-10-18T15:28:58.729678+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Badminton/Sharvanee.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Badminton/Sharvanee.jpeg",
+    "captured_at": "2026-10-18T15:28:58.763544+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Abhishek.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Abhishek.jpeg",
+    "captured_at": "2026-10-18T15:28:59.178661+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Aditya.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Aditya.jpeg",
+    "captured_at": "2026-10-18T15:28:59.198035+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Akash.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Akash.jpeg",
+    "captured_at": "2026-10-18T15:28:59.200862+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Anshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Anshu.jpeg",
+    "captured_at": "2026-10-18T15:28:59.228951+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Antara.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Antara.jpeg",
+    "captured_at": "2026-10-18T15:28:59.651425+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Harsh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Harsh.jpeg",
+    "captured_at": "2026-10-18T15:28:59.656362+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Muskaan.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Muskaan.jpeg",
+    "captured_at": "2026-10-18T15:28:59.658100+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Nidhi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Nidhi.jpeg",
+    "captured_at": "2026-10-18T15:28:59.707070+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Piyush.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Piyush.jpeg",
+    "captured_at": "2026-10-18T15:29:00.116181+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Praktik.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Praktik.jpeg",
+    "captured_at": "2026-10-18T15:29:00.125647+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Radhika.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Radhika.jpeg",
+    "captured_at": "2026-10-18T15:29:00.125827+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Sanah.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Sanah.jpeg",
+    "captured_at": "2026-10-18T15:29:00.201395+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Sudeshna.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Basketball/Sudeshna.jpeg",
+    "captured_at": "2026-10-18T15:29:00.578964+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Board%20Games/Advay.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Board Games/Advay.jpeg",
+    "captured_at": "2026-10-18T15:29:00.589504+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Board%20Games/Mahek.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Board Games/Mahek.jpeg",
+    "captured_at": "2026-10-18T15:29:00.599677+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Board%20Games/Shrikant.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Board Games/Shrikant.jpeg",
+    "captured_at": "2026-10-18T15:29:00.675483+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Achirangshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Achirangshu.jpeg",
+    "captured_at": "2026-10-18T15:29:01.041423+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Aditya.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Aditya.jpeg",
+    "captured_at": "2026-10-18T15:29:01.062054+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Akshara.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Akshara.jpeg",
+    "captured_at": "2026-10-18T15:29:01.070139+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Antara.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Antara.jpeg",
+    "captured_at": "2026-10-18T15:29:01.143768+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Bhavin.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Bhavin.jpeg",
+    "captured_at": "2026-10-18T15:29:01.516607+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Hiya.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Hiya.jpeg",
+    "captured_at": "2026-10-18T15:29:01.538167+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Priyanshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Priyanshu.jpeg",
+    "captured_at": "2026-10-18T15:29:01.603779+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Raghav.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Raghav.jpeg",
+    "captured_at": "2026-10-18T15:29:01.730416+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Rohit.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Council/Rohit.jpeg",
+    "captured_at": "2026-10-18T15:29:01.993026+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Aamir.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Aamir.jpeg",
+    "captured_at": "2026-10-18T15:29:02.024728+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Anvesh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Anvesh.jpeg",
+    "captured_at": "2026-10-18T15:29:02.065599+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Ayush.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Ayush.jpeg",
+    "captured_at": "2026-10-18T15:29:02.203003+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Deep.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Deep.jpeg",
+    "captured_at": "2026-10-18T15:29:02.459021+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Dhruv.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Dhruv.jpeg",
+    "captured_at": "2026-10-18T15:29:02.494730+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Gaurav.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Gaurav.jpeg",
+    "captured_at": "2026-10-18T15:29:02.535200+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Harsh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Harsh.jpeg",
+    "captured_at": "2026-10-18T15:29:02.677380+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Himanshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Himanshu.jpeg",
+    "captured_at": "2026-10-18T15:29:02.919665+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Rajvardhan.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Rajvardhan.jpeg",
+    "captured_at": "2026-10-18T15:29:02.966678+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Ram.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Ram.jpeg",
+    "captured_at": "2026-10-18T15:29:03.006177+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Swaraj.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Swaraj.jpeg",
+    "captured_at": "2026-10-18T15:29:03.142063+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Tanishq.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Tanishq.jpeg",
+    "captured_at": "2026-10-18T15:29:03.390089+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Uday.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Uday.jpeg",
+    "captured_at": "2026-10-18T15:29:03.427730+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Vishal.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Cricket/Vishal.jpeg",
+    "captured_at": "2026-10-18T15:29:03.464621+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Arya.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Arya.jpeg",
+    "captured_at": "2026-10-18T15:29:04.236482+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Gowshik.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Gowshik.jpeg",
+    "captured_at": "2026-10-18T15:29:04.258690+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Rajnandani.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Rajnandani.jpeg",
+    "captured_at": "2026-10-18T15:29:04.284383+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Sachin.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Sachin.jpeg",
+    "captured_at": "2026-10-18T15:29:04.302349+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Sanket.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Sanket.jpeg",
+    "captured_at": "2026-10-18T15:29:04.719069+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Sofia.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Sofia.jpeg",
+    "captured_at": "2026-10-18T15:29:04.732894+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Tanmay.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Tanmay.jpeg",
+    "captured_at": "2026-10-18T15:29:04.755613+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Ujjwal.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Frisbee/Ujjwal.jpeg",
+    "captured_at": "2026-10-18T15:29:04.772323+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Ashutosh.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Ashutosh.jpeg",
+    "captured_at": "2026-10-18T15:29:05.191998+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Devendra.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Devendra.jpeg",
+    "captured_at": "2026-10-18T15:29:05.199258+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Divakar.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Divakar.jpeg",
+    "captured_at": "2026-10-18T15:29:05.230227+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Divyraj.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Divyraj.jpeg",
+    "captured_at": "2026-10-18T15:29:05.234243+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Jayakrishnan.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Jayakrishnan.jpeg",
+    "captured_at": "2026-10-18T15:29:05.661585+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Jayank.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Jayank.jpeg",
+    "captured_at": "2026-10-18T15:29:05.662386+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Kartik.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Kartik.jpeg",
+    "captured_at": "2026-10-18T15:29:05.715101+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Mohd.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Mohd.jpeg",
+    "captured_at": "2026-10-18T15:29:05.718684+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Suranjana.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Hockey/Suranjana.jpeg",
+    "captured_at": "2026-10-18T15:29:06.136677+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Anandhita.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Anandhita.jpeg",
+    "captured_at": "2026-10-18T15:29:06.137936+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Ankit.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Ankit.jpeg",
+    "captured_at": "2026-10-18T15:29:06.190424+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Anushka.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Anushka.jpeg",
+    "captured_at": "2026-10-18T15:29:06.198084+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Khushbu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Khushbu.jpeg",
+    "captured_at": "2026-10-18T15:29:06.609204+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Naveen.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Naveen.jpeg",
+    "captured_at": "2026-10-18T15:29:06.610508+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Nenavath.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Nenavath.jpeg",
+    "captured_at": "2026-10-18T15:29:06.640416+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Parshva.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Parshva.jpeg",
+    "captured_at": "2026-10-18T15:29:06.668824+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Prasanna.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Prasanna.jpeg",
+    "captured_at": "2026-10-18T15:29:07.072872+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Prem.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Prem.jpeg",
+    "captured_at": "2026-10-18T15:29:07.073059+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Prince.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Prince.jpeg",
+    "captured_at": "2026-10-18T15:29:07.107967+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Priyank.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Priyank.jpeg",
+    "captured_at": "2026-10-18T15:29:07.141858+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Priyanshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Priyanshu.jpeg",
+    "captured_at": "2026-10-18T15:29:07.532581+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Rahul.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Rahul.jpeg",
+    "captured_at": "2026-10-18T15:29:07.536943+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Riswana.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Riswana.jpeg",
+    "captured_at": "2026-10-18T15:29:07.580263+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Sai.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Sai.jpeg",
+    "captured_at": "2026-10-18T15:29:07.608171+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Saima.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Saima.jpeg",
+    "captured_at": "2026-10-18T15:29:07.999454+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Sanjana.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Sanjana.jpeg",
+    "captured_at": "2026-10-18T15:29:08.000283+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Sarthak.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Sarthak.jpeg",
+    "captured_at": "2026-10-18T15:29:08.053648+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Vaishnavi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Vaishnavi.jpeg",
+    "captured_at": "2026-10-18T15:29:08.062102+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Vijaylaxmi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Vijaylaxmi.jpeg",
+    "captured_at": "2026-10-18T15:29:08.471122+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Vikas.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Vikas.jpeg",
+    "captured_at": "2026-10-18T15:29:08.471285+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Vishal.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Vishal.jpeg",
+    "captured_at": "2026-10-18T15:29:08.524278+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian%20Games/Yashasree.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Indian Games/Yashasree.jpeg",
+    "captured_at": "2026-10-18T15:29:08.534600+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Lawn%20Tennis/Ashwajit.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Lawn Tennis/Ashwajit.jpeg",
+    "captured_at": "2026-10-18T15:29:08.938068+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Lawn%20Tennis/Kosmika.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Lawn Tennis/Kosmika.jpeg",
+    "captured_at": "2026-10-18T15:29:08.948537+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Lawn%20Tennis/Sarvada.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Lawn Tennis/Sarvada.jpeg",
+    "captured_at": "2026-10-18T15:29:08.980306+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Atharva.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Atharva.jpeg",
+    "captured_at": "2026-10-18T15:29:09.506292+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Bhavin.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Bhavin.jpeg",
+    "captured_at": "2026-10-18T15:29:09.550697+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Dhriti.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Dhriti.jpeg",
+    "captured_at": "2026-10-18T15:29:09.615351+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Dhruv.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Dhruv.jpeg",
+    "captured_at": "2026-10-18T15:29:09.661272+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Leena.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Leena.jpeg",
+    "captured_at": "2026-10-18T15:29:09.980613+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Rohan.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Rohan.jpeg",
+    "captured_at": "2026-10-18T15:29:10.094400+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Shubham.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Shubham.jpeg",
+    "captured_at": "2026-10-18T15:29:10.112565+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Shubhi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Shubhi.jpeg",
+    "captured_at": "2026-10-18T15:29:10.130216+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table%20Tennis/Soham.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Table Tennis/Soham.jpeg",
+    "captured_at": "2026-10-18T15:29:10.449844+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Abhay.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Abhay.jpeg",
+    "captured_at": "2026-10-18T15:29:10.557754+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Ahmad.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Ahmad.jpeg",
+    "captured_at": "2026-10-18T15:29:10.582928+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Akshara.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Akshara.jpeg",
+    "captured_at": "2026-10-18T15:29:10.585848+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Anish.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Anish.jpeg",
+    "captured_at": "2026-10-18T15:29:10.905192+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Arun.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Arun.jpeg",
+    "captured_at": "2026-10-18T15:29:11.020349+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Ashritha.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Ashritha.jpeg",
+    "captured_at": "2026-10-18T15:29:11.063539+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Binay.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Binay.jpeg",
+    "captured_at": "2026-10-18T15:29:11.064315+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Deeksha.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Deeksha.jpeg",
+    "captured_at": "2026-10-18T15:29:11.383260+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Himanshu.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Himanshu.jpeg",
+    "captured_at": "2026-10-18T15:29:11.485389+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Hiya.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Hiya.jpeg",
+    "captured_at": "2026-10-18T15:29:11.529758+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Kajal.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Kajal.jpeg",
+    "captured_at": "2026-10-18T15:29:11.541436+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Manasvi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Manasvi.jpeg",
+    "captured_at": "2026-10-18T15:29:11.856285+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Mohammad.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Mohammad.jpeg",
+    "captured_at": "2026-10-18T15:29:11.944823+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Neeraj.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Neeraj.jpeg",
+    "captured_at": "2026-10-18T15:29:12.000407+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Paridhi.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Paridhi.jpeg",
+    "captured_at": "2026-10-18T15:29:12.001865+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Priya.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Priya.jpeg",
+    "captured_at": "2026-10-18T15:29:12.327708+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Raaga.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Raaga.jpeg",
+    "captured_at": "2026-10-18T15:29:12.414530+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Raidaw.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Raidaw.jpeg",
+    "captured_at": "2026-10-18T15:29:12.459660+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Sahil.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Sahil.jpeg",
+    "captured_at": "2026-10-18T15:29:12.463848+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Shraddha.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Shraddha.jpeg",
+    "captured_at": "2026-10-18T15:29:12.797748+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Sunil.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Sunil.jpeg",
+    "captured_at": "2026-10-18T15:29:12.873698+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Tamanna.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Volleyball/Tamanna.jpeg",
+    "captured_at": "2026-10-18T15:29:12.922526+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Weightlifting/Anish.jpeg",
+    "path": "mirror/isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets/Weightlifting/Anish.jpeg",
+    "captured_at": "2026-10-18T15:29:13.201276+00:00",
+    "status": "error",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

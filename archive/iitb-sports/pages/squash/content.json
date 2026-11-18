@@ -1,0 +1,325 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Squash\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Three Courts, New SAC"
+    },
+    {
+      "level": "H3",
+      "text": "Expansion Underway"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Camps"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Squash GC"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Squash League"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Squash Open"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the court."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Squash",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash1.c27b0a1f95684c859c9c.jpg"
+    },
+    {
+      "alt": "Three Courts, New SAC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash3.2b06d7c95d6b8ab029c7.jpg"
+    },
+    {
+      "alt": "Expansion Underway",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash4.917b66b69da267f8d5fe.jpg"
+    },
+    {
+      "alt": "On court at the New SAC facility.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash2.940fbd788d5f0b31cc64.jpg"
+    },
+    {
+      "alt": "Camps",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash1.c27b0a1f95684c859c9c.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash2.940fbd788d5f0b31cc64.jpg"
+    },
+    {
+      "alt": "Squash GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash3.2b06d7c95d6b8ab029c7.jpg"
+    },
+    {
+      "alt": "Institute Squash League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash4.917b66b69da267f8d5fe.jpg"
+    },
+    {
+      "alt": "Institute Squash Open",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash5.be5e123bf99e5ab7fbce.jpg"
+    },
+    {
+      "alt": "Squash GC — one of the season's marquee fixtures.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash5.be5e123bf99e5ab7fbce.jpg"
+    },
+    {
+      "alt": "Manthan Goyal",
+      "loaded": true,
+      "src": "data:image/png;base64,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"
+    },
+    {
+      "alt": "Squash gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash1.c27b0a1f95684c859c9c.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash1.c27b0a1f95684c859c9c.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash2.940fbd788d5f0b31cc64.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash3.2b06d7c95d6b8ab029c7.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash4.917b66b69da267f8d5fe.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/squash5.be5e123bf99e5ab7fbce.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "SQ\nIIT BOMBAY SQUASH / NEW SAC\n3 COURTS, NEW SAC\n1 MORE UNDER CONSTRUCTION\nPOWAI · IIT BOMBAY\nDOSSIER NO. 10\n§\nSQUASH · NEW SAC\nSquash\nat IIT Bombay.\n\nSquash at IIT Bombay is a fast-paced and exhilarating sport that blends strategy, speed, and stamina. With a recently renovated court facility that meets top standards, it has quickly gained popularity among students seeking both recreational fun and competitive thrill. Under the guidance of passionate coaches and driven student captains, the sport has seen consistent growth, attracting players across all years and departments — and the team proudly represents the institute at the Inter-IIT Sports Meet.\n\nCOURTS\n1\n+ 1 under construction\nANNUAL EVENTS\n2\nCamps, GC & leagues\nREPRESENTS IITB AT\nInter-IIT\nSports Meet\nSECRETARY\nManthan\nInstitute Squash Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nNew SAC courts · Renovated · Growing.\n\nThree Courts, New SAC\nThree squash courts located in the New SAC (Student Activity Centre), open for training and recreational play.\nRecently renovated to meet top standards for competitive play.\nExpansion Underway\nA fourth squash court is currently under construction.\nBuilt to accommodate the growing student interest in the sport.\nFIG. A\nON COURT AT THE NEW SAC FACILITY.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nCamps\n\nEvery summer, by popular demand, our coach, Ritesh Guchhait, holds camps at the beginners, intermediate and advanced levels, with separate beginners’ camps for children, ladies, students and staff. Camps run for 15–20 days, ending in a demonstration for parents and families and the handing out of certificates. Camps are also held for IIT students during the semester, including intermediate training in strokes such as breaststroke, butterfly and backstroke.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo training. Squash is a much sought-after option, and NSO training functions two evenings a week throughout the academic year.\n\nCONTINUE READING →\nN° 03\nSquash GC\n\nThe Squash General Championship is one of the marquee hostel events of the season, drawing enthusiastic participation from players across all years and departments. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nInstitute Squash League\n\nAn open-format league bringing together the institute’s top squash talent for a season-long competitive circuit. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nInstitute Squash Open\n\nAn open tournament for all skill levels, from first-time players to seasoned competitors. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nSQUASH GC — ONE OF THE SEASON'S MARQUEE FIXTURES.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nJay Motwani\n\nINSTITUTE SQUASH SECRETARY\n\n+91 77779 03995\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 05\nSQUASH · NEW SAC\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nNew SAC · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.4020806480025!2d72.9093683747526!3d19.133869182082652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e0!3m2!1sen!2sin!4v1721551340933!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nSQ\nIIT BOMBAY SQUASH / NEW SAC\n3 COURTS, NEW SAC\n1 MORE UNDER CONSTRUCTION\nPOWAI · IIT BOMBAY\nDOSSIER NO. 10\n§\nSQUASH · NEW SAC\nSquash\nat IIT Bombay.\n\nSquash at IIT Bombay is a fast-paced and exhilarating sport that blends strategy, speed, and stamina. With a recently renovated court facility that meets top standards, it has quickly gained popularity among students seeking both recreational fun and competitive thrill. Under the guidance of passionate coaches and driven student captains, the sport has seen consistent growth, attracting players across all years and departments — and the team proudly represents the institute at the Inter-IIT Sports Meet.\n\nCOURTS\n1\n+ 1 under construction\nANNUAL EVENTS\n2\nCamps, GC & leagues\nREPRESENTS IITB AT\nInter-IIT\nSports Meet\nSECRETARY\nManthan\nInstitute Squash Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nNew SAC courts · Renovated · Growing.\n\nThree Courts, New SAC\nThree squash courts located in the New SAC (Student Activity Centre), open for training and recreational play.\nRecently renovated to meet top standards for competitive play.\nExpansion Underway\nA fourth squash court is currently under construction.\nBuilt to accommodate the growing student interest in the sport.\nFIG. A\nON COURT AT THE NEW SAC FACILITY.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nCamps\n\nEvery summer, by popular demand, our coach, Ritesh Guchhait, holds camps at the beginners, intermediate and advanced levels, with separate beginners’ camps for children, ladies, students and staff. Camps run for 15–20 days, ending in a demonstration for parents and families and the handing out of certificates. Camps are also held for IIT students during the semester, including intermediate training in strokes such as breaststroke, butterfly and backstroke.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo training. Squash is a much sought-after option, and NSO training functions two evenings a week throughout the academic year.\n\nCONTINUE READING →\nN° 03\nSquash GC\n\nThe Squash General Championship is one of the marquee hostel events of the season, drawing enthusiastic participation from players across all years and departments. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nInstitute Squash League\n\nAn open-format league bringing together the institute’s top squash talent for a season-long competitive circuit. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nInstitute Squash Open\n\nAn open tournament for all skill levels, from first-time players to seasoned competitors. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nSQUASH GC — ONE OF THE SEASON'S MARQUEE FIXTURES.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nJay Motwani\n\nINSTITUTE SQUASH SECRETARY\n\n+91 77779 03995\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 05\nSQUASH · NEW SAC\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nNew SAC · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/squash",
+  "captured_at": "2026-10-18T15:27:45.826419+00:00"
+}

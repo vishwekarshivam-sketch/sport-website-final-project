@@ -1,0 +1,345 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Weightlifting\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Weightlifting Room"
+    },
+    {
+      "level": "H3",
+      "text": "Coaching"
+    },
+    {
+      "level": "H3",
+      "text": "Machines"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Weightlifting GC"
+    },
+    {
+      "level": "H3",
+      "text": "Arm Wrestling Open"
+    },
+    {
+      "level": "H3",
+      "text": "Calisthenics Open"
+    },
+    {
+      "level": "H3",
+      "text": "Bodybuilding Open"
+    },
+    {
+      "level": "H3",
+      "text": "Crossfit Challenge"
+    },
+    {
+      "level": "H3",
+      "text": "Calisthenics GC"
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the room."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Weightlifting",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.65e8c86097d33ec5b9a5.jpg"
+    },
+    {
+      "alt": "Weightlifting Room",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.7d636afb6783b567ec49.jpg"
+    },
+    {
+      "alt": "Coaching",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.65e8c86097d33ec5b9a5.jpg"
+    },
+    {
+      "alt": "Machines",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.b385c71f64a862c57c7a.jpg"
+    },
+    {
+      "alt": "Training under Coach Vijay Sonigra's watch.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.92abf170e602c9be637e.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.65e8c86097d33ec5b9a5.jpg"
+    },
+    {
+      "alt": "Weightlifting GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.b385c71f64a862c57c7a.jpg"
+    },
+    {
+      "alt": "Arm Wrestling Open",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.7d636afb6783b567ec49.jpg"
+    },
+    {
+      "alt": "Calisthenics Open",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.92abf170e602c9be637e.jpg"
+    },
+    {
+      "alt": "Bodybuilding Open",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.34e0ea9300585e08fbba.jpg"
+    },
+    {
+      "alt": "Crossfit Challenge",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p6.240ebe685909d74fcf99.jpg"
+    },
+    {
+      "alt": "Calisthenics GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.65e8c86097d33ec5b9a5.jpg"
+    },
+    {
+      "alt": "Weightlifting GC — the season's marquee meet.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.34e0ea9300585e08fbba.jpg"
+    },
+    {
+      "alt": "Prateek Behera",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Prateek.1b347d3c56c836311951.jpg"
+    },
+    {
+      "alt": "Weightlifting gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.65e8c86097d33ec5b9a5.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.65e8c86097d33ec5b9a5.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.b385c71f64a862c57c7a.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.7d636afb6783b567ec49.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.92abf170e602c9be637e.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.34e0ea9300585e08fbba.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p6.240ebe685909d74fcf99.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "WL\nIIT BOMBAY WEIGHTLIFTING / STUDENTS' ACTIVITY CENTRE\nCOACH VIJAY SONIGRA\n20+ YEARS COACHING THE CLUB\nPOWAI · IIT BOMBAY\nDOSSIER NO. 14\n§\nWEIGHTLIFTING · STUDENTS' ACTIVITY CENTRE\nWeightlifting\nat IIT Bombay.\n\nWeightlifting is a strength sport in which athletes attempt to lift heavy weights mounted on barbells in a series of highly technical movements — an Olympic discipline built on two lifts, the snatch and the clean and jerk, demanding explosive power, flexibility, balance, coordination, and mental focus. Led by Vijay Sonigra, a retired Nationals player and former Maharashtra Weightlifting Team coach, the club is a community of hardworking athletes united by one goal: getting stronger, pushing limits, and breaking records.\n\nCOACHING\n6+\nYears under Vijay Sonigra\nANNUAL EVENTS\n2\nGCs, opens & challenges\nCORE LIFTS\nSnatch · C&J\nOlympic weightlifting\nSECRETARY\nPrateek\nInstitute Weightlifting Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nState-level rods · Full machine stack · Coached daily.\n\nWeightlifting Room\nMany Nelco weightlifting rods up to state-level standards, plus powerlifting rods and platforms for training.\nFun fact: the room holds more weight plates than the Old SAC and New SAC gyms combined.\nCoaching\nA dedicated coach is present from 6 PM – 9 PM on weekdays.\nLed by Vijay Sonigra, a retired Nationals weightlifter and former Maharashtra Weightlifting Team coach, with 20+ years coaching the club.\nMachines\nLat pulldown, leg extension/curl, and leg press machines.\nForearm machine, hyperextension machine, and other accessory equipment.\nFIG. A\nTRAINING UNDER COACH VIJAY SONIGRA'S WATCH.\n§ 02\n · EVENTS\nThe fixtures.\n\nSeven events. Tap a headline to read the full brief.\n\nN° 01\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo structured training. Weightlifting sessions run through the semester under Vijay Sonigra’s coaching, covering the snatch, the clean and jerk, and foundational strength work.\n\nCONTINUE READING →\nN° 02\nWeightlifting GC\n\nThe Weightlifting General Championship pits hostel athletes against each other across weight classes in the snatch and clean and jerk. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 03\nArm Wrestling Open\n\nAn open tournament testing raw strength and technique across weight categories, welcoming competitors of all experience levels. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nCalisthenics Open\n\nAn open competition showcasing bodyweight strength, control, and skill work. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nBodybuilding Open\n\nAn open stage competition judged on physique, conditioning, and presentation. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 06\nCrossfit Challenge\n\nA high-intensity, mixed-modal event combining strength, conditioning, and endurance workouts. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 07\nCalisthenics GC\n\nThe Calisthenics General Championship brings hostel athletes together to compete in bodyweight strength and skill movements. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nWEIGHTLIFTING GC — THE SEASON'S MARQUEE MEET.\n§ 03\n · CONTACT\nGet in touch.\n\nSayam\n\nINSTITUTE WEIGHTLIFTING SECRETARY\n\n+91 77424 26328\n\n§ 04\n · GALLERY\nFrom the room.\nFIG. 01 / 06\nWEIGHTLIFTING · SAC\n←\n→\n§ 05\n · LOCATION\nFind us.\n\nStudents' Activity Centre · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.379737570415!2d72.91305249999999!3d19.134848050000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b809cdbb26f9%3A0x1bc7aa048f060162!2sStudents%20Activity%20Center!5e0!3m2!1sen!2sin!4v1722158615027!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nWL\nIIT BOMBAY WEIGHTLIFTING / STUDENTS' ACTIVITY CENTRE\nCOACH VIJAY SONIGRA\n20+ YEARS COACHING THE CLUB\nPOWAI · IIT BOMBAY\nDOSSIER NO. 14\n§\nWEIGHTLIFTING · STUDENTS' ACTIVITY CENTRE\nWeightlifting\nat IIT Bombay.\n\nWeightlifting is a strength sport in which athletes attempt to lift heavy weights mounted on barbells in a series of highly technical movements — an Olympic discipline built on two lifts, the snatch and the clean and jerk, demanding explosive power, flexibility, balance, coordination, and mental focus. Led by Vijay Sonigra, a retired Nationals player and former Maharashtra Weightlifting Team coach, the club is a community of hardworking athletes united by one goal: getting stronger, pushing limits, and breaking records.\n\nCOACHING\n6+\nYears under Vijay Sonigra\nANNUAL EVENTS\n2\nGCs, opens & challenges\nCORE LIFTS\nSnatch · C&J\nOlympic weightlifting\nSECRETARY\nPrateek\nInstitute Weightlifting Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nState-level rods · Full machine stack · Coached daily.\n\nWeightlifting Room\nMany Nelco weightlifting rods up to state-level standards, plus powerlifting rods and platforms for training.\nFun fact: the room holds more weight plates than the Old SAC and New SAC gyms combined.\nCoaching\nA dedicated coach is present from 6 PM – 9 PM on weekdays.\nLed by Vijay Sonigra, a retired Nationals weightlifter and former Maharashtra Weightlifting Team coach, with 20+ years coaching the club.\nMachines\nLat pulldown, leg extension/curl, and leg press machines.\nForearm machine, hyperextension machine, and other accessory equipment.\nFIG. A\nTRAINING UNDER COACH VIJAY SONIGRA'S WATCH.\n§ 02\n · EVENTS\nThe fixtures.\n\nSeven events. Tap a headline to read the full brief.\n\nN° 01\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo structured training. Weightlifting sessions run through the semester under Vijay Sonigra’s coaching, covering the snatch, the clean and jerk, and foundational strength work.\n\nCONTINUE READING →\nN° 02\nWeightlifting GC\n\nThe Weightlifting General Championship pits hostel athletes against each other across weight classes in the snatch and clean and jerk. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 03\nArm Wrestling Open\n\nAn open tournament testing raw strength and technique across weight categories, welcoming competitors of all experience levels. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nCalisthenics Open\n\nAn open competition showcasing bodyweight strength, control, and skill work. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nBodybuilding Open\n\nAn open stage competition judged on physique, conditioning, and presentation. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 06\nCrossfit Challenge\n\nA high-intensity, mixed-modal event combining strength, conditioning, and endurance workouts. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 07\nCalisthenics GC\n\nThe Calisthenics General Championship brings hostel athletes together to compete in bodyweight strength and skill movements. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nWEIGHTLIFTING GC — THE SEASON'S MARQUEE MEET.\n§ 03\n · CONTACT\nGet in touch.\n\nSayam\n\nINSTITUTE WEIGHTLIFTING SECRETARY\n\n+91 77424 26328\n\n§ 04\n · GALLERY\nFrom the room.\nFIG. 01 / 06\nWEIGHTLIFTING · SAC\n←\n→\n§ 05\n · LOCATION\nFind us.\n\nStudents' Activity Centre · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/weightlifting",
+  "captured_at": "2026-10-18T15:27:47.335798+00:00"
+}

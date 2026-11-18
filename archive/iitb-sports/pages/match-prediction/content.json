@@ -1,0 +1,169 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "New York Knicks"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "San Antonio Spurs"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "LOCK IN MY PREDICTION"
+    }
+  ],
+  "headings": [],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "KNICKS",
+      "loaded": false,
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg"
+    },
+    {
+      "alt": "SPURS",
+      "loaded": false,
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg"
+    },
+    {
+      "alt": "New York Knicks",
+      "loaded": false,
+      "src": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg"
+    },
+    {
+      "alt": "San Antonio Spurs",
+      "loaded": false,
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "KNICKS\nVS\nSPURS\nNBA FINALS 2026\nNBA FINALS 2026\nVS\nIITB Sports · Basketball\nNEW YORK KNICKS\nSAN ANTONIO SPURS\n50%\n0 predictions\n50%\nKNICKS\nSPURS\n● LIVE\nWHO WINS?\nNew York Knicks\nSan Antonio Spurs\nYOUR DETAILS\nSET THE PREDICTED SCORE\nKNICKS\npoints\n0\n200\n:\nSPURS\npoints\n0\n200\nLOCK IN MY PREDICTION\nLive · updates instantly",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nKNICKS\nVS\nSPURS\nNBA FINALS 2026\nNBA FINALS 2026\nVS\nIITB Sports · Basketball\nNEW YORK KNICKS\nSAN ANTONIO SPURS\n50%\n0 predictions\n50%\nKNICKS\nSPURS\n● LIVE\nWHO WINS?\nNew York Knicks\nSan Antonio Spurs\nYOUR DETAILS\nSET THE PREDICTED SCORE\nKNICKS\npoints\n0\n200\n:\nSPURS\npoints\n0\n200\nLOCK IN MY PREDICTION\nLive · updates instantly\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/match-prediction",
+  "captured_at": "2026-10-18T15:28:01.640598+00:00"
+}

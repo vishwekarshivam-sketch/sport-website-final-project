@@ -1,0 +1,88 @@
+{
+  "primitives": [
+    {
+      "material": "branch",
+      "attributes": {
+        "position": {
+          "offset": 0,
+          "count": 17673,
+          "type": "<f4"
+        },
+        "normal": {
+          "offset": 70692,
+          "count": 17673,
+          "type": "<f4"
+        },
+        "uv": {
+          "offset": 141384,
+          "count": 11782,
+          "type": "<f4"
+        },
+        "index": {
+          "offset": 188512,
+          "count": 16143,
+          "type": "<u4"
+        }
+      },
+      "triangles": 5381,
+      "sourceTriangles": 94814
+    },
+    {
+      "material": "leaf",
+      "attributes": {
+        "position": {
+          "offset": 253084,
+          "count": 363000,
+          "type": "<f4"
+        },
+        "normal": {
+          "offset": 1705084,
+          "count": 363000,
+          "type": "<f4"
+        },
+        "uv": {
+          "offset": 3157084,
+          "count": 242000,
+          "type": "<f4"
+        },
+        "index": {
+          "offset": 4125084,
+          "count": 181500,
+          "type": "<u4"
+        }
+      },
+      "triangles": 60500,
+      "sourceTriangles": 1939380
+    },
+    {
+      "material": "bark",
+      "attributes": {
+        "position": {
+          "offset": 4851084,
+          "count": 15903,
+          "type": "<f4"
+        },
+        "normal": {
+          "offset": 4914696,
+          "count": 15903,
+          "type": "<f4"
+        },
+        "uv": {
+          "offset": 4978308,
+          "count": 10602,
+          "type": "<f4"
+        },
+        "index": {
+          "offset": 5020716,
+          "count": 33840,
+          "type": "<u4"
+        }
+      },
+      "triangles": 11280,
+      "sourceTriangles": 28293
+    }
+  ],
+  "source": "https://polyhaven.com/a/tree_small_02",
+  "license": "CC0",
+  "height": 4.56
+}

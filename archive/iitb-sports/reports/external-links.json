@@ -1,0 +1,1853 @@
+[
+  {
+    "url": "http://localhost:8000",
+    "pages": [
+      "source/app/components/AdminPanel/AdminLogin.jsx",
+      "source/app/components/AdminPanel/BatchDetail.jsx",
+      "source/app/components/AdminPanel/ChairpersonDashboard.jsx",
+      "source/app/components/AdminPanel/DeanDashboard.jsx",
+      "source/app/components/AdminPanel/SecyDashboard.jsx",
+      "source/app/components/AdminPanel/SuperadminDashboard.jsx",
+      "source/app/components/Certificates/Certificatecard.jsx",
+      "source/app/components/Certificates/Certificatespage.jsx",
+      "source/app/components/Certificates/Loginmodal.jsx",
+      "source/app/components/Certificates/Verificationpage.jsx"
+    ]
+  },
+  {
+    "url": "http://www.w3.org/2000/svg",
+    "pages": [
+      "source/app/components/matchprediction/matchprediction.js"
+    ]
+  },
+  {
+    "url": "https://${AWS_CONFIG.bucketName}.s3.${AWS_CONFIG.region}.amazonaws.com/${cleanKey}",
+    "pages": [
+      "source/app/components/admin/AdminCourtManagement.js"
+    ]
+  },
+  {
+    "url": "https://assets.mixkit.co/active_storage/sfx/2571/2571-preview.mp3",
+    "pages": [
+      "source/app/components/Gc/GC.js"
+    ]
+  },
+  {
+    "url": "https://bit.ly/CRA-vitals",
+    "pages": [
+      "source/app/index.js"
+    ]
+  },
+  {
+    "url": "https://court-status-backend-node-production.up.railway.app",
+    "pages": [
+      "source/app/components/CourtStatus/CourtStatus.js",
+      "source/app/components/admin/AdminCourtManagement.js"
+    ]
+  },
+  {
+    "url": "https://docs.google.com/document/d/1PzsRNHQ4SHDt7LL77KNm9Mda_4z_HoqOnQwdc0UgysI/edit?tab=t.0#heading=h.x5e4q43qgafw",
+    "pages": [
+      "badmintonbooking",
+      "source/app/components/badminton-booking/BookingPage.js"
+    ]
+  },
+  {
+    "url": "https://docs.google.com/document/d/1_fEFMokJl8iC8Jt5ivA2x-5yqGFHtS5FlJNtMvUiKog/edit?addon_store&tab=t.0",
+    "pages": [
+      "source/app/components/turf-booking/BookingPage.js",
+      "turfbooking"
+    ]
+  },
+  {
+    "url": "https://drive.google.com/file/d/1gv23uTsDBd-QS8EaOUfsW43gJhvRJkU6/view?usp=sharing",
+    "pages": [
+      "source/app/components/Blogs/BlogPage.js"
+    ]
+  },
+  {
+    "url": "https://drive.google.com/file/d/1twotfmVllNxWtcDYXjA16BonTkSyOvX7/view?usp=sharing",
+    "pages": [
+      "source/app/components/Blogs/BlogPage.js"
+    ]
+  },
+  {
+    "url": "https://feedbackbackend-mlc8bmyp.b4a.run",
+    "pages": [
+      "source/app/components/Feedback/Feedback.js"
+    ]
+  },
+  {
+    "url": "https://iitb-gc-26-27-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "pages": [
+      "source/app/firebase.js"
+    ]
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1452626038306-9aae5e071dd3?w=800&q=80",
+    "pages": [
+      "source/app/components/Blogs/BlogPage.js"
+    ]
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1517927033932-b3d18e61fb3a?w=800&q=80",
+    "pages": [
+      "source/app/components/Blogs/BlogPage.js"
+    ]
+  },
+  {
+    "url": "https://images.unsplash.com/photo-1554068865-24cecd4e34b8?w=800&q=80",
+    "pages": [
+      "source/app/components/Blogs/BlogPage.js"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/assets",
+    "pages": [
+      "source/app/components/yearbook/yearbook.js"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0177422e-a100-4ce5-b4cf-3834544150cc.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/03a34467-8ec8-4966-bc7d-9ab022a08b53.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/043c7284-f597-46af-9059-95b72d6f1f36.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/05b204a8-d328-4040-b04e-af9a7a31ffa5.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0790f383-e8e6-4e72-870b-c7b63002c8cc.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/07e1bdf7-abbb-47dc-832e-920b839f4328.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/088cd332-d534-4b9d-a0a7-af5bce89a632.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0a018a27-72bb-4b6e-a1b6-51cab91d2483.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0ba847d1-2ab8-4e79-81f4-cdf07fddb7d9.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0c4dc4c8-9954-421c-aa5e-1077dd683232.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0c7334c9-d983-4a73-8bcd-6e4cec8ff187.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0d6433f5-8535-4970-adc6-1efe675d4747.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/0ffb4567-d8cc-46ca-81dc-d3620ba0cd05.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/112134bd-97c2-4e07-b5fa-8f21550fe6d8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1226dc82-4949-49b1-9bbf-e99354e9d6a4.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/125e9e1f-80bf-4b48-a4e1-11a255e2aefb.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/146a23f0-7883-4d39-a9c2-3ceb8292a31a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1492eea9-216e-4950-8e10-b733a62eb68e.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/14e3ff29-4b2f-4705-b488-3cc1e8b9edd6.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/153b565a-e044-436c-b988-3ec7f6d7c660.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/16d441e7-fe79-421f-b528-04cc3f42c0d1.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1727eb98-f09f-426d-9163-ddd50010f3c2.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/19386153-fb07-4cdd-a23c-4d7373f8c2f1.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1956e6ad-abe1-4411-a22c-e34b39bbdb2c.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1c1f1f18-b4cf-4c1d-8695-2c4fc4e3dc61.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1d964d3a-e6a3-47cd-9bd6-6c340c1b143d.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1df2064a-146b-4f30-a1e3-9691f033aaa3.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1e42e884-791b-4503-a96b-7cf21f5d6922.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/1f6bbe06-61a8-4bd1-95f9-940741405f8a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/20d1303a-5622-4027-81bf-6ef2f8add8d7.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/24106d9d-a02e-4d2f-81dc-abc8e332dbdc.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/24207052-358a-40a2-8d4f-1257412de15c.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/255c7ce3-cb3b-40f2-be49-195e27c16cbe.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/291bfbb1-cc75-4743-bae7-eda1a92813da.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/2a8bc3c9-b777-4bad-b668-1476e2415b36.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/2e8299b2-d03d-4d80-91c9-41cbd6444e99.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/2efafcd0-2a46-4b8f-a1ea-18ae74813bf6.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/2f91cfdb-4ca6-475c-b928-b9099d864474.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/30081396-ca3f-4fea-85e0-fd362a62eb19.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3020bdd9-1af7-40a9-941d-a2c8d73c6deb.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/30d500ad-9132-450f-b3f4-3cd5e53d2d9f.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/323d9dad-c13c-45fb-9637-4af4d53a328e.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/32ff38b3-271e-46c4-8f75-5d782b44d6f1.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/333f96c3-0dea-4827-85ca-88183e07bc9e.webp",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/335a0a7e-08cd-462a-893f-f9209b11e4f9.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3461aeae-55f5-445b-b038-2d5ed502c872.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/34f65ea1-81f8-40ac-8406-bfc1d0f13286.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/353eec75-e34c-41df-b7cf-a40c164a1191.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/35f134e7-5fd5-430a-ad21-b2f9b219d415.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/366f8788-424c-4519-8d17-81e70eb8e727.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/371f004a-5aed-4246-bfe8-0e1d98de8429.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/388a75d2-1dba-42c4-b5ec-37528e91ffe1.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/38f4e9ca-9a42-4996-ad69-4f8dc25b3167.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3bdf1645-e8c1-43c0-8fbd-0d87b1006cb6.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3ca680c3-a4ee-49b1-aa8c-602baec06f6c.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3d3f998a-639a-4dfb-8718-4422fade49db.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3d998056-e738-4d37-8c3a-042e4f02c4b1.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3e2b0bf2-2929-4814-85fa-efaec7d03364.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3e36735f-5e52-4af8-8ad7-f448188713f8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3effdd8e-d96b-4404-ba2b-bdb56ac4c1ca.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/3fe73925-78ac-49e2-a395-6d0f98aedd45.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/407eb39e-d48d-42f3-9c63-07bfc089ae8c.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/41b250f9-ddd5-4156-bab2-731c40d3ad2a.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/42cb6930-e24a-4273-b6f1-8b948a1c6d4c.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/48b454da-ae7d-490f-a471-c1a3b4ffffcd.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/49e48023-4735-4e57-a974-1acf47b85723.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/4b09f405-9cb3-4025-944c-f881ee4296b2.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/4df8e516-1fdd-43bc-b067-c01c588f5c3e.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/4f088b53-53d0-4e56-922d-010895e1b134.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/51a15ee4-c2c9-4864-a8a4-57af76dc6942.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/52c77c93-38a8-4d3a-a440-07595248d6b7.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/53d4c814-907c-4953-be7b-225a5f4cd2cc.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5502f2c9-359f-4fd6-beb4-117946db9256.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/559fded7-c8b6-4d8d-9707-70f514657a58.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5845a3b3-0080-450c-be23-6d33a68e4ac2.heic",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/58e73914-b8f5-4fc8-bfb1-20c4be02c3a9.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/59672441-98dd-47c2-bb61-8b5af577aa6f.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/598724e0-38ce-4fbe-be98-02016524253b.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/59e63ebd-5288-49f7-a7e7-5a831c82cabe.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5aa77f44-a53c-4919-b9f5-aea6179fe132.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5bb0fbe2-a189-4b26-9d16-a72cb7ce938a.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5bcd99bb-9aa6-485b-b0e4-86d0398fb7f9.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5caa406f-20b3-41bc-ac2d-cdcc674e2f07.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/5ec45dcf-a2df-40d9-8368-87f487e6ee3a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/61a7ec54-79ce-45d6-b657-0f1dfedb8e71.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/61f6d4d2-b02b-4ce7-a53f-0fed3b84ce34.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/62b2a777-c140-460d-a07e-577902df79d6.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6300115c-ecb9-402f-b8b3-759c54b20070.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/63777758-72c1-492c-90dd-e835c167ad95.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/637ebfde-7a68-4371-b3af-4a7a0eabc127.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6450ca8a-e598-4e93-9ccc-5262174baa39.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/68f8084b-0745-4567-9867-ac546d4251dd.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/696546ee-e979-4503-a79c-140de262d7fc.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6abae095-1da9-4ef7-9650-814b02ea0a96.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6b39de4a-d2c9-4cba-b827-f4c34d20e8e1.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6b6ab77d-1b6f-471d-a997-0757fef6483e.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6e145ed6-ea62-4b5b-ad19-5d996ecb2ebd.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6e1884b8-286c-4623-859e-9ce335a7b62f.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6f2509dd-ca53-4417-b849-7564be7d00b0.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/6fc406a7-4e75-48ff-87f8-c43cf4ee1b8e.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/70cd27a1-75e9-48e8-8ef5-226e8bf9e669.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/716e3c3c-4074-4356-ae4f-6f83c95795a0.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/747f97aa-dba5-4c95-969d-2d44ee2e4b97.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/7482c926-25d4-4b69-a39a-0fd6f521ca64.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/765ffdf0-6bb2-4534-be77-5ec5baea29e7.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/773394b0-9000-4709-9554-4ea33be2b8d9.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/77c024d1-c08d-44f0-9abc-41fbc15bad52.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/77eba19a-439e-43ef-9e8a-a0c0143d53ab.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/7bd4300b-77dd-4f67-9884-c826f42f74d1.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/7cb861a7-5fcc-41e3-9983-8a7e4005c4d4.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/7cc42709-19ed-489c-9312-a40f286a800c.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/7fb23554-e300-4604-ac7c-d84e7899fd0a.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/80d31f61-9e32-4f10-bbf5-70c02d65b05b.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/81772c97-1602-4c8e-80c8-e0f51638f836.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8433d933-9d92-4770-844a-1d27d4377d0c.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/84d40d4f-023e-407b-a404-9bdda953f966.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/852c1dd5-4256-4752-903c-ed67cc31a961.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8562d540-060a-40cc-bd75-82b0d83bfb7d.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/878b2dd1-5dd0-4bfd-a1b6-4e9ceaf2c63b.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/87a21ca2-0c89-4e0c-a206-f308b75fbfef.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8801f7d1-f304-4a12-a7b0-445f69927703.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/881c9f58-c607-46dc-87eb-ff9f483a8b10.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/884fd023-d7ac-4b57-872c-4d8e84925947.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8858140b-13d8-42ba-afff-8be9d1551f5b.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/89cff9e9-85a0-4279-b4b8-1cdffb633857.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8ba8ebfa-59f3-4ea6-8b17-863546c98570.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8c2ae846-4ee3-470b-b87c-e587081ea8d8.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8d0e19a3-7b8d-47f8-95ae-f0a32c5072c8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8ddc7580-b482-4aa8-bdde-02050193ba7e.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/8fd1ec58-621e-4655-a00e-eb88060c9a18.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/91978aed-b1ce-4dc7-8055-525930726d70.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/92a3679a-4017-4a0c-a5d3-6545d1a45171.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9381f827-5e4c-451a-bb81-8b572f77889a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/96180a42-4399-4330-b4c2-4dafa908f061.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/97e8b31a-8b48-4de7-aaa9-a061d5bf32a0.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9a3dace7-847a-4e73-99c9-25706589d188.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9a6f37a9-7b74-44a5-91ea-3e59bfb42439.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9adafce9-c782-4d50-bcf6-ed5bfbbce531.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9b81c5ff-6e64-4956-8d4f-fadf2a8c52eb.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9d1948bf-2900-4e3d-8e65-67123c49ff98.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9dd2a4f0-0bf7-4620-90b4-da5ca0b322ae.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/9e831807-f0c9-4a7d-a345-1e0094fa9a47.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a0c732dd-309a-410e-902f-391e393bce6a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a3d26c3d-9a72-4eb5-808e-1ccb1672389d.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a3d9d705-e01a-4541-ac94-0420f4f7b261.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a3e2d385-ad15-4b9d-93f6-f22175e338d7.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a43f5606-84f2-42c9-9ab6-cd4d233f29e1.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a6bc4df2-e3e8-4f11-b406-eedbf69eef7a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/a81aecd1-bfde-4455-82c9-a4cf4318e4bc.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/aa512a96-ae89-4bbd-b0b8-d7e3d0f6c6ab.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/aadb8920-2947-4c58-92e4-c307f2bbddc7.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ab1961d5-35f3-4baa-9a0e-ed3b672f2228.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ab2fd189-c40d-4897-9c39-77f5abf53c86.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/abd7beda-a88a-4094-93ff-3e41221292a4.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/af4203ec-6bd6-4075-ab1e-a3bbec2a2fb9.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/b041afd5-46ad-4afa-bdc2-41972fe4764d.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/b164bcef-84fc-4020-941e-75b6a83ac921.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/b2ee5893-edfe-4d2c-b8a9-3c29ce142018.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/b86c9d40-23c9-47f0-bfc5-ea50f0b98ecd.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/b920295e-5209-4246-9519-aa4b550493f3.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/b956f402-d543-4524-bb82-336555c08f1f.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ba10d9a8-648e-4399-b2a5-dfcc667fd34a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ba726eec-1914-419a-92a3-92c984d67ee8.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ba79e44d-3c9b-406c-a649-9610b40996b6.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bb23ef0f-30ee-4892-9944-908f6504c84b.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bb5635e0-7bd5-462d-8076-0fc4b2997562.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bbdfde45-5f53-4b87-9d2f-8530c06b7356.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bbf57e5a-3c5a-47c5-a96c-de0c41190954.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bc38a6ce-a4b9-4ad5-991a-e2b0726f783d.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bdfaf2e8-3ab2-444a-8f59-079af3a63213.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/be298db7-a72d-4246-82c8-2062a0b6b6b2.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/bf8bcafb-0acb-4371-bf85-b57f2315c4a8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c13a352e-985b-4628-9af9-ca22a6dbb439.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c1466bd6-fb6d-440c-b26e-bc8cd3a765d5.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c1dff908-da9b-4925-b336-f0516b052061.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c263b581-bc22-4ad9-9255-62b9ca3b43f6.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c57239c7-c374-4705-bb57-e493540c1605.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c728cce3-9acd-4538-85b3-9c83d6337fd0.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c77be9e2-3513-43fb-abc1-8121719ef7d1.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c7c5bf86-2bba-4e0b-84c0-ef9c159ffa55.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c8e81308-77e9-4dc4-88c9-22a69a89b029.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c91de56f-0570-4158-a169-b9ef92910377.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/c938ad4e-fd5f-4553-ba9a-896136bcba20.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ca0c958a-8301-46df-995d-45cc0d23cd05.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/cb0962e9-ec63-42b7-9f29-e0c1daf0c9cc.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/cc56f75c-dabf-46d0-8a2c-1d919b776823.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/cc8e0f05-1418-486b-881d-947fa0a708ef.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ccf54356-4808-47ad-85a6-973714394a0e.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/cf072e0b-dd21-468a-b6b8-96a4d47bb818.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/d0d9c5a5-e0da-49c6-a59e-181750cb6490.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/d2536e8b-a197-4067-85e9-97c2ed1ddb82.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/d4f4fba0-5722-4892-89f7-2564259be215.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/d6627a0e-8a5b-4c25-9b68-91e676803766.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/d7ed391c-51b9-4c4b-b6db-7a81423f1bd7.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/d94ec957-44d2-406f-88ab-b00afc39a233.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/db4460a0-1560-4ac8-88d6-97604e054195.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/dd65db76-921a-4fb1-b24c-bb207eea31eb.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ddc57aff-40e7-4b8e-b7ac-0ce6f7aad991.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ddd97b89-3599-46d5-a4f5-d42c1e50fb97.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/df881967-0ca9-4ebe-ab80-43031719b5e3.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/e38bebcf-0d82-401b-bada-b495846e2a6d.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/e39b6595-6518-42c6-88fe-18f5665a21b0.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/e5c39fa1-d148-4de8-941e-ec41c7b70c38.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/e69ddf09-f89a-48b2-95bf-4ca8b7d277d5.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/e8c81d0f-ac32-4557-9a86-ac5ac55f0e15.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/e9a41fc8-af81-4e28-b3c4-e68c543452d8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ea3446ef-2e7a-4a70-af67-ae2b4bd77fc5.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/eaf09e20-69a6-4a3b-8e69-c568f25e3a70.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ebd7d4a3-17d7-4036-bf02-f2dedafda587.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ed5a6c9a-c010-4df2-a8a8-0c71dfe98fbe.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ed5dd372-ca93-487d-8e83-2d20f6719a5c.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f0641652-cb9a-499e-9704-ec1ffb67d4e7.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f292182b-19ed-422a-b5dd-7659b04e4249.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f2e9b53f-2043-4034-bc73-7a323463adfd.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f309bb9b-056e-42ef-9450-ea262039ede3.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f349e6ae-365e-49af-9d8f-46713238a3d8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f4be5ef7-fcc9-4d3d-8bc3-f36fe527f325.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f5a62fc2-6e5a-4790-9a87-ac23a8474929.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f639339a-37ae-46a8-975c-52f01cea820b.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f650c97e-0a2e-4b74-aa0f-9f41eb4d2616.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f655572b-d8a3-4098-ac05-59e8abe5bdd8.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f839985b-cf6b-4c79-816d-1ba73a8069c4.png",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f8ee2e5c-cabb-4dc1-b103-63b7b52ec8cf.JPG",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f954187f-93e0-4bc1-b519-7aabcb8464b9.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/f988f0a7-8c1a-4ad1-a393-fbc3b46a6b2d.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/fa5e7fa7-4738-4baf-9757-157bf7d24654.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/fcb0aa66-8b88-400c-8070-44fc4e95dfef.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/fcd6fdef-85d6-490d-9894-ad0309dc685a.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/fd311c6a-ec3b-49c6-98cc-7c8bf4f1fac5.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/fd401e51-fc34-4387-8cb5-c1a14301a15c.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/fe77f39b-d233-4124-94f1-3831f9e2abca.jpg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://isc-yearbook-2026.s3.ap-south-1.amazonaws.com/photos/ffd0b4da-19e4-4d88-acce-87c1bd68043d.jpeg",
+    "pages": [
+      "content/yearbook-responses.json"
+    ]
+  },
+  {
+    "url": "https://sheets.googleapis.com/v4/spreadsheets/${SPREADSHEET_ID}/values/${range}?key=${API_KEY}",
+    "pages": [
+      "source/app/components/PlayerDatabase/PlayerDatabase.jsx"
+    ]
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/25/New_York_Knicks_logo.svg",
+    "pages": [
+      "source/app/components/matchprediction/matchprediction.js"
+    ]
+  },
+  {
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a2/San_Antonio_Spurs.svg",
+    "pages": [
+      "source/app/components/matchprediction/matchprediction.js"
+    ]
+  },
+  {
+    "url": "https://www.facebook.com/iitbombaysports/",
+    "pages": [
+      "Council",
+      "CourtStatus",
+      "GC",
+      "GC--girls",
+      "SAC",
+      "Webteam",
+      "adventureclub",
+      "aquatics",
+      "athletics",
+      "badminton",
+      "badmintonbooking",
+      "basketball",
+      "blogs",
+      "boardgames",
+      "certificates",
+      "chess",
+      "contact",
+      "cricket",
+      "events-timeline",
+      "explore",
+      "feedback",
+      "football",
+      "frisbee",
+      "hockey",
+      "home",
+      "indiangames",
+      "match-prediction",
+      "player-database",
+      "rubik",
+      "source/app/components/footer/Footer.js",
+      "squash",
+      "tabletennis",
+      "tennis",
+      "turfbooking",
+      "volleyball",
+      "weightlifting",
+      "yearbook",
+      "yoga"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1884.6801509832069!2d72.91331199999999!3d19.135699499999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b808367d7489%3A0x5936f3009b0ecd48!2sBaby%20Swimming%20Pool.%20IIT%20Bombay!5e0!3m2!1sen!2sin!4v1719689561544!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/aquatics/src/aquatics/aquatics.js"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3571278636005!2d72.90875297511069!3d19.135838550091524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b996756af44d%3A0x92ba3886f6c7bad!2sIndoor%20Kho-Kho%20Court!5e0!3m2!1sen!2sin!4v1720265475433!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/indiangames/indiangames/IndianGames.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.379737570415!2d72.91305249999999!3d19.134848050000016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b809cdbb26f9%3A0x1bc7aa048f060162!2sStudents%20Activity%20Center!5e0!3m2!1sen!2sin!4v1722158615027!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/wtlift/wtlift/wtlift.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3869185665076!2d72.90968797511066!3d19.134533450132537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820fd0657%3A0xe732ba0e0eb134b1!2sCricket%20Ground!5e0!3m2!1sen!2sin!4v1720263060691!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/cricket/cricket/Cricket.jsx",
+      "source/app/components/sports/SportsPages/football/football/Football.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.38794229164!2d72.90822443382704!3d19.134488600267908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c74281daf5e3%3A0xe0c050e0ec9a18cf!2sTennis%20court!5e0!3m2!1sen!2sin!4v1720443451101!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/tennis/Tennis.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3881728360093!2d72.90822443404429!3d19.134478500000018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b9b74d4b5f75%3A0xfbea904fa3f2af3!2sGymkhana%20Grounds!5e0!3m2!1sen!2sin!4v1720442540019!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/hockey/hockey/Hockey.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.4020806480025!2d72.9093683747526!3d19.133869182082652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e0!3m2!1sen!2sin!4v1721551340933!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/squash/squash/squash.jsx",
+      "source/app/components/sports/SportsPages/tabletennis/tabletennis/tabletennis.jsx",
+      "source/app/components/sports/SportsPages/volleyball/volleyball/volleyball.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.408680151891!2d72.90801220550003!3d19.133580043371115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80812c1f80f%3A0x6e9d47badec03bac!2sIndoor%20Basketball%20Courts!5e0!3m2!1sen!2sin!4v1719931678373!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/basketball/src/aquatics/basketball.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d752.6671652193382!2d72.91190082224743!3d19.134256741593973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e1!3m2!1sen!2sin!4v1752435717790!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/athletics/src/aquatics/aquatics.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7538.855698547374!2d72.90781494213336!3d19.132740178333854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e0!3m2!1sen!2sin!4v1719953908712!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/boardgame/src/aquatics/boardgames.jsx"
+    ]
+  },
+  {
+    "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.3410964230648!2d72.91128878064984!3d19.1355206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80707f747dd%3A0x2836a7e40ba1c6e5!2sBadminton%20Court!5e0!3m2!1sen!2sin!4v1720102713953!5m2!1sen!2sin",
+    "pages": [
+      "source/app/components/sports/SportsPages/badminton/src/badminton/badminton.jsx"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/adventureclub_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/aquatics_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/badmintonclub_iitbombay/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/basketball_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/cricket_club_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/dkcc_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/dkcc_iitb/?hl=en",
+    "pages": [
+      "boardgames",
+      "source/app/components/sports/SportsPages/boardgame/src/aquatics/boardgames.jsx"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/fitness_club_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitb_football/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitb_ultimate_frisbee/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitb_weightlifting/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitbombay_hockey/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitbombayathletics/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitbombaysports/",
+    "pages": [
+      "Council",
+      "Webteam",
+      "source/app/components/Contact/SportsCouncil.js",
+      "source/app/components/Contact/webteam.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/iitbombaysports/?hl=en",
+    "pages": [
+      "Council",
+      "CourtStatus",
+      "GC",
+      "GC--girls",
+      "SAC",
+      "Webteam",
+      "adventureclub",
+      "aquatics",
+      "athletics",
+      "badminton",
+      "badmintonbooking",
+      "basketball",
+      "blogs",
+      "boardgames",
+      "certificates",
+      "chess",
+      "contact",
+      "cricket",
+      "events-timeline",
+      "explore",
+      "feedback",
+      "football",
+      "frisbee",
+      "hockey",
+      "home",
+      "indiangames",
+      "match-prediction",
+      "player-database",
+      "rubik",
+      "source/app/components/footer/Footer.js",
+      "squash",
+      "tabletennis",
+      "tennis",
+      "turfbooking",
+      "volleyball",
+      "weightlifting",
+      "yearbook",
+      "yoga"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/indiangames_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/rubiksclub_iitb/",
+    "pages": [
+      "boardgames",
+      "source/app/components/sports/SportsPages/boardgame/src/aquatics/boardgames.jsx"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/table.tennis_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/tennis_club_iitb/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.instagram.com/volleyballclub_iitbombay/",
+    "pages": [
+      "Council",
+      "source/app/components/Contact/SportsCouncil.js"
+    ]
+  },
+  {
+    "url": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+    "pages": [
+      "Council",
+      "CourtStatus",
+      "GC",
+      "GC--girls",
+      "SAC",
+      "Webteam",
+      "adventureclub",
+      "aquatics",
+      "athletics",
+      "badminton",
+      "badmintonbooking",
+      "basketball",
+      "blogs",
+      "boardgames",
+      "certificates",
+      "chess",
+      "contact",
+      "cricket",
+      "events-timeline",
+      "explore",
+      "feedback",
+      "football",
+      "frisbee",
+      "hockey",
+      "home",
+      "indiangames",
+      "match-prediction",
+      "player-database",
+      "rubik",
+      "source/app/components/footer/Footer.js",
+      "squash",
+      "tabletennis",
+      "tennis",
+      "turfbooking",
+      "volleyball",
+      "weightlifting",
+      "yearbook",
+      "yoga"
+    ]
+  }
+]

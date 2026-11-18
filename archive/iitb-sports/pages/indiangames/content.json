@@ -1,0 +1,406 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Indian Games\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Indoor Court"
+    },
+    {
+      "level": "H3",
+      "text": "Kho-Kho"
+    },
+    {
+      "level": "H3",
+      "text": "Kabaddi"
+    },
+    {
+      "level": "H3",
+      "text": "Tug of War"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Inter Hostel Kho-Kho GC"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Kho-Kho League (IKKL)"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Kabaddi League"
+    },
+    {
+      "level": "H3",
+      "text": "Battle of Batches"
+    },
+    {
+      "level": "H3",
+      "text": "Summer Camp"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the court."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Indian Games",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing4.98df368230b7e5fded50.JPG"
+    },
+    {
+      "alt": "Indoor Court",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing4.98df368230b7e5fded50.JPG"
+    },
+    {
+      "alt": "Kho-Kho",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing.5e720f644e6cb04a528c.jpg"
+    },
+    {
+      "alt": "Kabaddi",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing2.c92d635832b03ae7d8bb.jpg"
+    },
+    {
+      "alt": "Tug of War",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing3.c057c6b92e08c6348f77.JPG"
+    },
+    {
+      "alt": "The Indoor Court — home to Kho-Kho and Kabaddi.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing5.478e7bf8ff1c31484486.png"
+    },
+    {
+      "alt": "Inter Hostel Kho-Kho GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p51.6c3c5986ed3c8be36901.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p52.c9e6737347b452f18714.jpg"
+    },
+    {
+      "alt": "Institute Kho-Kho League (IKKL)",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p53.82ae700e31bbd9e21b7f.jpg"
+    },
+    {
+      "alt": "Institute Kabaddi League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p54.bb6344d45033fd6cd5b0.jpg"
+    },
+    {
+      "alt": "Battle of Batches",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p55.ad3166970565f4bb073e.jpg"
+    },
+    {
+      "alt": "Summer Camp",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing.5e720f644e6cb04a528c.jpg"
+    },
+    {
+      "alt": "Institute Kho-Kho League — the IPL-format showdown.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing6.25f5f9f698c8e31cc942.png"
+    },
+    {
+      "alt": "Darshan Jain",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/darshan.25ccae58736b77d667e7.JPG"
+    },
+    {
+      "alt": "Indian Games gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p51.6c3c5986ed3c8be36901.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p51.6c3c5986ed3c8be36901.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p52.c9e6737347b452f18714.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p53.82ae700e31bbd9e21b7f.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p54.bb6344d45033fd6cd5b0.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p55.ad3166970565f4bb073e.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing.5e720f644e6cb04a528c.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing2.c92d635832b03ae7d8bb.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing3.c057c6b92e08c6348f77.JPG"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing4.98df368230b7e5fded50.JPG"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing5.478e7bf8ff1c31484486.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ing6.25f5f9f698c8e31cc942.png"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "IG\nIIT BOMBAY INDIAN GAMES / INDOOR COURT\n3 SPORTS UNDER ONE ROOF\nOPEN 6 AM – 10 PM, EVERY DAY\nPOWAI · IIT BOMBAY\nDOSSIER NO. 09\n§\nINDIAN GAMES · INDOOR COURT\nIndian Games\nat IIT Bombay.\n\nKho-Kho, Kabaddi, and Tug of War carry centuries of tradition into a fast-paced, strategic corner of campus sport. Kho-Kho blends dodging and controlled bursts of speed with sharp decision-making; Kabaddi pairs raw athleticism with tactics sharpened in leagues like the Pro Kabaddi League; and Tug of War distills teamwork and endurance into a single, spirited pull. Together they build agility, discipline, and a strong sense of collective effort.\n\nSPORTS PLAYED\n1\nKho-Kho · Kabaddi · Tug of War\nANNUAL EVENTS\n2\nGC, leagues & camps\nCOURT TIMINGS\n6 AM–10 PM\nFully lighted, open all days\nSECRETARY\nKanak\nInstitute Indian Games Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nIndoor court · Three sports · Open all days.\n\nIndoor Court\nOne fully lighted indoor court with a Kho-Kho pitch and Kabaddi mat, open all days.\nTimings: 6:00 AM – 10:00 PM.\nKho-Kho\nA dynamic, fast-paced sport blending physical agility with strategic thinking.\nDodging, feinting, and bursts of controlled speed define its excitement, building agility, teamwork, and discipline.\nKabaddi\nOriginating in ancient India, now a globally recognised sport with professional leagues like the Pro Kabaddi League.\nCombines athleticism with strategy, promoting fitness, teamwork, and mental agility.\nTug of War\nA traditional test of teamwork, strength, and coordination between two teams pulling a rope in opposite directions.\nSimple yet intense — a spirited fixture at festivals and sports events on campus.\nFIG. A\nTHE INDOOR COURT — HOME TO KHO-KHO AND KABADDI.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nInter Hostel Kho-Kho GC\n\nThis event is held once a year in the Spring Semester for All Boys and in the Autumn Semester for the All Girls, and is part of the Inter Hostel Sports General Championship.\n\nCONTINUE READING →\nN° 02\nNSO\n\nThe Government of India, through its National Sports Organization, provides a scheme in all IITs where all incoming first-year students must sign up for a particular sport and undergo training. This scheme, popularly called NSO, is available to IIT students for training in various sports, such as swimming, hockey, basketball, squash, badminton, tennis, athletics, Kho-Kho, handball, table tennis, football, and more.\n\nCONTINUE READING →\nN° 03\nInstitute Kho-Kho League (IKKL)\n\nThe Institute Kho-Kho League is the most awaited event of the IIT Bombay Kho-Kho club and is held during the Spring Semester. This tournament is open to all students. It is a highly competitive league tournament organised using the IPL format.\n\nCONTINUE READING →\nN° 04\nInstitute Kabaddi League\n\nThe Institute Kabaddi League is an event held during the Spring Semester, open to all students. In this event, teams are formed through an exhilarating auction.\n\nCONTINUE READING →\nN° 05\nBattle of Batches\n\nThe Battle of Batches is an inter-year event in which students from different NSO and NCC batches showcase their skills and sportsmanship. This spirited competition brings together teams representing each batch, from freshmen to seniors, in a series of thrilling matches. It is held during the Spring Semester.\n\nCONTINUE READING →\nN° 06\nSummer Camp\n\nKho-Kho is a new, budding sport in our institute. Being easy to learn, it attracts a lot of beginners — so for enthusiasts, we organise various Beginners’ and Intermediate Camps over the year, plus a summer advanced training camp for the betterment of the Institute Kho-Kho team.\n\nCONTINUE READING →\nFIG. B\nINSTITUTE KHO-KHO LEAGUE — THE IPL-FORMAT SHOWDOWN.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nDarshan Jain\n\nINSTITUTE INDIAN GAMES SECRETARY\n\n+91 94062 13933\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 11\nINDIAN GAMES · INDOOR COURT\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nIndoor Kho-Kho Court · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3571278636005!2d72.90875297511069!3d19.135838550091524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b996756af44d%3A0x92ba3886f6c7bad!2sIndoor%20Kho-Kho%20Court!5e0!3m2!1sen!2sin!4v1720265475433!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nIG\nIIT BOMBAY INDIAN GAMES / INDOOR COURT\n3 SPORTS UNDER ONE ROOF\nOPEN 6 AM – 10 PM, EVERY DAY\nPOWAI · IIT BOMBAY\nDOSSIER NO. 09\n§\nINDIAN GAMES · INDOOR COURT\nIndian Games\nat IIT Bombay.\n\nKho-Kho, Kabaddi, and Tug of War carry centuries of tradition into a fast-paced, strategic corner of campus sport. Kho-Kho blends dodging and controlled bursts of speed with sharp decision-making; Kabaddi pairs raw athleticism with tactics sharpened in leagues like the Pro Kabaddi League; and Tug of War distills teamwork and endurance into a single, spirited pull. Together they build agility, discipline, and a strong sense of collective effort.\n\nSPORTS PLAYED\n1\nKho-Kho · Kabaddi · Tug of War\nANNUAL EVENTS\n2\nGC, leagues & camps\nCOURT TIMINGS\n6 AM–10 PM\nFully lighted, open all days\nSECRETARY\nKanak\nInstitute Indian Games Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nIndoor court · Three sports · Open all days.\n\nIndoor Court\nOne fully lighted indoor court with a Kho-Kho pitch and Kabaddi mat, open all days.\nTimings: 6:00 AM – 10:00 PM.\nKho-Kho\nA dynamic, fast-paced sport blending physical agility with strategic thinking.\nDodging, feinting, and bursts of controlled speed define its excitement, building agility, teamwork, and discipline.\nKabaddi\nOriginating in ancient India, now a globally recognised sport with professional leagues like the Pro Kabaddi League.\nCombines athleticism with strategy, promoting fitness, teamwork, and mental agility.\nTug of War\nA traditional test of teamwork, strength, and coordination between two teams pulling a rope in opposite directions.\nSimple yet intense — a spirited fixture at festivals and sports events on campus.\nFIG. A\nTHE INDOOR COURT — HOME TO KHO-KHO AND KABADDI.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nInter Hostel Kho-Kho GC\n\nThis event is held once a year in the Spring Semester for All Boys and in the Autumn Semester for the All Girls, and is part of the Inter Hostel Sports General Championship.\n\nCONTINUE READING →\nN° 02\nNSO\n\nThe Government of India, through its National Sports Organization, provides a scheme in all IITs where all incoming first-year students must sign up for a particular sport and undergo training. This scheme, popularly called NSO, is available to IIT students for training in various sports, such as swimming, hockey, basketball, squash, badminton, tennis, athletics, Kho-Kho, handball, table tennis, football, and more.\n\nCONTINUE READING →\nN° 03\nInstitute Kho-Kho League (IKKL)\n\nThe Institute Kho-Kho League is the most awaited event of the IIT Bombay Kho-Kho club and is held during the Spring Semester. This tournament is open to all students. It is a highly competitive league tournament organised using the IPL format.\n\nCONTINUE READING →\nN° 04\nInstitute Kabaddi League\n\nThe Institute Kabaddi League is an event held during the Spring Semester, open to all students. In this event, teams are formed through an exhilarating auction.\n\nCONTINUE READING →\nN° 05\nBattle of Batches\n\nThe Battle of Batches is an inter-year event in which students from different NSO and NCC batches showcase their skills and sportsmanship. This spirited competition brings together teams representing each batch, from freshmen to seniors, in a series of thrilling matches. It is held during the Spring Semester.\n\nCONTINUE READING →\nN° 06\nSummer Camp\n\nKho-Kho is a new, budding sport in our institute. Being easy to learn, it attracts a lot of beginners — so for enthusiasts, we organise various Beginners’ and Intermediate Camps over the year, plus a summer advanced training camp for the betterment of the Institute Kho-Kho team.\n\nCONTINUE READING →\nFIG. B\nINSTITUTE KHO-KHO LEAGUE — THE IPL-FORMAT SHOWDOWN.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nDarshan Jain\n\nINSTITUTE INDIAN GAMES SECRETARY\n\n+91 94062 13933\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 11\nINDIAN GAMES · INDOOR COURT\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nIndoor Kho-Kho Court · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/indiangames",
+  "captured_at": "2026-10-18T15:27:33.401901+00:00"
+}

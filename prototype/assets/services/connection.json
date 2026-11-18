@@ -1,0 +1,8 @@
+{
+  "schema": 1,
+  "availability": { "status": "unavailable", "reason": "No verified live facility feed is connected." },
+  "bookings": { "status": "unavailable" },
+  "feedback": { "status": "unavailable" },
+  "certificates": { "status": "unavailable" },
+  "predictions": { "status": "unavailable" }
+}

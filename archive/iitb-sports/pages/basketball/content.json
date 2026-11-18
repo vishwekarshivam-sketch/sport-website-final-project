@@ -1,0 +1,441 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Basketball\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Indoor Courts"
+    },
+    {
+      "level": "H3",
+      "text": "Outdoor Courts"
+    },
+    {
+      "level": "H3",
+      "text": "Equipment"
+    },
+    {
+      "level": "H3",
+      "text": "Court Timings"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "PG Mania"
+    },
+    {
+      "level": "H3",
+      "text": "Basketball Farewell"
+    },
+    {
+      "level": "H3",
+      "text": "NSO Trials"
+    },
+    {
+      "level": "H3",
+      "text": "Inter-IIT Pre-Camp"
+    },
+    {
+      "level": "H3",
+      "text": "Alumni Day"
+    },
+    {
+      "level": "H3",
+      "text": "She's Got Game"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H4",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the court."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Basketball team",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_team.e9c9f795fad82ea9e770.png"
+    },
+    {
+      "alt": "Indoor Courts",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb1.a363749dfe3f8993bca0.jpeg"
+    },
+    {
+      "alt": "Outdoor Courts",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb3.4c61f758eb5040ebcc9e.jpg"
+    },
+    {
+      "alt": "Equipment",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb9.9e8dd3ec9110344cae82.jpg"
+    },
+    {
+      "alt": "Court Timings",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/nso.1523b9b73fe6e82aedad.jpg"
+    },
+    {
+      "alt": "Men's squad — pre-season training block.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_boys.4b19d31a07de5c9c645e.png"
+    },
+    {
+      "alt": "PG Mania",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_team.e9c9f795fad82ea9e770.png"
+    },
+    {
+      "alt": "Basketball Farewell",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_girls.8c733662466bce399ceb.png"
+    },
+    {
+      "alt": "NSO Trials",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_boys.4b19d31a07de5c9c645e.png"
+    },
+    {
+      "alt": "Inter-IIT Pre-Camp",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb2.f281ebbc53ca11a434c8.png"
+    },
+    {
+      "alt": "Alumni Day",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb3.4c61f758eb5040ebcc9e.jpg"
+    },
+    {
+      "alt": "She's Got Game",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb4.164de547cc9654177d5c.png"
+    },
+    {
+      "alt": "Women's squad — She's Got Game.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_girls.8c733662466bce399ceb.png"
+    },
+    {
+      "alt": "Manikarnika Sharma",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/mani.0be5a11e6fb4dc8eca32.JPG"
+    },
+    {
+      "alt": "Nilesh Sawant",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basketball.ca2d5642e57964390ec3.png"
+    },
+    {
+      "alt": "Basketball gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_team.e9c9f795fad82ea9e770.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_team.e9c9f795fad82ea9e770.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_girls.8c733662466bce399ceb.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/basky_boys.4b19d31a07de5c9c645e.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb2.f281ebbc53ca11a434c8.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb3.4c61f758eb5040ebcc9e.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb4.164de547cc9654177d5c.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb5.3ece2f3d18f181a53177.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/nso.1523b9b73fe6e82aedad.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb8.3076e22bb6612f54eb74.png"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb9.9e8dd3ec9110344cae82.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb10.13d47df7024d312acb66.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb11.5b71692c9b418900ca43.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bb12.053122d1a2b7877dbace.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "B\nIIT BOMBAY BASKETBALL / STUDENTS' GYMKHANA\nCOACH NILESH SAWANT\n4 COURTS ON CAMPUS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 04\n§\nBASKETBALL · STUDENTS' GYMKHANA\nBasketball\nat IIT Bombay.\n\nThe IITB Basketball family is an integral part of the dynamic sports culture of the institute. The team boasts a history of captivating performances in various tournaments, leading to championships in many. This is made possible with access to state-of-the-art facilities, a dedicated coach, and rigorous training. The sport has left us with a plethora of teachings: camaraderie, perseverance, and integrity.\n\nTOTAL COURTS\n1\n2 Indoor · 2 Outdoor\nCOACH\nNilesh S.\n+91 94220 95558\nFIXTURES\n1\nAnnual events\nCOURT HOURS\n6am–9am\nAlso 5pm–10pm\n§ 01\n · FACILITIES\nWhat's on offer.\n\nFour courts. Two sessions daily. All year round.\n\nIndoor Courts\nTwo indoor courts inside the Students' Gymkhana — available year-round for competition and casual play.\nSmooth hardwood floor surface; gum-sole shoes available from the H-12 store for optimal grip.\nOutdoor Courts\nTwo outdoor courts for open-air shooting sessions and informal games.\nSome hostels also have their own courts, expanding options across campus.\nEquipment\nTwo basketball storage trolleys stocked with size-6 and size-7 balls.\nAir pumps and on-court medical kits provided for minor mishaps.\nBasketballs available directly at the courts — no pre-booking needed.\nCourt Timings\nMorning: 6:00 AM – 9:00 AM\nEvening: 5:00 PM – 10:00 PM\nDedicated coach Nilesh Sawant provides structured training sessions throughout the week.\nFIG. A\nMEN'S SQUAD — PRE-SEASON TRAINING BLOCK.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nPG Mania\n\nA post-graduate basketball tournament that brings together PG students from across hostels in a high-energy, competitive format. PG Mania is one of the most eagerly anticipated fixtures on the basketball calendar, running alongside the main GC season.\n\nCONTINUE READING →\nN° 02\nBasketball Farewell\n\nAn annual send-off tournament for final-year students, celebrating their contributions to IITB Basketball. The event mixes competitive play with camaraderie, giving graduating players one last run on the court alongside their teammates.\n\nCONTINUE READING →\nN° 03\nNSO Trials\n\nSelection trials for the National Sports Organization scheme, open to all first-year students. NSO Basketball runs training sessions throughout the semester and is the entry point for many of the institute's most committed players.\n\nCONTINUE READING →\nN° 04\nInter-IIT Pre-Camp\n\nAn intensive pre-season camp run in the lead-up to the Inter-IIT Sports Meet. The pre-camp brings together the institute's best players for focused skill development, tactical sessions, and fitness conditioning under the coaching staff.\n\nCONTINUE READING →\nN° 05\nAlumni Day\n\nA special fixture where current institute players take on returning alumni. Alumni Day is a beloved tradition that reconnects past members with the programme and gives current players a chance to test themselves against experienced competition.\n\nCONTINUE READING →\nN° 06\nShe's Got Game\n\nA dedicated women's basketball event designed to celebrate and grow women's participation in the sport on campus. She's Got Game features workshops, competitive play, and open sessions aimed at creating a stronger, more visible women's basketball community at IITB.\n\nCONTINUE READING →\nFIG. B\nWOMEN'S SQUAD — SHE'S GOT GAME.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nManikarnika Sharma\n\nINSTITUTE BASKETBALL SECRETARY\n\n+91 78781 12350\n\nNilesh Sawant\n\nCOACH\n\n+91 94220 95558\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 13\nBASKETBALL · STUDENTS' GYMKHANA\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nIndoor Basketball Courts · Students' Gymkhana · IIT Bombay",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.408680151891!2d72.90801220550003!3d19.133580043371115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80812c1f80f%3A0x6e9d47badec03bac!2sIndoor%20Basketball%20Courts!5e0!3m2!1sen!2sin!4v1719931678373!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nB\nIIT BOMBAY BASKETBALL / STUDENTS' GYMKHANA\nCOACH NILESH SAWANT\n4 COURTS ON CAMPUS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 04\n§\nBASKETBALL · STUDENTS' GYMKHANA\nBasketball\nat IIT Bombay.\n\nThe IITB Basketball family is an integral part of the dynamic sports culture of the institute. The team boasts a history of captivating performances in various tournaments, leading to championships in many. This is made possible with access to state-of-the-art facilities, a dedicated coach, and rigorous training. The sport has left us with a plethora of teachings: camaraderie, perseverance, and integrity.\n\nTOTAL COURTS\n1\n2 Indoor · 2 Outdoor\nCOACH\nNilesh S.\n+91 94220 95558\nFIXTURES\n1\nAnnual events\nCOURT HOURS\n6am–9am\nAlso 5pm–10pm\n§ 01\n · FACILITIES\nWhat's on offer.\n\nFour courts. Two sessions daily. All year round.\n\nIndoor Courts\nTwo indoor courts inside the Students' Gymkhana — available year-round for competition and casual play.\nSmooth hardwood floor surface; gum-sole shoes available from the H-12 store for optimal grip.\nOutdoor Courts\nTwo outdoor courts for open-air shooting sessions and informal games.\nSome hostels also have their own courts, expanding options across campus.\nEquipment\nTwo basketball storage trolleys stocked with size-6 and size-7 balls.\nAir pumps and on-court medical kits provided for minor mishaps.\nBasketballs available directly at the courts — no pre-booking needed.\nCourt Timings\nMorning: 6:00 AM – 9:00 AM\nEvening: 5:00 PM – 10:00 PM\nDedicated coach Nilesh Sawant provides structured training sessions throughout the week.\nFIG. A\nMEN'S SQUAD — PRE-SEASON TRAINING BLOCK.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nPG Mania\n\nA post-graduate basketball tournament that brings together PG students from across hostels in a high-energy, competitive format. PG Mania is one of the most eagerly anticipated fixtures on the basketball calendar, running alongside the main GC season.\n\nCONTINUE READING →\nN° 02\nBasketball Farewell\n\nAn annual send-off tournament for final-year students, celebrating their contributions to IITB Basketball. The event mixes competitive play with camaraderie, giving graduating players one last run on the court alongside their teammates.\n\nCONTINUE READING →\nN° 03\nNSO Trials\n\nSelection trials for the National Sports Organization scheme, open to all first-year students. NSO Basketball runs training sessions throughout the semester and is the entry point for many of the institute's most committed players.\n\nCONTINUE READING →\nN° 04\nInter-IIT Pre-Camp\n\nAn intensive pre-season camp run in the lead-up to the Inter-IIT Sports Meet. The pre-camp brings together the institute's best players for focused skill development, tactical sessions, and fitness conditioning under the coaching staff.\n\nCONTINUE READING →\nN° 05\nAlumni Day\n\nA special fixture where current institute players take on returning alumni. Alumni Day is a beloved tradition that reconnects past members with the programme and gives current players a chance to test themselves against experienced competition.\n\nCONTINUE READING →\nN° 06\nShe's Got Game\n\nA dedicated women's basketball event designed to celebrate and grow women's participation in the sport on campus. She's Got Game features workshops, competitive play, and open sessions aimed at creating a stronger, more visible women's basketball community at IITB.\n\nCONTINUE READING →\nFIG. B\nWOMEN'S SQUAD — SHE'S GOT GAME.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nManikarnika Sharma\n\nINSTITUTE BASKETBALL SECRETARY\n\n+91 78781 12350\n\nNilesh Sawant\n\nCOACH\n\n+91 94220 95558\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 13\nBASKETBALL · STUDENTS' GYMKHANA\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nIndoor Basketball Courts · Students' Gymkhana · IIT Bombay\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/basketball",
+  "captured_at": "2026-10-18T15:27:30.783044+00:00"
+}

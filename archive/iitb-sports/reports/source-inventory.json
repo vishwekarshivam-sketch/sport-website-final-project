@@ -1,0 +1,563 @@
+{
+  "files": [
+    {
+      "source": "source/app/App.js",
+      "content": "content/source-data/App.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/ScrollToTop.js",
+      "content": "content/source-data/ScrollToTop.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/firebase.js",
+      "content": "content/source-data/firebase.json",
+      "constants": [
+        "firebaseConfig"
+      ]
+    },
+    {
+      "source": "source/app/index.js",
+      "content": "content/source-data/index.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/reportWebVitals.js",
+      "content": "content/source-data/reportWebVitals.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/AdminPanel/AdminLayout.jsx",
+      "content": "content/source-data/components/AdminPanel/AdminLayout.json",
+      "constants": [
+        "ROLE_LABELS"
+      ]
+    },
+    {
+      "source": "source/app/components/AdminPanel/AdminLogin.jsx",
+      "content": "content/source-data/components/AdminPanel/AdminLogin.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/AdminPanel/BatchDetail.jsx",
+      "content": "content/source-data/components/AdminPanel/BatchDetail.json",
+      "constants": [
+        "STATUS_LABELS",
+        "POSITION_LABELS",
+        "steps"
+      ]
+    },
+    {
+      "source": "source/app/components/AdminPanel/ChairpersonDashboard.jsx",
+      "content": "content/source-data/components/AdminPanel/ChairpersonDashboard.json",
+      "constants": [
+        "STATUS_LABELS"
+      ]
+    },
+    {
+      "source": "source/app/components/AdminPanel/DeanDashboard.jsx",
+      "content": "content/source-data/components/AdminPanel/DeanDashboard.json",
+      "constants": [
+        "STATUS_LABELS"
+      ]
+    },
+    {
+      "source": "source/app/components/AdminPanel/SecyDashboard.jsx",
+      "content": "content/source-data/components/AdminPanel/SecyDashboard.json",
+      "constants": [
+        "STATUS_LABELS"
+      ]
+    },
+    {
+      "source": "source/app/components/AdminPanel/SuperadminDashboard.jsx",
+      "content": "content/source-data/components/AdminPanel/SuperadminDashboard.json",
+      "constants": [
+        "STATUS_LABELS",
+        "counts"
+      ]
+    },
+    {
+      "source": "source/app/components/AdminPanel/adminLoginUtils.js",
+      "content": "content/source-data/components/AdminPanel/adminLoginUtils.json",
+      "constants": [
+        "ROLE_PATHS",
+        "mapping"
+      ]
+    },
+    {
+      "source": "source/app/components/Blogs/BlogPage.js",
+      "content": "content/source-data/components/Blogs/BlogPage.json",
+      "constants": [
+        "monthlyEvents"
+      ]
+    },
+    {
+      "source": "source/app/components/Certificates/Certificatecard.jsx",
+      "content": "content/source-data/components/Certificates/Certificatecard.json",
+      "constants": [
+        "POSITION_LABELS",
+        "POSITION_COLORS"
+      ]
+    },
+    {
+      "source": "source/app/components/Certificates/Certificatespage.jsx",
+      "content": "content/source-data/components/Certificates/Certificatespage.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/Certificates/Loginmodal.jsx",
+      "content": "content/source-data/components/Certificates/Loginmodal.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/Certificates/Verificationpage.jsx",
+      "content": "content/source-data/components/Certificates/Verificationpage.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/Contact/ContactUs.js",
+      "content": "content/source-data/components/Contact/ContactUs.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/Contact/SAC.js",
+      "content": "content/source-data/components/Contact/SAC.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/Contact/SportsCouncil.js",
+      "content": "content/source-data/components/Contact/SportsCouncil.json",
+      "constants": [
+        "leader",
+        "nominees",
+        "heads",
+        "secretaries",
+        "managers",
+        "marqueeIcons"
+      ]
+    },
+    {
+      "source": "source/app/components/Contact/webteam.js",
+      "content": "content/source-data/components/Contact/webteam.json",
+      "constants": [
+        "lead",
+        "conveners"
+      ]
+    },
+    {
+      "source": "source/app/components/CourtStatus/CourtStatus.js",
+      "content": "content/source-data/components/CourtStatus/CourtStatus.json",
+      "constants": [
+        "SPORTS_COORDINATES_BY_NAME",
+        "slots",
+        "coordsMap",
+        "processedSlots",
+        "updatedCoordinates"
+      ]
+    },
+    {
+      "source": "source/app/components/EventsTimeline/index.js",
+      "content": "content/source-data/components/EventsTimeline/index.json",
+      "constants": [
+        "result",
+        "events",
+        "sportColors",
+        "days",
+        "dayNames"
+      ]
+    },
+    {
+      "source": "source/app/components/Feedback/Feedback.js",
+      "content": "content/source-data/components/Feedback/Feedback.json",
+      "constants": [
+        "ALLOWED_FILE_TYPES",
+        "e"
+      ]
+    },
+    {
+      "source": "source/app/components/FeedbackAdmin/Feedback-Admin.js",
+      "content": "content/source-data/components/FeedbackAdmin/Feedback-Admin.json",
+      "constants": [
+        "STATUSES",
+        "statistics",
+        "headers"
+      ]
+    },
+    {
+      "source": "source/app/components/Gc/GC.js",
+      "content": "content/source-data/components/Gc/GC.json",
+      "constants": [
+        "sportsData",
+        "girlsSportsData",
+        "standings",
+        "girlsStandings",
+        "introSteps"
+      ]
+    },
+    {
+      "source": "source/app/components/Gc/GCAdmin.jsx",
+      "content": "content/source-data/components/Gc/GCAdmin.json",
+      "constants": [
+        "BOOTSTRAP_DATA",
+        "updates",
+        "updated",
+        "matchObject",
+        "updatedMatches"
+      ]
+    },
+    {
+      "source": "source/app/components/PlayerDatabase/PlayerDatabase.jsx",
+      "content": "content/source-data/components/PlayerDatabase/PlayerDatabase.json",
+      "constants": [
+        "sports",
+        "result"
+      ]
+    },
+    {
+      "source": "source/app/components/admin/AdminCourtManagement.js",
+      "content": "content/source-data/components/admin/AdminCourtManagement.json",
+      "constants": [
+        "AWS_CONFIG",
+        "WEEKDAY_OPTIONS",
+        "timeSlotIds",
+        "requestBody"
+      ]
+    },
+    {
+      "source": "source/app/components/badminton-booking/AdminPage.js",
+      "content": "content/source-data/components/badminton-booking/AdminPage.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/badminton-booking/BookingPage.js",
+      "content": "content/source-data/components/badminton-booking/BookingPage.json",
+      "constants": [
+        "COURTS"
+      ]
+    },
+    {
+      "source": "source/app/components/footer/Footer.js",
+      "content": "content/source-data/components/footer/Footer.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/homepage/HomePage.js",
+      "content": "content/source-data/components/homepage/HomePage.json",
+      "constants": [
+        "phoneImages"
+      ]
+    },
+    {
+      "source": "source/app/components/homepage/LogoIntro.js",
+      "content": "content/source-data/components/homepage/LogoIntro.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/matchprediction/matchprediction.js",
+      "content": "content/source-data/components/matchprediction/matchprediction.json",
+      "constants": [
+        "MATCH_CONFIG",
+        "entry"
+      ]
+    },
+    {
+      "source": "source/app/components/navbar/Navbar.js",
+      "content": "content/source-data/components/navbar/Navbar.json",
+      "constants": [
+        "bookingLinks",
+        "links"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/Sports.js",
+      "content": "content/source-data/components/sports/Sports.json",
+      "constants": [
+        "sportsList"
+      ]
+    },
+    {
+      "source": "source/app/components/turf-booking/AdminPage.js",
+      "content": "content/source-data/components/turf-booking/AdminPage.json",
+      "constants": [
+        "slotTimings",
+        "result"
+      ]
+    },
+    {
+      "source": "source/app/components/turf-booking/BookingPage.js",
+      "content": "content/source-data/components/turf-booking/BookingPage.json",
+      "constants": [
+        "slotTimings",
+        "newBooking"
+      ]
+    },
+    {
+      "source": "source/app/components/yearbook/yearbook.js",
+      "content": "content/source-data/components/yearbook/yearbook.json",
+      "constants": [
+        "Icons",
+        "PERSON_PHOTOS",
+        "assetFolderNames",
+        "FLEET_INFO",
+        "BADGE_OPTIONS",
+        "selected",
+        "orderedCandidates",
+        "extensions",
+        "style",
+        "groups",
+        "list"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/adventure club/adventureclub.jsx",
+      "content": "content/source-data/components/sports/SportsPages/adventure club/adventureclub.json",
+      "constants": [
+        "cards",
+        "images"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/chess/chess.jsx",
+      "content": "content/source-data/components/sports/SportsPages/chess/chess.json",
+      "constants": [
+        "cards",
+        "images"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/chess/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/chess/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/frisbee/frisbee.jsx",
+      "content": "content/source-data/components/sports/SportsPages/frisbee/frisbee.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/frisbee/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/frisbee/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/rubics/rubics.jsx",
+      "content": "content/source-data/components/sports/SportsPages/rubics/rubics.json",
+      "constants": [
+        "cards",
+        "images"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/rubics/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/rubics/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/tennis/Tennis.jsx",
+      "content": "content/source-data/components/sports/SportsPages/tennis/Tennis.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/yogastha/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/yogastha/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/yogastha/yogastha.jsx",
+      "content": "content/source-data/components/sports/SportsPages/yogastha/yogastha.json",
+      "constants": [
+        "images"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/cricket/cricket/Cricket.jsx",
+      "content": "content/source-data/components/sports/SportsPages/cricket/cricket/Cricket.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/cricket/cricket/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/cricket/cricket/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/football/football/Football.jsx",
+      "content": "content/source-data/components/sports/SportsPages/football/football/Football.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/football/football/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/football/football/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/hockey/hockey/Hockey.jsx",
+      "content": "content/source-data/components/sports/SportsPages/hockey/hockey/Hockey.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/hockey/hockey/timeline4.jsx",
+      "content": "content/source-data/components/sports/SportsPages/hockey/hockey/timeline4.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/indiangames/indiangames/IndianGames.jsx",
+      "content": "content/source-data/components/sports/SportsPages/indiangames/indiangames/IndianGames.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/indiangames/indiangames/timeline2.jsx",
+      "content": "content/source-data/components/sports/SportsPages/indiangames/indiangames/timeline2.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/squash/squash/squash.jsx",
+      "content": "content/source-data/components/sports/SportsPages/squash/squash/squash.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/squash/squash/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/squash/squash/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/tabletennis/tabletennis/tabletennis.jsx",
+      "content": "content/source-data/components/sports/SportsPages/tabletennis/tabletennis/tabletennis.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/tabletennis/tabletennis/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/tabletennis/tabletennis/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/volleyball/volleyball/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/volleyball/volleyball/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/volleyball/volleyball/volleyball.jsx",
+      "content": "content/source-data/components/sports/SportsPages/volleyball/volleyball/volleyball.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/wtlift/wtlift/wtlift.jsx",
+      "content": "content/source-data/components/sports/SportsPages/wtlift/wtlift/wtlift.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/aquatics/src/aquatics/aquatics.js",
+      "content": "content/source-data/components/sports/SportsPages/aquatics/src/aquatics/aquatics.json",
+      "constants": [
+        "facilities",
+        "ruleCategories",
+        "eventImages",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/aquatics/src/aquatics/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/aquatics/src/aquatics/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/athletics/src/aquatics/aquatics.jsx",
+      "content": "content/source-data/components/sports/SportsPages/athletics/src/aquatics/aquatics.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/athletics/src/aquatics/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/athletics/src/aquatics/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/badminton/src/badminton/badminton.jsx",
+      "content": "content/source-data/components/sports/SportsPages/badminton/src/badminton/badminton.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/badminton/src/badminton/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/badminton/src/badminton/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/basketball/src/aquatics/basketball.jsx",
+      "content": "content/source-data/components/sports/SportsPages/basketball/src/aquatics/basketball.json",
+      "constants": [
+        "facilities",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/basketball/src/aquatics/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/basketball/src/aquatics/timeline.json",
+      "constants": []
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/boardgame/src/aquatics/boardgames.jsx",
+      "content": "content/source-data/components/sports/SportsPages/boardgame/src/aquatics/boardgames.json",
+      "constants": [
+        "facilities",
+        "clubs",
+        "cards",
+        "galleryImages"
+      ]
+    },
+    {
+      "source": "source/app/components/sports/SportsPages/boardgame/src/aquatics/timeline.jsx",
+      "content": "content/source-data/components/sports/SportsPages/boardgame/src/aquatics/timeline.json",
+      "constants": []
+    }
+  ],
+  "errors": []
+}

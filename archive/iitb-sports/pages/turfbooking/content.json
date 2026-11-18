@@ -1,0 +1,278 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 AM - 7:30 AM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:30 AM - 8:30 AM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:30 AM - 9:30 AM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "9:30 AM - 10:30 AM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "10:30 AM - 11:30 AM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "11:30 AM - 12:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:30 PM - 1:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:30 PM - 2:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:30 PM - 3:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:30 PM - 4:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:30 PM - 5:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:30 PM - 6:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 PM - 8:00 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:00 PM - 9:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 AM - 7:30 AM\nStatus: requested"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:30 AM - 8:30 AM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:30 AM - 9:30 AM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "9:30 AM - 10:30 AM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "10:30 AM - 11:30 AM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "11:30 AM - 12:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:30 PM - 1:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:30 PM - 2:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:30 PM - 3:30 PM\nStatus: available"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:30 PM - 4:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:30 PM - 5:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:30 PM - 6:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:30 PM - 8:00 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "8:00 PM - 9:30 PM\nStatus: booked"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "BOOK SLOT"
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Football Turf Booking"
+    },
+    {
+      "level": "H2",
+      "text": "TODAY'S SLOTS (18/10/2026) - DISPLAY ONLY"
+    },
+    {
+      "level": "H4",
+      "text": "Note: Slots can only be booked for Tomorrow"
+    },
+    {
+      "level": "H2",
+      "text": "BOOKING FORM"
+    },
+    {
+      "level": "H2",
+      "text": "AVAILABLE SLOTS FOR TOMORROW (19 OCTOBER 2026)"
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://docs.google.com/document/d/1_fEFMokJl8iC8Jt5ivA2x-5yqGFHtS5FlJNtMvUiKog/edit?addon_store&tab=t.0",
+      "text": "RULEBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "Football Turf Booking\nTODAY'S SLOTS (18/10/2026) - DISPLAY ONLY\nNote: Slots can only be booked for Tomorrow\n6:30 AM - 7:30 AM\nStatus: booked\n7:30 AM - 8:30 AM\nStatus: booked\n8:30 AM - 9:30 AM\nStatus: booked\n9:30 AM - 10:30 AM\nStatus: booked\n10:30 AM - 11:30 AM\nStatus: available\n11:30 AM - 12:30 PM\nStatus: available\n12:30 PM - 1:30 PM\nStatus: available\n1:30 PM - 2:30 PM\nStatus: available\n2:30 PM - 3:30 PM\nStatus: booked\n3:30 PM - 4:30 PM\nStatus: booked\n4:30 PM - 5:30 PM\nStatus: booked\n5:30 PM - 6:30 PM\nStatus: available\n6:30 PM - 8:00 PM\nStatus: booked\n8:00 PM - 9:30 PM\nStatus: booked\nBOOKING FORM\nNAME:\nROLL NUMBER:\nLDAP ID:\nROLL NUMBERS OF PLAYERS (COMMA SEPARATED):\nNUMBER OF PLAYERS:\nAVAILABLE SLOTS FOR TOMORROW (19 OCTOBER 2026)\n6:30 AM - 7:30 AM\nStatus: requested\n7:30 AM - 8:30 AM\nStatus: available\n8:30 AM - 9:30 AM\nStatus: available\n9:30 AM - 10:30 AM\nStatus: available\n10:30 AM - 11:30 AM\nStatus: available\n11:30 AM - 12:30 PM\nStatus: available\n12:30 PM - 1:30 PM\nStatus: available\n1:30 PM - 2:30 PM\nStatus: available\n2:30 PM - 3:30 PM\nStatus: available\n3:30 PM - 4:30 PM\nStatus: booked\n4:30 PM - 5:30 PM\nStatus: booked\n5:30 PM - 6:30 PM\nStatus: booked\n6:30 PM - 8:00 PM\nStatus: booked\n8:00 PM - 9:30 PM\nStatus: booked\nI ACCEPT THE TERMS AND CONDITIONS MENTIONED IN THE RULEBOOK\n\nThe Institute Sports Council reserves the right to cancel any turf booking at any time for valid reasons.\n\nBOOK SLOT",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nFootball Turf Booking\nTODAY'S SLOTS (18/10/2026) - DISPLAY ONLY\nNote: Slots can only be booked for Tomorrow\n6:30 AM - 7:30 AM\nStatus: booked\n7:30 AM - 8:30 AM\nStatus: booked\n8:30 AM - 9:30 AM\nStatus: booked\n9:30 AM - 10:30 AM\nStatus: booked\n10:30 AM - 11:30 AM\nStatus: available\n11:30 AM - 12:30 PM\nStatus: available\n12:30 PM - 1:30 PM\nStatus: available\n1:30 PM - 2:30 PM\nStatus: available\n2:30 PM - 3:30 PM\nStatus: booked\n3:30 PM - 4:30 PM\nStatus: booked\n4:30 PM - 5:30 PM\nStatus: booked\n5:30 PM - 6:30 PM\nStatus: available\n6:30 PM - 8:00 PM\nStatus: booked\n8:00 PM - 9:30 PM\nStatus: booked\nBOOKING FORM\nNAME:\nROLL NUMBER:\nLDAP ID:\nROLL NUMBERS OF PLAYERS (COMMA SEPARATED):\nNUMBER OF PLAYERS:\nAVAILABLE SLOTS FOR TOMORROW (19 OCTOBER 2026)\n6:30 AM - 7:30 AM\nStatus: requested\n7:30 AM - 8:30 AM\nStatus: available\n8:30 AM - 9:30 AM\nStatus: available\n9:30 AM - 10:30 AM\nStatus: available\n10:30 AM - 11:30 AM\nStatus: available\n11:30 AM - 12:30 PM\nStatus: available\n12:30 PM - 1:30 PM\nStatus: available\n1:30 PM - 2:30 PM\nStatus: available\n2:30 PM - 3:30 PM\nStatus: available\n3:30 PM - 4:30 PM\nStatus: booked\n4:30 PM - 5:30 PM\nStatus: booked\n5:30 PM - 6:30 PM\nStatus: booked\n6:30 PM - 8:00 PM\nStatus: booked\n8:00 PM - 9:30 PM\nStatus: booked\nI ACCEPT THE TERMS AND CONDITIONS MENTIONED IN THE RULEBOOK\n\nThe Institute Sports Council reserves the right to cancel any turf booking at any time for valid reasons.\n\nBOOK SLOT\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+  "captured_at": "2026-10-18T15:32:24.892960+00:00"
+}

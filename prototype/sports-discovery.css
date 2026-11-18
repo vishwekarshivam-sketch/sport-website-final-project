@@ -1,0 +1,54 @@
+/* A photographic pause between the BlackCats finale and the campus explorer. */
+.sporting-home .sports{padding-bottom:70px}
+.sporting-home .sports .section-heading{margin-bottom:45px}
+.sports-discovery{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(0,1fr);gap:clamp(35px,6vw,90px);align-items:center;margin-bottom:50px}
+.discovery-view{position:relative;min-width:0;overflow:hidden;background:#183e33;color:#f4f1e9;isolation:isolate}
+.discovery-photo{margin:0;position:relative;aspect-ratio:4/5}
+.discovery-photo img{display:block;width:100%;height:100%;position:absolute;inset:0;object-fit:cover;object-position:center;filter:none}
+.discovery-photo:after{content:'';position:absolute;inset:45% 0 0;background:linear-gradient(transparent,#102b23dc);pointer-events:none}
+.discovery-photo figcaption{position:absolute;bottom:90px;left:30px;right:30px;z-index:2;font-size:clamp(23px,2.5vw,34px);line-height:1.18;max-width:370px;pointer-events:none}
+.discovery-photo-tabs{position:absolute;z-index:3;top:24px;left:24px;display:flex;padding:4px;border:1px solid #f4f1e95c;border-radius:40px;background:#14382cba;backdrop-filter:blur(12px)}
+.discovery-photo-tabs button{font:inherit;font-size:15px;min-height:40px;padding:8px 16px;color:#f4f1e9;background:transparent;border:0;border-radius:30px;cursor:pointer}
+.discovery-photo-tabs button[aria-pressed=true]{color:#183e33;background:#f4f1e9}
+.discovery-enter{position:absolute;left:30px;right:30px;bottom:26px;z-index:3;color:#f4f1e9;text-decoration:none;font-size:19px;min-height:44px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #f4f1e980;padding-bottom:8px}
+.discovery-enter span{font:26px Arial,sans-serif;transition:transform 350ms}
+.discovery-enter:hover span{transform:translate(3px,-3px)}
+.discovery-invitation{font-size:clamp(20px,2.4vw,30px);line-height:1.35;margin:0 0 30px;max-width:340px;color:#5b705f}
+.discovery-choice{position:relative;display:flex;align-items:center;gap:20px;border-top:1px solid #183e332b;padding:25px 0;min-height:110px;box-sizing:border-box}
+.discovery-choice:last-of-type{border-bottom:1px solid #183e332b}
+.discovery-choice:before{content:'';position:absolute;top:-1px;left:0;right:0;height:1px;background:#183e33;transform:scaleX(0);transform-origin:left;transition:transform 650ms cubic-bezier(.2,.7,.2,1)}
+.discovery-choice.is-selected:before{transform:scaleX(1)}
+.discovery-choice>div{flex:1;min-width:0}
+.discovery-choice a{display:flex;justify-content:space-between;align-items:center;gap:15px;color:#183e33;text-decoration:none;font-size:clamp(32px,3.5vw,49px);line-height:1.1}
+.discovery-choice a>span{font:22px Arial,sans-serif;opacity:0;transform:translate(-5px,5px);transition:opacity 350ms,transform 450ms}
+.discovery-choice:is(.is-selected,:focus-within) a>span{opacity:1;transform:none}
+.discovery-choice p{font-size:17px;line-height:1.5;margin:12px 0 0;color:#5b705f}
+.discovery-preview{flex-shrink:0;width:46px;height:46px;border-radius:50%;border:1px solid #183e3345;background:transparent;color:#183e33;font:24px Arial,sans-serif;cursor:pointer;transition:background 350ms,color 350ms}
+.discovery-preview[aria-pressed=true]{background:#183e33;color:#f4f1e9}
+.discovery-preview[aria-pressed=true] span{font-size:0}.discovery-preview[aria-pressed=true] span:after{content:'•';font:22px Arial,sans-serif}
+.discovery-help{font-size:15px;color:#5b705f;line-height:1.5;margin:22px 0 0}
+.sports-discovery [hidden]{display:none!important}
+.sports-discovery :is(a,button):focus-visible{outline:3px solid #9b743f;outline-offset:5px}
+@media(max-width:760px){
+ .sports-discovery{grid-template-columns:1fr;gap:28px;margin-bottom:32px}
+ .discovery-view{order:2}.discovery-choices{order:1}
+ .discovery-invitation{font-size:21px;margin-bottom:20px}
+ .discovery-choice{padding:18px 0;min-height:100px}.discovery-choice a{font-size:34px}.discovery-choice a>span{opacity:1;transform:none}
+ .discovery-choice p{font-size:16px;margin-top:9px}.discovery-help{margin:16px 0 0}
+ .discovery-photo{aspect-ratio:4/5;max-height:570px}
+ .discovery-photo-tabs{top:16px;left:16px}.discovery-photo-tabs button{font-size:14px;padding:8px 13px}
+ .discovery-photo figcaption{left:22px;right:22px;font-size:28px;bottom:85px}.discovery-enter{left:22px;right:22px;font-size:18px}
+ .sporting-home .sports{padding-bottom:35px}
+}
+@media(prefers-reduced-motion:reduce){.sports-discovery *{transition:none!important;animation:none!important}}
+.motion-paused .sports-discovery *{transition:none!important;animation:none!important}
+
+@media(hover:hover) and (pointer:fine){.discovery-preview{width:38px;height:38px}}
+/* Consistent small navigation responses, scoped to the homepage. */
+.sporting-home :is(.site-footer .footer-column a,.header>nav a){text-decoration:none;background-image:linear-gradient(currentColor,currentColor);background-repeat:no-repeat;background-size:0 1px;background-position:left bottom;transition:background-size 450ms cubic-bezier(.22,.7,.15,1)}
+.sporting-home :is(.site-footer .footer-column a,.header>nav a):is(:hover,:focus-visible){background-size:100% 1px}
+.sporting-home .site-menu[open] .site-menu-links{animation:home-menu-arrive 400ms cubic-bezier(.22,.7,.15,1) both}
+@keyframes home-menu-arrive{from{opacity:0;transform:translateY(-7px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.sporting-home .site-menu[open] .site-menu-links{animation:none}.sporting-home :is(.footer-column a,.header>nav a){transition:none}}
+
+.discovery-photo[data-view=people] img{object-fit:contain}

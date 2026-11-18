@@ -1,0 +1,25 @@
+[
+  {
+    "url": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg",
+    "path": "mirror/gymkhana.iitb.ac.in/sports/pictures/phone.svg",
+    "captured_at": "2026-10-18T15:32:53.923406+00:00",
+    "status": "html_fallback",
+    "http_status": 200,
+    "content_type": "text/html",
+    "bytes": 1099
+  },
+  {
+    "url": "https://court-status-backend-node-production.up.railway.app/api/sports",
+    "path": "mirror/court-status-backend-node-production.up.railway.app/api/sports",
+    "captured_at": "2026-10-18T15:32:53.923023+00:00",
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://feedbackbackend-mlc8bmyp.b4a.run/api/feedback/contacts",
+    "path": "mirror/feedbackbackend-mlc8bmyp.b4a.run/api/feedback/contacts",
+    "captured_at": "2026-10-18T15:32:53.923208+00:00",
+    "status": "error",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

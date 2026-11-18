@@ -1,0 +1,379 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Badminton\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Indoor Badminton Hall"
+    },
+    {
+      "level": "H3",
+      "text": "Dedicated Coach"
+    },
+    {
+      "level": "H3",
+      "text": "Open to All"
+    },
+    {
+      "level": "H3",
+      "text": "Equipment"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Institute Badminton Open (IBO)"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Badminton League (IBL)"
+    },
+    {
+      "level": "H3",
+      "text": "General Championship"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Freshman Open"
+    },
+    {
+      "level": "H3",
+      "text": "PGGC"
+    },
+    {
+      "level": "H3",
+      "text": "Battle of Batches"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the court."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Badminton courts",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm1.ba799b4d8dbdbd9a4ab2.jpeg"
+    },
+    {
+      "alt": "Indoor Badminton Hall",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm5.6fec89cf7f48edf239e2.jpeg"
+    },
+    {
+      "alt": "Dedicated Coach",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm2.c7ce9d2d914990f2fcd4.jpeg"
+    },
+    {
+      "alt": "Open to All",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm3.0a4f62a7f50599396667.jpeg"
+    },
+    {
+      "alt": "Equipment",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm4.dbc2b53f022406ce2924.jpeg"
+    },
+    {
+      "alt": "The indoor hall — seven courts, full capacity.",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm6.064850e2a4d83cf3a448.jpeg"
+    },
+    {
+      "alt": "Institute Badminton Open (IBO)",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm1.ba799b4d8dbdbd9a4ab2.jpeg"
+    },
+    {
+      "alt": "Institute Badminton League (IBL)",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm2.c7ce9d2d914990f2fcd4.jpeg"
+    },
+    {
+      "alt": "General Championship",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm3.0a4f62a7f50599396667.jpeg"
+    },
+    {
+      "alt": "Institute Freshman Open",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm4.dbc2b53f022406ce2924.jpeg"
+    },
+    {
+      "alt": "PGGC",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm6.064850e2a4d83cf3a448.jpeg"
+    },
+    {
+      "alt": "Battle of Batches",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm7.b15302063a4384f44f80.jpeg"
+    },
+    {
+      "alt": "General Championship — hostel rivalries at their finest.",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm7.b15302063a4384f44f80.jpeg"
+    },
+    {
+      "alt": "Shelendra Rasaniya",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "Radhika Bansal",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/radhika.891c12a48a925c11140b.JPG"
+    },
+    {
+      "alt": "Badminton gallery 1",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm1.ba799b4d8dbdbd9a4ab2.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm1.ba799b4d8dbdbd9a4ab2.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm2.c7ce9d2d914990f2fcd4.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm3.0a4f62a7f50599396667.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm4.dbc2b53f022406ce2924.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm6.064850e2a4d83cf3a448.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm7.b15302063a4384f44f80.jpeg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/bm8.e170330df139420d5601.jpeg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "B\nIIT BOMBAY BADMINTON / OLD GYMKHANA\nCOACH SHELENDRA RASANIYA\n7 INDOOR COURTS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 03\n§\nRACKET SPORTS · OLD GYMKHANA\nBadminton\nat IIT Bombay.\n\nBadminton is one of the most popular sports on campus, and we cater to everyone — students, professors, and all staff members. Located in front of Hostel 2 and beside the Swimming Pool in the Old Gymkhana, the facility runs year-round with a dedicated coach, seven air-conditioned synthetic courts, and a packed calendar of events that keep competition fierce and participation high.\n\nINDOOR COURTS\n2\nSynthetic flooring · A/C\nCOACH\nShelendra R.\nSports Officer\nFIXTURES\n1\nAnnual tournaments\nOPEN TO\nAll campus\nStudents · Staff · Faculty\n§ 01\n · FACILITIES\nWhat's on offer.\n\nSeven courts. One membership. Everyone welcome.\n\nIndoor Badminton Hall\n7 courts with professional synthetic flooring.\nCentralised air conditioning for comfortable year-round play.\nDedicated changing rooms and equipment storage.\nDedicated Coach\nFull-time coaching from Shelendra Rasaniya, Sports Officer.\nStructured training sessions for institute players across all skill levels.\nOpen to All\nCourts available to students, professors, and all campus staff.\nLocated in the Old Gymkhana — in front of Hostel 2, beside the Swimming Pool.\nEquipment\nRackets and shuttlecocks available for loan during open sessions.\nAll courts equipped with standard BWF-compliant nets and lighting.\nFIG. A\nTHE INDOOR HALL — SEVEN COURTS, FULL CAPACITY.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix tournaments. Tap a headline to read the full brief.\n\nN° 01\nInstitute Badminton Open (IBO)\n\nThe flagship open tournament of IIT Bombay Badminton, open to all campus residents. Players across skill levels compete across singles, doubles, and mixed doubles categories in a knock-out format.\n\nCONTINUE READING →\nN° 02\nInstitute Badminton League (IBL)\n\nA league-format tournament that ensures every registered team plays multiple matches. The IBL is designed to maximise court time and competitive experience across the semester.\n\nCONTINUE READING →\nN° 03\nGeneral Championship\n\nThe inter-hostel Badminton General Championship — the most hotly contested fixture on the campus badminton calendar. Hostels field squads in singles and doubles categories, with points feeding into the overall GC standings.\n\nCONTINUE READING →\nN° 04\nInstitute Freshman Open\n\nAn open tournament exclusively for first-year students, giving freshers their first competitive badminton experience on campus in a supportive, high-energy environment.\n\nCONTINUE READING →\nN° 05\nPGGC\n\nThe Post-Graduate General Championship — a dedicated inter-hostel badminton competition for PG students, mirroring the format of the main GC and running alongside the broader sports calendar.\n\nCONTINUE READING →\nN° 06\nBattle of Batches\n\nAn annual grudge match between graduating batches, where each year group fields its best players in a team-format showdown to claim bragging rights before graduation.\n\nCONTINUE READING →\nFIG. B\nGENERAL CHAMPIONSHIP — HOSTEL RIVALRIES AT THEIR FINEST.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nShelendra Rasaniya\n\nCOACH, SPORTS OFFICER\n\n+91 97939 90585\n\nRadhika Bansal\n\nINSTITUTE BADMINTON SECRETARY\n\n+91 96495 70774\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 07\nBADMINTON · OLD GYMKHANA\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nOld Gymkhana · Opp. Hostel 2 · IIT Bombay\n\nSet in Fraunces & JetBrains Mono.\nIIT BOMBAY · BADMINTON · OLD GYMKHANA\nPRINT / DIGITAL · FINAL EDITION",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d942.3410964230648!2d72.91128878064984!3d19.1355206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80707f747dd%3A0x2836a7e40ba1c6e5!2sBadminton%20Court!5e0!3m2!1sen!2sin!4v1720102713953!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nB\nIIT BOMBAY BADMINTON / OLD GYMKHANA\nCOACH SHELENDRA RASANIYA\n7 INDOOR COURTS\nPOWAI · IIT BOMBAY\nDOSSIER NO. 03\n§\nRACKET SPORTS · OLD GYMKHANA\nBadminton\nat IIT Bombay.\n\nBadminton is one of the most popular sports on campus, and we cater to everyone — students, professors, and all staff members. Located in front of Hostel 2 and beside the Swimming Pool in the Old Gymkhana, the facility runs year-round with a dedicated coach, seven air-conditioned synthetic courts, and a packed calendar of events that keep competition fierce and participation high.\n\nINDOOR COURTS\n2\nSynthetic flooring · A/C\nCOACH\nShelendra R.\nSports Officer\nFIXTURES\n1\nAnnual tournaments\nOPEN TO\nAll campus\nStudents · Staff · Faculty\n§ 01\n · FACILITIES\nWhat's on offer.\n\nSeven courts. One membership. Everyone welcome.\n\nIndoor Badminton Hall\n7 courts with professional synthetic flooring.\nCentralised air conditioning for comfortable year-round play.\nDedicated changing rooms and equipment storage.\nDedicated Coach\nFull-time coaching from Shelendra Rasaniya, Sports Officer.\nStructured training sessions for institute players across all skill levels.\nOpen to All\nCourts available to students, professors, and all campus staff.\nLocated in the Old Gymkhana — in front of Hostel 2, beside the Swimming Pool.\nEquipment\nRackets and shuttlecocks available for loan during open sessions.\nAll courts equipped with standard BWF-compliant nets and lighting.\nFIG. A\nTHE INDOOR HALL — SEVEN COURTS, FULL CAPACITY.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix tournaments. Tap a headline to read the full brief.\n\nN° 01\nInstitute Badminton Open (IBO)\n\nThe flagship open tournament of IIT Bombay Badminton, open to all campus residents. Players across skill levels compete across singles, doubles, and mixed doubles categories in a knock-out format.\n\nCONTINUE READING →\nN° 02\nInstitute Badminton League (IBL)\n\nA league-format tournament that ensures every registered team plays multiple matches. The IBL is designed to maximise court time and competitive experience across the semester.\n\nCONTINUE READING →\nN° 03\nGeneral Championship\n\nThe inter-hostel Badminton General Championship — the most hotly contested fixture on the campus badminton calendar. Hostels field squads in singles and doubles categories, with points feeding into the overall GC standings.\n\nCONTINUE READING →\nN° 04\nInstitute Freshman Open\n\nAn open tournament exclusively for first-year students, giving freshers their first competitive badminton experience on campus in a supportive, high-energy environment.\n\nCONTINUE READING →\nN° 05\nPGGC\n\nThe Post-Graduate General Championship — a dedicated inter-hostel badminton competition for PG students, mirroring the format of the main GC and running alongside the broader sports calendar.\n\nCONTINUE READING →\nN° 06\nBattle of Batches\n\nAn annual grudge match between graduating batches, where each year group fields its best players in a team-format showdown to claim bragging rights before graduation.\n\nCONTINUE READING →\nFIG. B\nGENERAL CHAMPIONSHIP — HOSTEL RIVALRIES AT THEIR FINEST.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nShelendra Rasaniya\n\nCOACH, SPORTS OFFICER\n\n+91 97939 90585\n\nRadhika Bansal\n\nINSTITUTE BADMINTON SECRETARY\n\n+91 96495 70774\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 07\nBADMINTON · OLD GYMKHANA\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nOld Gymkhana · Opp. Hostel 2 · IIT Bombay\n\nSet in Fraunces & JetBrains Mono.\nIIT BOMBAY · BADMINTON · OLD GYMKHANA\nPRINT / DIGITAL · FINAL EDITION\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/badminton",
+  "captured_at": "2026-10-18T15:27:30.485158+00:00"
+}

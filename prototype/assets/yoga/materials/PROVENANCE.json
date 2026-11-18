@@ -1,0 +1,74 @@
+{
+  "license": "CC0",
+  "assets": [
+    "https://polyhaven.com/a/wood_floor_deck",
+    "https://polyhaven.com/a/plastered_wall_02",
+    "https://polyhaven.com/a/stone_tiles_02"
+  ],
+  "sources": [
+    {
+      "material": "wood",
+      "channel": "color",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor_deck/wood_floor_deck_diff_1k.jpg",
+      "sha256": "1f2c623e87b0ee905f6f4ec8664dd19b4b135207c96e86198ff2919770b47166",
+      "originalBytes": 925789
+    },
+    {
+      "material": "wood",
+      "channel": "normal",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor_deck/wood_floor_deck_nor_gl_1k.jpg",
+      "sha256": "2fa427b9196099c0ff72d1a1ab472e2a79ca2a76906a5c46d134f8a86e086d23",
+      "originalBytes": 665094
+    },
+    {
+      "material": "wood",
+      "channel": "rough",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/wood_floor_deck/wood_floor_deck_rough_1k.jpg",
+      "sha256": "5754d2c2a91a288bb257e0fa8c697d97b48472c9fb77c4c7f0ffcc302f3f60a2",
+      "originalBytes": 658448
+    },
+    {
+      "material": "plaster",
+      "channel": "color",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_diff_1k.jpg",
+      "sha256": "0a316ffd3f953a902325c06afb5a5863bbf71d13a353f9d85378562adca79603",
+      "originalBytes": 436395
+    },
+    {
+      "material": "plaster",
+      "channel": "normal",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_nor_gl_1k.jpg",
+      "sha256": "0f1b4ea0c4707ea133f133c020923bddd8610a43a153281dad15d49f39ad9624",
+      "originalBytes": 960241
+    },
+    {
+      "material": "plaster",
+      "channel": "rough",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/plastered_wall_02/plastered_wall_02_rough_1k.jpg",
+      "sha256": "6c317c0e647b02259601690bd33501bbc825858c6d1715cd0f8f46a5b51f6db4",
+      "originalBytes": 173930
+    },
+    {
+      "material": "stone",
+      "channel": "color",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tiles_02/stone_tiles_02_diff_1k.jpg",
+      "sha256": "687ef4a6cc07fb680352cf26b0a2a6256d4c18d8084dcd59ac739bc509296e18",
+      "originalBytes": 817710
+    },
+    {
+      "material": "stone",
+      "channel": "normal",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tiles_02/stone_tiles_02_nor_gl_1k.jpg",
+      "sha256": "ab19cc9baacb0bc30a219f841254beb6837412ddad9bfc9c052b5aa805d1c3f0",
+      "originalBytes": 873564
+    },
+    {
+      "material": "stone",
+      "channel": "rough",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/stone_tiles_02/stone_tiles_02_rough_1k.jpg",
+      "sha256": "889f66231be4f25ecd80b5d87f06f4e8c22c801edb8dcc7e34c13e6b4b74491c",
+      "originalBytes": 476160
+    }
+  ],
+  "derivation": "1K original maps converted to local WebP; no geometry or photographs of campus are generated."
+}

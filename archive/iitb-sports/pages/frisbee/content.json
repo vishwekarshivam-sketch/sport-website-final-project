@@ -1,0 +1,328 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Ultimate Frisbee\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Equipment"
+    },
+    {
+      "level": "H3",
+      "text": "Grounds"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "General Championships"
+    },
+    {
+      "level": "H3",
+      "text": "Beginners Camp"
+    },
+    {
+      "level": "H3",
+      "text": "Women’s Camp"
+    },
+    {
+      "level": "H3",
+      "text": "Ultimate Frisbee Open (UFO)"
+    },
+    {
+      "level": "H3",
+      "text": "Competitive Circuit"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the field."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Ultimate Frisbee",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_3.397136800eb7574c6e98.jpg"
+    },
+    {
+      "alt": "Equipment",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_5.3cde77f4c10a1abb1ad7.jpg"
+    },
+    {
+      "alt": "Grounds",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_2.5f1af36677e305ebc56f.jpg"
+    },
+    {
+      "alt": "Practice on the Outdoor Turf.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_4.7a8fb66bfcfffea9fab6.jpg"
+    },
+    {
+      "alt": "General Championships",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_1.6fe3e91c0a19e7485306.jpg"
+    },
+    {
+      "alt": "Beginners Camp",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_2.5f1af36677e305ebc56f.jpg"
+    },
+    {
+      "alt": "Women’s Camp",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_3.397136800eb7574c6e98.jpg"
+    },
+    {
+      "alt": "Ultimate Frisbee Open (UFO)",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_4.7a8fb66bfcfffea9fab6.jpg"
+    },
+    {
+      "alt": "Competitive Circuit",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_5.3cde77f4c10a1abb1ad7.jpg"
+    },
+    {
+      "alt": "Ultimate Frisbee Open — the club's flagship tournament.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_6.7c4ddfdf6201fabdf17a.jpg"
+    },
+    {
+      "alt": "Shaashvat Sekhar",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_1.6fe3e91c0a19e7485306.jpg"
+    },
+    {
+      "alt": "Ultimate Frisbee gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_1.6fe3e91c0a19e7485306.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_1.6fe3e91c0a19e7485306.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_2.5f1af36677e305ebc56f.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_3.397136800eb7574c6e98.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_4.7a8fb66bfcfffea9fab6.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_5.3cde77f4c10a1abb1ad7.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/pic_6.7c4ddfdf6201fabdf17a.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "UF\nIIT BOMBAY ULTIMATE FRISBEE CLUB\nCOACH MAKSOOD CHAUDHARY\nFOUNDED 2022\nPOWAI · IIT BOMBAY\nDOSSIER NO. 15\n§\nULTIMATE FRISBEE · CAMPUS GROUNDS\nUltimate Frisbee\nat IIT Bombay.\n\nUltimate frisbee is a mixed-gender, self-refereed sport rapidly growing around the world and in India. Played earlier by a group of dedicated students and formally inaugurated in 2022, the Ultimate Frisbee Club pioneers the sport on the IIT Bombay campus — organising Championships, camps, and the Ultimate Frisbee Open for a vibrant community of undergraduates, postgraduates, staff, and alumni. Under new coach Maksood Chaudhary, who has both played for and coached Team India, the club is gearing towards competitive success.\n\nFOUNDED\n2022\nFormally inaugurated\nANNUAL EVENTS\n2\nGCs, camps & UFO\nCOACH'S EXPERIENCE\n3+ yrs\nPlayed & coached Team India\nSECRETARY\nShaashvat\nInstitute Frisbee Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nFull kit · Five grounds · Weather-flexible.\n\nEquipment\nUltimate frisbee discs, cones, markers, and bibs for matches and sessions.\nFull kit maintained to run camps and tournaments end to end.\nGrounds\nPlays across the Football ground, Hockey ground, Outdoor Turf, Indoor Turf, and Kho-Kho area, as per convenience.\nFlexible venue use lets the club run sessions rain or shine.\nFIG. A\nPRACTICE ON THE OUTDOOR TURF.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nGeneral Championships\n\nThe club's flagship inter-hostel competition, bringing together undergraduates, postgraduates, staff, and alumni to compete for hostel glory on the ultimate field.\n\nCONTINUE READING →\nN° 02\nBeginners Camp\n\nAn entry point for newcomers to the sport, run by the club to teach the fundamentals of ultimate frisbee — throws, cuts, and the sport's self-refereed \"Spirit of the Game\" ethos.\n\nCONTINUE READING →\nN° 03\nWomen’s Camp\n\nA dedicated camp welcoming women across campus into the sport, building skills and confidence in a supportive, beginner-friendly environment.\n\nCONTINUE READING →\nN° 04\nUltimate Frisbee Open (UFO)\n\nThe club's open tournament, welcoming teams and players from across the institute and beyond to compete on IIT Bombay's grounds.\n\nCONTINUE READING →\nN° 05\nCompetitive Circuit\n\nBeyond campus, the team competes in the National College Ultimate Championship (NCUC), West Sectionals, and IIT Bombay's own Aavhan Sports Festival, and is part of the wider Mumbai Ultimate Community.\n\nCONTINUE READING →\nFIG. B\nULTIMATE FRISBEE OPEN — THE CLUB'S FLAGSHIP TOURNAMENT.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nShiv Patil\n\nFRISBEE CLUB MANAGER\n\n+91 98904 38497\n\n§ 05\n · GALLERY\nFrom the field.\nFIG. 01 / 06\nULTIMATE FRISBEE · CAMPUS GROUNDS\n←\n→",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nUF\nIIT BOMBAY ULTIMATE FRISBEE CLUB\nCOACH MAKSOOD CHAUDHARY\nFOUNDED 2022\nPOWAI · IIT BOMBAY\nDOSSIER NO. 15\n§\nULTIMATE FRISBEE · CAMPUS GROUNDS\nUltimate Frisbee\nat IIT Bombay.\n\nUltimate frisbee is a mixed-gender, self-refereed sport rapidly growing around the world and in India. Played earlier by a group of dedicated students and formally inaugurated in 2022, the Ultimate Frisbee Club pioneers the sport on the IIT Bombay campus — organising Championships, camps, and the Ultimate Frisbee Open for a vibrant community of undergraduates, postgraduates, staff, and alumni. Under new coach Maksood Chaudhary, who has both played for and coached Team India, the club is gearing towards competitive success.\n\nFOUNDED\n2022\nFormally inaugurated\nANNUAL EVENTS\n2\nGCs, camps & UFO\nCOACH'S EXPERIENCE\n3+ yrs\nPlayed & coached Team India\nSECRETARY\nShaashvat\nInstitute Frisbee Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nFull kit · Five grounds · Weather-flexible.\n\nEquipment\nUltimate frisbee discs, cones, markers, and bibs for matches and sessions.\nFull kit maintained to run camps and tournaments end to end.\nGrounds\nPlays across the Football ground, Hockey ground, Outdoor Turf, Indoor Turf, and Kho-Kho area, as per convenience.\nFlexible venue use lets the club run sessions rain or shine.\nFIG. A\nPRACTICE ON THE OUTDOOR TURF.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nGeneral Championships\n\nThe club's flagship inter-hostel competition, bringing together undergraduates, postgraduates, staff, and alumni to compete for hostel glory on the ultimate field.\n\nCONTINUE READING →\nN° 02\nBeginners Camp\n\nAn entry point for newcomers to the sport, run by the club to teach the fundamentals of ultimate frisbee — throws, cuts, and the sport's self-refereed \"Spirit of the Game\" ethos.\n\nCONTINUE READING →\nN° 03\nWomen’s Camp\n\nA dedicated camp welcoming women across campus into the sport, building skills and confidence in a supportive, beginner-friendly environment.\n\nCONTINUE READING →\nN° 04\nUltimate Frisbee Open (UFO)\n\nThe club's open tournament, welcoming teams and players from across the institute and beyond to compete on IIT Bombay's grounds.\n\nCONTINUE READING →\nN° 05\nCompetitive Circuit\n\nBeyond campus, the team competes in the National College Ultimate Championship (NCUC), West Sectionals, and IIT Bombay's own Aavhan Sports Festival, and is part of the wider Mumbai Ultimate Community.\n\nCONTINUE READING →\nFIG. B\nULTIMATE FRISBEE OPEN — THE CLUB'S FLAGSHIP TOURNAMENT.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nShiv Patil\n\nFRISBEE CLUB MANAGER\n\n+91 98904 38497\n\n§ 05\n · GALLERY\nFrom the field.\nFIG. 01 / 06\nULTIMATE FRISBEE · CAMPUS GROUNDS\n←\n→\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/frisbee",
+  "captured_at": "2026-10-18T15:27:49.554064+00:00"
+}

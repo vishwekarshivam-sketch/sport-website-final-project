@@ -1,0 +1,765 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Institute Sports\nCouncil."
+    },
+    {
+      "level": "H2",
+      "text": "General Secretary Sports Affairs"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports Nominee - Events and Clubs"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports Girls' Nominee"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports Admin Nominee"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports PG Nominee"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports Technical Head"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports Creatives Head"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Sports Media Head"
+    },
+    {
+      "level": "H2",
+      "text": "Every Sport.Covered."
+    },
+    {
+      "level": "H3",
+      "text": "Institute Athletics Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Aquatics Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Badminton Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Basketball Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Board Games Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Cricket Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Football Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Hockey Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Indian Games Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Lawn Tennis Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Squash Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Table Tennis Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Volleyball Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Weightlifting Secretary"
+    },
+    {
+      "level": "H3",
+      "text": "Adventure Club Manager"
+    },
+    {
+      "level": "H3",
+      "text": "DKCC and Rubik's Club Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Fitness Club Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Frisbee Manager"
+    },
+    {
+      "level": "H3",
+      "text": "Yogastha Manager"
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/adventure.63ae80da9ea0e7901d73.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/badminton.0877a581d97c736842f5.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/chess.99dd5595d79487b23e01.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAjVBMVEX///8jHyAAAAAfGxwaFRYJAAAXEhMcFxgRCgz5+fkeGRr19fXt7e3y8vLNzc0WEBKRkJBSUFAMAAWura13dnbDwsLX19fk5OS4uLiCgYEpJSagn5/Hx8fh4eFCP0DT09Nvbm47ODl+fX1PTU2ZmJipqKhIRkYtKitkY2OLiopcWls0MTJnZma8u7tRT09PGqZjAAAOrElEQVR4nO1cB7eiOhCGgWBEpAgodlSwoO7//3lvkoAXLFdwbftOvnN2L6gow/SSKIqEhISEhISEhISEhISEhISEhISEhISEhISExD+NwWDa73/6Jp6KjvgDiBU7ZQfBR+/oiZgnGQVI2GEHVNUZ4sEUD3rjD9/Yc9APAKie06X0GWEpHoR4AGHpc7b9mfv7awTgqBxGxk5PhKU9PCjroQ7O8F8k0gVGneYA6FzpxoywKR4MKR50fj7oM/EFEkw+dKMPgxGowX54tMT50MkJ26LgQvmDLc5pfBRxeO2Lvgwn3lhIoTYa/LyTIWEtdrDRVHP287qVLIDm4gxw+HYix3DMj9pIoc4VsCteQMJUdWRSgn+NuHLVIMlJROb6b7zb5jiqRINcKBVmZrRJmqE9jdi5UEtBB3WrFzLjowLRketvvuVmmAESYO7zsxVTL+jpTBttIbUnkDNOsfdg4nsA0dvvugkEDTQWZ7uT5HG1s9m7PYxmGG+h6hzGBCV6iwcdTrk1Tr7UruoVVZqWmAZdxSfM4dt2f2ng+aByIWfhtDjzoUdh9JUWZ5FrWX6zQ9Bb6AKEBCrMmHAdDYyqs1CUBLXQ2BZnR6GwkHXfevO14KHmaSb+08S5n62DqDsBbllOhK3N0wdyVFh4Yr3xNWa1nRRHsaE67gxJdLLS+13hNhhhG3ZOCy9SgLPwkJ90ekwQelyHwesoX4D2HgqzsHTQ0XGbCSeqlTkLYZCkwj22ixTj9AX8gkIxF0yZIU3A4Gz8gjSyszFOQaZLmdVM+R3P8dwKXbT/7JZ7LqOQitxJ16GcO+FVPxHAljGPoMuwMnQ9xvqttFwHEqjqK3HMYmsd3aKp8gh0gr6+latUuw/Q44TZ62y7LTmLCgtFtG7OmFJORqC2303OFUxKQskcAthczlR9rQyEzTAprKzbX1BmYZRbGRN4zOMObl/2RiyZXAl9CTm1Zh627BTQDUzwZ+5vytQFqql5pNfnBHJTQ/ZfoIFFSD1i/oEnDXbOAodFbyoct9nBDe95tb67KYo2DrtM8w3CvuMbAtS+8GH8yTvM2gtXpsPQUk0NZrXT9r5goQ+5NCTIV+cL/P0cdBFkc/PA3DN3FCRD7RmA3jyEdrm8s2its/yJ4Tj6vyjyy8CUDnWNYcazCEu4uiV/af7ANwohh5j5nrKrt8YL0D7AUv/k9oTRZO4cLnLbRthx/XUq3rIdeYC2p6V+gMStcYpA01yD0Oa0Vn/xlRHtcTbuCxUOD5BXcT5BInfVVJhBj1VFA5ZcwOzOZb8j4SUbwcX5EHjsJqB/wLgKZ8/zOC6nVPkDf50PdIbgENTlqavl5VZTZNLwiaQ4oGpR+VyYLDfKdvcvOqbJ72bICrx2umCBgPCts5R71xpf/QJoWlHQ5rQq98PItovqFN5h9ACIVsjmss9VQH9vDH4cLn3OuTmXU4whYxQoJ65xqQhg53ckbl7U5Vr4+IbkJCnvwgochwBP8Xb811cbqqoq1PDK/VxA73We5tAisEAzQ7MI3q6EK6H5lLK75YmEqdW9iUI82+mdD9oLv81/qUXeroRJUUfRmE3v9vJUot5TnhT5kPvrxwrkD/O9SmiJsif3UywnGFCHR9s1w7SCsrBe6pdxdw9vdfYxK5ml/UMeQ6ID2wKAVzcytvOA3KoXmMf625XQKsotkcgBGU8su0EuHuUBWa0uN499SVUJrRczNCWF5Z5yDWxeDAu5kZnWUS0eF5aVcOoHI9jevuAZ4P1bcWjp2kOB9iAYKJNVLevI8qlcCbuTxAMghqaepY7PBqvNk9zUi8roA0Ljj3ZKVOs+bWA9nKm/3JzqdqruNf/FBpiX/S9Lyh+r2Y53dj1TY69ZA5I4RRSnnpLSl2HNrZu4PV49fKy+0HZrjgwdQVfP0HqtexRFUFHP9FqquUE33uDy0C8+ndYsVC1MkUIBLHIKCby2jhoKErMOz+whxTSxdk5oaUBAzYVsW6+gPQGdF13tKDMFfS8fp4rymuECRBVjYZb6ML9D5VFsbovb2e8fLjDLxszaZLzU3HspfcNcOCbc2fOhA7CXM6N20JG3BosWdxTX/mmkj1lSh4/DDcKk/pVNkALEgsaBmrfoaRzik609Z5g3Mgpvo/yp6UytWJib0W5+3K0wSKSvGWiAokKEWPLQmyyUMf7esu43zKGahsSkVlo0LepRGwf9BveKLxlKYTEinIzDNEbSWHzantd3F0lPUFicj2lulO8gu3AYLxksWpui2pvMFmLGrnkwI3pLrZOFYcW6Opb/1NrX9NbpqPGv34OVz06iSTMdoLuHIvwDY8bPPBTr8NeKiWJHbTkEYBPERXBT237XBo9ffhpo9JHQacopLA3PGjULFBbQP0O/r/Tj04jf6ulJ48HgQrp0CjGBu5ecYycsIjm9gJbHSWoJA9f1cJ1HcA4cXtA/RcroWNRFW9z3QtOhpTRnv35K8GYm1B8N9kd5d5nC8iVRG09GfZYAtzwbrc7F8N09dE5DYMWzSTFyqHt1CHmYQSB5UemUG3rSEzfIzU5DRRieBvnyeSHM4OvLQVcMaYB6rwz5OHY/LGgLM9/sUQ7Kc3w8IvEMMSNVD5iL6jA73v/g4/Agb5UcFCVwGidp7s8spnBmMeGKXRdtgOy1mS8GyiNmynSW8hYrJxrg8NMJRGkfKwE0zJ7rlT3+EuEW4M80XznRMLePHbVM4ozWbOV8Blu9eSUh7VXiSu5vPjFgUQvckjbV+T6oZ/jike7uEDBvaojBOYUfaurWRDdorPaVUX0TTX/8gvv6KMoUmrPEMFufvqNno0whmpgBlBouXzmW3xglCjU2DteHU4bnNw7ivxIlSyPi0oNB9iJIudvy/jcQnVM4AZ18r0d8AHFpfkusPHDj5MU9lveiFHjT3Mbs28PGbvV70S2Z0tLSvP+RlE5KFFbWk/xvEJRSC+d/s9tAGXqpidt6Tpu6/+HVGGc/X4m7G1TYbiHKRFPhY0ig6sW71cziL2eALMuB3ge31rBjSzkfCTnPnf5iTdokgOGOGvGn1tGGO4WJD5xXxGdmhUKNPLZma8J22oD1zgHF8j+ybmgD0LcB5vDn7I1yqY3HNQ/NUyyBqObK7/hEYxMBb46I+HAbaLqnHOiid94WHDpVClXSTIvaxwP0bB+2GosXBqC1aOu07vQNaIesYTpHg7IfwbwN5kU+5LXOKGymimz+kZpgdZU1ZXF7SmfpVm/eHHoQx4EPdDSjgTIFb4wC6sNF0kDOCaxsjfEbuiH6lkVLdVH5bLYY0MnfCIwXz9UUcAHGU7QsEbhKCNuoh7y87C6eurg/nr9WuW7uIfcyJaAjzKFZM2jcY+0EK92CQWv3dR4HCmc7dsyVAnoG9KikRAeCIYt33mYvMnxtvz6RWKfxFIIBgO4z7cEkNpjsT4CJt412BuJS67H7oiwaHBIFhgoK2yBAh75LN26EtzA5F5+iWkqTkmf8VRPbUYAmZaZv7AExYhvJNAxmnAbA1kF318tj2d8gp58tsZEHiy4Sph+Gjgn2AZl2gHHAQpnoSkoU5nRhIOCeSPwlAo+2zO95CtCERe3UAjNzNJ5NwlmhtcM4CcmzCVwz2+YpM83UY7rt7RIIUhXSxfoGW1LyI5hbSsUS9htMtI6RggzbLDSwKMuWUfW6QMcpUNY9XizLVx23Tx+obUfxkrHERsfe9oy1qfVSsg8J3vW2nNBW2/O5wxe9mM1uqnj0BhPTBT48xXNWrBpn750t7/8OZvSgrMnZ9E1YDPU8EdOM7SbnpmwOCoUzhoSg5AH44PllmvpZdWgp4FUaSn7ucO2UtrL5wQaFEw7KEH1CRNC6OLrCDqyAmspgWOaeIO+pW4R1LWYxaJIQL0IDjl7YH0K0Qj+8ntll8tCaH1bVn+ZTTVV52ptsPd8ZQtBjRkZKtA3o0EkJGfumCUpSndhn8Sk8d3Owjp8xD9BGgUkgskFnQeLYBdSOdcWyTF3mC8/jaj7nUE18x/RKpxy9QDh1XTa2Q8Drs6yLogKElXXB9hKevi0Y5puEcB830gCc1QBDtD667ASSdpm+broHx71MG+ZwaVf40pRzU4MUMSMat4EKB4e+hw7LdpItLIXtc/v54Xq8BWoIq7ClXuhBmrGddfbKtMI+9CCwvBrvr1ul/VmK18xrLcQV0QmqtkKKkmPlCc53mPhm0VN3ywjX6RiWoZ3mCzlc9EZLCLojWFfDFrQ6sL0uOVO2O8hFx3eksQDg/LPdeBth4Gd79GKCuL/TAVb+s5fM7NBcwYLPs/HzCBZozs9DpP4OkOIbj/YoRqjOiWFdb3It1monFKIhVO3s1EXxnaUvqK9G4FksYcf/OAF9FghXWWWNRzAa3/xtEbBddnz5yuFLa+iuASMCa17W0GmCmfV+/JpMAt2DwmM+EFahs44q9q/tY3iz+y2sWPMNFy6ZxTeKvHwufPfW8suDZA8wSl42a4Luob1gj3p9bbCAjZ/EvztdPq6pX1mNxbeYuHx5nJS/bzBGndB/3f7lrzGCfsDGu4MLNszRLXl35ykEC68J2Mxs/b4ewUpnAGT46mrMFqIxW0g5rdqRgevAPr1v14QnvDrdddCNX2o1Vsqi++UbNm51YRhuzwxCF8NjUm+LI8bCG9PqgeHcmvLv+qunR2U34Z+TpxyzW479EmwG/Vb0j4nl1ZJih20Q+bl9TO3gpmO/hqFze73JRlOvFss8FrY8cm9PwBQd++yWY7+GDgbQtySRrwu7pmZJk194Jphj15JmQcXWuD3hR2sWo94E7tiHTd1SArcXjIgdLr9mGMNFx/6AYUMekZtvBmw1kzn7hl31EOOHVIM1Dc3bb/fZmLBuvGP091Xg8+6/fYAtfKu/8u0LwTfS/3V5khVGX7phcE3wQsX3TgI/ARPQnVdv8vBhBFnwLXsBS0hISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISEhISJTwH0f2xP+wqHIJAAAAAElFTkSuQmCC"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/volleyball.d39c6fd3a0619e4f6ae1.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/fitness.e218df3487026f09efa9.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/frisbee.377801b6acf3c08daf71.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/adventure.63ae80da9ea0e7901d73.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/badminton.0877a581d97c736842f5.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/chess.99dd5595d79487b23e01.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "data:image/png;base64,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"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/volleyball.d39c6fd3a0619e4f6ae1.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/fitness.e218df3487026f09efa9.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/frisbee.377801b6acf3c08daf71.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/adventure.63ae80da9ea0e7901d73.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/badminton.0877a581d97c736842f5.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/chess.99dd5595d79487b23e01.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "data:image/png;base64,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"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/volleyball.d39c6fd3a0619e4f6ae1.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/fitness.e218df3487026f09efa9.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/frisbee.377801b6acf3c08daf71.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/adventure.63ae80da9ea0e7901d73.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/badminton.0877a581d97c736842f5.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/chess.99dd5595d79487b23e01.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "data:image/png;base64,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"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/volleyball.d39c6fd3a0619e4f6ae1.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/fitness.e218df3487026f09efa9.png"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/frisbee.377801b6acf3c08daf71.png"
+    },
+    {
+      "alt": "Deepraj Kasherwal",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Deepraj.1a9478f764b84cdb526f.jpg"
+    },
+    {
+      "alt": "Aryansh Kukreja",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Aryansh%20ISC.6d0835ee55ccd31782db.jpg"
+    },
+    {
+      "alt": "Akanksha Patel",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Akanksha.4422bee6195e8c263d0c.jpg"
+    },
+    {
+      "alt": "Praveen Kumar",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Praveen.ea94397714feb79bd281.jpg"
+    },
+    {
+      "alt": "Shashwata Swarupa Sahoo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "Disha Jain",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/disha.5684ebc50a8382c910db.jpeg"
+    },
+    {
+      "alt": "Viral Chhaperwal",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/viral.36d67d823014a47b9b18.JPG"
+    },
+    {
+      "alt": "Rishiraaj Khurma",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/rishi.d9c08ec2ab11b9a44ba2.JPG"
+    },
+    {
+      "alt": "Prashil Vasoya",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "Ishanei Kumar",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/ishanei.417333e578f254076ab8.jpeg"
+    },
+    {
+      "alt": "Radhika Bansal",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/radhika.891c12a48a925c11140b.JPG"
+    },
+    {
+      "alt": "Manikarnika Sharma",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/mani.0be5a11e6fb4dc8eca32.JPG"
+    },
+    {
+      "alt": "Varad",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/varad.a9feea842a8cb3bf7471.JPG"
+    },
+    {
+      "alt": "Param Shilu",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/param.0ba8540aa09e04c04c23.JPG"
+    },
+    {
+      "alt": "Aditya Patil",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Aditya.4bff9450c8716a41bfc3.jpeg"
+    },
+    {
+      "alt": "Arnav Ashish Deshmukh",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "Darshan Jain",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/darshan.25ccae58736b77d667e7.JPG"
+    },
+    {
+      "alt": "Manan Agrawal",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/manan.50e5d0ef7119bc840354.JPG"
+    },
+    {
+      "alt": "Jay Motwani",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/jay.4b38c7380b73968d0551.JPG"
+    },
+    {
+      "alt": "Supan Shah",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/supan.c115100b2cd4a18ade8d.JPG"
+    },
+    {
+      "alt": "Mitesh",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/volleyball.d39c6fd3a0619e4f6ae1.png"
+    },
+    {
+      "alt": "Sayam",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    },
+    {
+      "alt": "Pranjal",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/adventure.63ae80da9ea0e7901d73.jpg"
+    },
+    {
+      "alt": "Rahul Dutta",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/chess.99dd5595d79487b23e01.png"
+    },
+    {
+      "alt": "Om Salunke",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/fitness.e218df3487026f09efa9.png"
+    },
+    {
+      "alt": "Shiv Patil",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/frisbee.377801b6acf3c08daf71.png"
+    },
+    {
+      "alt": "Vagvala Jitendra Kumar",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/IITB%20Sports%20Logo%20BW.64dd26d7e9744cec947f.png"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": "INSTAGRAM"
+    },
+    {
+      "href": "mailto:gsecsports@iitb.ac.in",
+      "text": "EMAIL"
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:sportsugnoma@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:sportsgirlsnom@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:gsecsports@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:sportspgnom@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:disha.techhead@gmail.com",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:24b3028@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/",
+      "text": ""
+    },
+    {
+      "href": "mailto:gsecsports@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombayathletics/",
+      "text": ""
+    },
+    {
+      "href": "mailto:athletics@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/aquatics_iitb/",
+      "text": ""
+    },
+    {
+      "href": "mailto:aquatics@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/badmintonclub_iitbombay/",
+      "text": ""
+    },
+    {
+      "href": "mailto:badminton@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/basketball_iitb/",
+      "text": ""
+    },
+    {
+      "href": "mailto:basketball@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "/\\#",
+      "text": ""
+    },
+    {
+      "href": "mailto:boardgames@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/cricket_club_iitb/",
+      "text": ""
+    },
+    {
+      "href": "mailto:cricket@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitb_football/",
+      "text": ""
+    },
+    {
+      "href": "mailto:football@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombay_hockey/",
+      "text": ""
+    },
+    {
+      "href": "mailto:hockey@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/indiangames_iitb/",
+      "text": ""
+    },
+    {
+      "href": "mailto:indiangames@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "/\\#",
+      "text": ""
+    },
+    {
+      "href": "mailto:lawntennis@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/tennis_club_iitb/",
+      "text": ""
+    },
+    {
+      "href": "mailto:squash@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/table.tennis_iitb/",
+      "text": ""
+    },
+    {
+      "href": "mailto:tabletennis@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/volleyballclub_iitbombay/",
+      "text": ""
+    },
+    {
+      "href": "mailto:volleyball@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitb_weightlifting/",
+      "text": ""
+    },
+    {
+      "href": "mailto:weightlifting@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/adventureclub_iitb/",
+      "text": ""
+    },
+    {
+      "href": "/\\#",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/dkcc_iitb/",
+      "text": ""
+    },
+    {
+      "href": "/\\#",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/fitness_club_iitb/",
+      "text": ""
+    },
+    {
+      "href": "/\\#",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitb_ultimate_frisbee/",
+      "text": ""
+    },
+    {
+      "href": "/\\#",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitb_ultimate_frisbee/",
+      "text": ""
+    },
+    {
+      "href": "mailto:yogastha@iitb.ac.in",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "C\nIIT BOMBAY SPORTS / THE ROSTER\nHEADED BY DEEPRAJ KASHERWAL\nSEASON 2026–27\n14 SPORTS\nTEAM SHEET\n§\nTHE PEOPLE BEHIND THE PLAY\nInstitute Sports\nCouncil.\n\nOne council. Every sport. Meet the squad running leadership, nominations, and every sport secretary at IIT Bombay for the 2026–27 season.\n\nNOMINEES\n1\nInstitute-level\nHEADS\n1\nTechnical · Creative · Media\nSECRETARIES\n3\nEvery sport. Covered.\nMANAGERS\n2\nClubs\n§ 01\n ·  LEADERSHIP\nGENERAL SECRETARY\nGeneral Secretary Sports Affairs\n\nDeepraj Kasherwal\n\nCall: 9761543343\n\nINSTAGRAM\nEMAIL\n§ 02\n ·  NOMINEES\nInstitute Sports Nominee - Events and Clubs\n\nAryansh Kukreja\n\nCall: 99928 88093\n\nInstitute Sports Girls' Nominee\n\nAkanksha Patel\n\nCall: 97272 15454\n\nInstitute Sports Admin Nominee\n\nPraveen Kumar\n\nCall: 89584 34190\n\nInstitute Sports PG Nominee\n\nShashwata Swarupa Sahoo\n\nCall: 79786 11058\n\n§ 03\n ·  HEADS\nInstitute Sports Technical Head\n\nDisha Jain\n\nCall: 9111891978\n\nInstitute Sports Creatives Head\n\nViral Chhaperwal\n\nCall: 9009051525\n\nInstitute Sports Media Head\n\nRishiraaj Khurma\n\nCall: 9818846623\n\n§ 04\n ·  SECRETARIES\nEvery Sport.Covered.\n\nFourteen sports. Fourteen point people.\n\nN° 01\nInstitute Athletics Secretary\n\nPrashil Vasoya\n\nCall: 8866133501\n\nN° 02\nInstitute Aquatics Secretary\n\nIshanei Kumar\n\nCall: 6266624331\n\nN° 03\nInstitute Badminton Secretary\n\nRadhika Bansal\n\nCall: 9649570774\n\nN° 04\nInstitute Basketball Secretary\n\nManikarnika Sharma\n\nCall: 7878112350\n\nN° 05\nInstitute Board Games Secretary\n\nVarad\n\nCall: 7722097837\n\nN° 06\nInstitute Cricket Secretary\n\nParam Shilu\n\nCall: 8141229825\n\nN° 07\nInstitute Football Secretary\n\nAditya Patil\n\nCall: 7507990444\n\nN° 08\nInstitute Hockey Secretary\n\nArnav Ashish Deshmukh\n\nCall: 7507977922\n\nN° 09\nInstitute Indian Games Secretary\n\nDarshan Jain\n\nCall: 9406213933\n\nN° 10\nInstitute Lawn Tennis Secretary\n\nManan Agrawal\n\nCall: 9828378888\n\nN° 11\nInstitute Squash Secretary\n\nJay Motwani\n\nCall: 7777903995\n\nN° 12\nInstitute Table Tennis Secretary\n\nSupan Shah\n\nCall: 9653396151\n\nN° 13\nInstitute Volleyball Secretary\n\nMitesh\n\nCall: 8209945491\n\nN° 14\nInstitute Weightlifting Secretary\n\nSayam\n\nCall: 7742426328\n\n§ 05\n ·  MANAGERS\nAdventure Club Manager\n\nPranjal\n\nCall: 8288052336\n\nDKCC and Rubik's Club Manager\n\nRahul Dutta\n\nCall: 9439292929\n\nFitness Club Manager\n\nOm Salunke\n\nCall: 8793375675\n\nFrisbee Manager\n\nShiv Patil\n\nCall: 9890438497\n\nYogastha Manager\n\nVagvala Jitendra Kumar\n\nCall: 8686484484",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nC\nIIT BOMBAY SPORTS / THE ROSTER\nHEADED BY DEEPRAJ KASHERWAL\nSEASON 2026–27\n14 SPORTS\nTEAM SHEET\n§\nTHE PEOPLE BEHIND THE PLAY\nInstitute Sports\nCouncil.\n\nOne council. Every sport. Meet the squad running leadership, nominations, and every sport secretary at IIT Bombay for the 2026–27 season.\n\nNOMINEES\n1\nInstitute-level\nHEADS\n1\nTechnical · Creative · Media\nSECRETARIES\n3\nEvery sport. Covered.\nMANAGERS\n2\nClubs\n§ 01\n ·  LEADERSHIP\nGENERAL SECRETARY\nGeneral Secretary Sports Affairs\n\nDeepraj Kasherwal\n\nCall: 9761543343\n\nINSTAGRAM\nEMAIL\n§ 02\n ·  NOMINEES\nInstitute Sports Nominee - Events and Clubs\n\nAryansh Kukreja\n\nCall: 99928 88093\n\nInstitute Sports Girls' Nominee\n\nAkanksha Patel\n\nCall: 97272 15454\n\nInstitute Sports Admin Nominee\n\nPraveen Kumar\n\nCall: 89584 34190\n\nInstitute Sports PG Nominee\n\nShashwata Swarupa Sahoo\n\nCall: 79786 11058\n\n§ 03\n ·  HEADS\nInstitute Sports Technical Head\n\nDisha Jain\n\nCall: 9111891978\n\nInstitute Sports Creatives Head\n\nViral Chhaperwal\n\nCall: 9009051525\n\nInstitute Sports Media Head\n\nRishiraaj Khurma\n\nCall: 9818846623\n\n§ 04\n ·  SECRETARIES\nEvery Sport.Covered.\n\nFourteen sports. Fourteen point people.\n\nN° 01\nInstitute Athletics Secretary\n\nPrashil Vasoya\n\nCall: 8866133501\n\nN° 02\nInstitute Aquatics Secretary\n\nIshanei Kumar\n\nCall: 6266624331\n\nN° 03\nInstitute Badminton Secretary\n\nRadhika Bansal\n\nCall: 9649570774\n\nN° 04\nInstitute Basketball Secretary\n\nManikarnika Sharma\n\nCall: 7878112350\n\nN° 05\nInstitute Board Games Secretary\n\nVarad\n\nCall: 7722097837\n\nN° 06\nInstitute Cricket Secretary\n\nParam Shilu\n\nCall: 8141229825\n\nN° 07\nInstitute Football Secretary\n\nAditya Patil\n\nCall: 7507990444\n\nN° 08\nInstitute Hockey Secretary\n\nArnav Ashish Deshmukh\n\nCall: 7507977922\n\nN° 09\nInstitute Indian Games Secretary\n\nDarshan Jain\n\nCall: 9406213933\n\nN° 10\nInstitute Lawn Tennis Secretary\n\nManan Agrawal\n\nCall: 9828378888\n\nN° 11\nInstitute Squash Secretary\n\nJay Motwani\n\nCall: 7777903995\n\nN° 12\nInstitute Table Tennis Secretary\n\nSupan Shah\n\nCall: 9653396151\n\nN° 13\nInstitute Volleyball Secretary\n\nMitesh\n\nCall: 8209945491\n\nN° 14\nInstitute Weightlifting Secretary\n\nSayam\n\nCall: 7742426328\n\n§ 05\n ·  MANAGERS\nAdventure Club Manager\n\nPranjal\n\nCall: 8288052336\n\nDKCC and Rubik's Club Manager\n\nRahul Dutta\n\nCall: 9439292929\n\nFitness Club Manager\n\nOm Salunke\n\nCall: 8793375675\n\nFrisbee Manager\n\nShiv Patil\n\nCall: 9890438497\n\nYogastha Manager\n\nVagvala Jitendra Kumar\n\nCall: 8686484484\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/Council",
+  "captured_at": "2026-10-18T15:26:38.526382+00:00"
+}

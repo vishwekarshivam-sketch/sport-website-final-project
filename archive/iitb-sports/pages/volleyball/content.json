@@ -1,0 +1,346 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Volleyball\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Five Courts, Two Venues"
+    },
+    {
+      "level": "H3",
+      "text": "Equipment"
+    },
+    {
+      "level": "H3",
+      "text": "Coaching"
+    },
+    {
+      "level": "H3",
+      "text": "Fitness & Support"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Camps"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Valentine Volleyball"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Volleyball League"
+    },
+    {
+      "level": "H3",
+      "text": "SPREE"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the court."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Volleyball",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v1.2b163335175c5df66ca7.JPG"
+    },
+    {
+      "alt": "Five Courts, Two Venues",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v1.2b163335175c5df66ca7.JPG"
+    },
+    {
+      "alt": "Equipment",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v2.6878ed104b48e7ca0eb1.JPG"
+    },
+    {
+      "alt": "Coaching",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v3.d923aa0eec07f2fe7888.JPG"
+    },
+    {
+      "alt": "Fitness & Support",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v4.4384501f811e69c355de.JPG"
+    },
+    {
+      "alt": "Evening training under the Gymkhana floodlights.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v2.6878ed104b48e7ca0eb1.JPG"
+    },
+    {
+      "alt": "Camps",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v4.4384501f811e69c355de.JPG"
+    },
+    {
+      "alt": "NSO",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v2.6878ed104b48e7ca0eb1.JPG"
+    },
+    {
+      "alt": "Valentine Volleyball",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v3.d923aa0eec07f2fe7888.JPG"
+    },
+    {
+      "alt": "Institute Volleyball League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v1.2b163335175c5df66ca7.JPG"
+    },
+    {
+      "alt": "SPREE",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v4.4384501f811e69c355de.JPG"
+    },
+    {
+      "alt": "Valentine Volleyball — the season's festive fixture.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v3.d923aa0eec07f2fe7888.JPG"
+    },
+    {
+      "alt": "Ghanshyam Choudhary",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/user.d87a7e1e20b42eb7493b.jpg"
+    },
+    {
+      "alt": "Volleyball gallery 1",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v4.4384501f811e69c355de.JPG"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v4.4384501f811e69c355de.JPG"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v2.6878ed104b48e7ca0eb1.JPG"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v3.d923aa0eec07f2fe7888.JPG"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/v1.2b163335175c5df66ca7.JPG"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "VB\nIIT BOMBAY VOLLEYBALL / GYMKHANA & OLD SAC\nCOACH PRITESH YADAV\n5 COURTS, INDOOR & OUTDOOR\nPOWAI · IIT BOMBAY\nDOSSIER NO. 13\n§\nVOLLEYBALL · GYMKHANA & OLD SAC\nVolleyball\nat IIT Bombay.\n\nThe Volleyball Club has access to a total of 5 courts — 3 indoor courts at the Gymkhana Grounds and 2 outdoor courts at Old SAC. Indoor courts provide an all-weather training environment ideal for competitive preparation, while the outdoor courts host regular practice and recreational matches, all floodlit for evening training. Under Coach Pritesh Yadav, training covers technical improvement, game strategy, and physical conditioning for both men's and women's teams, backed by the institute's gym and physiotherapy facilities.\n\nCOURTS\n2\n3 indoor · 2 outdoor\nANNUAL EVENTS\n2\nCamps, leagues & opens\nCOACH\nPritesh Yadav\nMen's & women's teams\nSECRETARY\nGhanshyam\nInstitute Volleyball Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nIndoor & outdoor courts · Full kit · Coached year-round.\n\nFive Courts, Two Venues\n3 indoor courts at the Gymkhana Grounds and 2 outdoor courts at Old SAC.\nIndoor courts give an all-weather training environment, ideal for competitive preparation; outdoor courts host regular practice and recreational matches. All courts are floodlit for evening training.\nEquipment\nProfessional-grade volleyballs, nets, cones, and agility ladders.\nEssential training equipment to support skill development and match preparation.\nCoaching\nTraining conducted under the guidance of Coach Pritesh Yadav.\nFocus on technical improvement, game strategy, and physical conditioning for both men’s and women’s teams.\nFitness & Support\nAccess to the institute’s gym and physiotherapy facilities.\nSupport for strength training, injury prevention, and rehabilitation.\nFIG. A\nEVENING TRAINING UNDER THE GYMKHANA FLOODLIGHTS.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nCamps\n\nRegular training camps run for beginners and intermediate players under Coach Pritesh Yadav, covering technique, game strategy, and conditioning for both men’s and women’s teams.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo structured training. Volleyball sessions run through the semester across the Gymkhana and Old SAC courts.\n\nCONTINUE READING →\nN° 03\nValentine Volleyball\n\nA mixed-team tournament held around February, pairing players across hostels for a lighter, festive spin on competitive volleyball. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nInstitute Volleyball League\n\nA season-long, team-based league bringing together the institute’s strongest players for a competitive circuit. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nSPREE\n\nAn open tournament welcoming players of all skill levels to compete outside the hostel structure. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nVALENTINE VOLLEYBALL — THE SEASON'S FESTIVE FIXTURE.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nMitesh\n\nINSTITUTE VOLLEYBALL SECRETARY\n\n+91 82099 45491\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 04\nVOLLEYBALL · GYMKHANA & OLD SAC\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nGymkhana Grounds · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.4020806480025!2d72.9093683747526!3d19.133869182082652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e0!3m2!1sen!2sin!4v1721551340933!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nVB\nIIT BOMBAY VOLLEYBALL / GYMKHANA & OLD SAC\nCOACH PRITESH YADAV\n5 COURTS, INDOOR & OUTDOOR\nPOWAI · IIT BOMBAY\nDOSSIER NO. 13\n§\nVOLLEYBALL · GYMKHANA & OLD SAC\nVolleyball\nat IIT Bombay.\n\nThe Volleyball Club has access to a total of 5 courts — 3 indoor courts at the Gymkhana Grounds and 2 outdoor courts at Old SAC. Indoor courts provide an all-weather training environment ideal for competitive preparation, while the outdoor courts host regular practice and recreational matches, all floodlit for evening training. Under Coach Pritesh Yadav, training covers technical improvement, game strategy, and physical conditioning for both men's and women's teams, backed by the institute's gym and physiotherapy facilities.\n\nCOURTS\n2\n3 indoor · 2 outdoor\nANNUAL EVENTS\n2\nCamps, leagues & opens\nCOACH\nPritesh Yadav\nMen's & women's teams\nSECRETARY\nGhanshyam\nInstitute Volleyball Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nIndoor & outdoor courts · Full kit · Coached year-round.\n\nFive Courts, Two Venues\n3 indoor courts at the Gymkhana Grounds and 2 outdoor courts at Old SAC.\nIndoor courts give an all-weather training environment, ideal for competitive preparation; outdoor courts host regular practice and recreational matches. All courts are floodlit for evening training.\nEquipment\nProfessional-grade volleyballs, nets, cones, and agility ladders.\nEssential training equipment to support skill development and match preparation.\nCoaching\nTraining conducted under the guidance of Coach Pritesh Yadav.\nFocus on technical improvement, game strategy, and physical conditioning for both men’s and women’s teams.\nFitness & Support\nAccess to the institute’s gym and physiotherapy facilities.\nSupport for strength training, injury prevention, and rehabilitation.\nFIG. A\nEVENING TRAINING UNDER THE GYMKHANA FLOODLIGHTS.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nCamps\n\nRegular training camps run for beginners and intermediate players under Coach Pritesh Yadav, covering technique, game strategy, and conditioning for both men’s and women’s teams.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo structured training. Volleyball sessions run through the semester across the Gymkhana and Old SAC courts.\n\nCONTINUE READING →\nN° 03\nValentine Volleyball\n\nA mixed-team tournament held around February, pairing players across hostels for a lighter, festive spin on competitive volleyball. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nInstitute Volleyball League\n\nA season-long, team-based league bringing together the institute’s strongest players for a competitive circuit. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nSPREE\n\nAn open tournament welcoming players of all skill levels to compete outside the hostel structure. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nVALENTINE VOLLEYBALL — THE SEASON'S FESTIVE FIXTURE.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nMitesh\n\nINSTITUTE VOLLEYBALL SECRETARY\n\n+91 82099 45491\n\n§ 05\n · GALLERY\nFrom the court.\nFIG. 01 / 04\nVOLLEYBALL · GYMKHANA & OLD SAC\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nGymkhana Grounds · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/volleyball",
+  "captured_at": "2026-10-18T15:27:46.733728+00:00"
+}

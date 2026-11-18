@@ -1,0 +1,89 @@
+{
+  "primitives": [
+    {
+      "material": "branch",
+      "attributes": {
+        "position": {
+          "offset": 0,
+          "count": 17673,
+          "type": "<f4"
+        },
+        "normal": {
+          "offset": 70692,
+          "count": 17673,
+          "type": "<f4"
+        },
+        "uv": {
+          "offset": 141384,
+          "count": 11782,
+          "type": "<f4"
+        },
+        "index": {
+          "offset": 188512,
+          "count": 16143,
+          "type": "<u4"
+        }
+      },
+      "triangles": 5381,
+      "sourceTriangles": 94814
+    },
+    {
+      "material": "leaf",
+      "attributes": {
+        "position": {
+          "offset": 253084,
+          "count": 36300,
+          "type": "<f4"
+        },
+        "normal": {
+          "offset": 398284,
+          "count": 36300,
+          "type": "<f4"
+        },
+        "uv": {
+          "offset": 543484,
+          "count": 24200,
+          "type": "<f4"
+        },
+        "index": {
+          "offset": 640284,
+          "count": 18150,
+          "type": "<u4"
+        }
+      },
+      "triangles": 6050,
+      "sourceTriangles": 1939380
+    },
+    {
+      "material": "bark",
+      "attributes": {
+        "position": {
+          "offset": 712884,
+          "count": 15903,
+          "type": "<f4"
+        },
+        "normal": {
+          "offset": 776496,
+          "count": 15903,
+          "type": "<f4"
+        },
+        "uv": {
+          "offset": 840108,
+          "count": 10602,
+          "type": "<f4"
+        },
+        "index": {
+          "offset": 882516,
+          "count": 33840,
+          "type": "<u4"
+        }
+      },
+      "triangles": 11280,
+      "sourceTriangles": 28293
+    }
+  ],
+  "source": "https://polyhaven.com/a/tree_small_02",
+  "license": "CC0",
+  "height": 4.56,
+  "derivative": "Performance foliage LOD: whole leaf pairs sampled at 1/10 density; original branch and trunk topology preserved."
+}

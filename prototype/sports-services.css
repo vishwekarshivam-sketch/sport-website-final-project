@@ -1,0 +1,36 @@
+@font-face{font-family:Faktum;src:url('fonts/Faktum-Test-Regular.otf') format('opentype');font-weight:400;font-display:swap}@font-face{font-family:Faktum;src:url('fonts/Faktum-Test-Bold.otf') format('opentype');font-weight:700;font-display:swap}
+:root{--paper:#f4f1e9;--green:#173f34;--sage:#c5d1ad;--muted:#5a6c60;--line:#173f3438;--gutter:4.5%;color-scheme:light}*{box-sizing:border-box}html{scroll-padding-top:25px}body{margin:0;background:var(--paper);color:var(--green);font:16px/1.5 Faktum,sans-serif;-webkit-font-smoothing:antialiased}h1,h2,h3,p{margin:0;font-weight:400}h1,h2,h3{letter-spacing:-.045em;line-height:1.05}a{color:inherit;text-decoration:none}button,input,select{font:inherit;color:inherit}button{cursor:pointer}button,input,select,summary,a{touch-action:manipulation}button{border-radius:0}a:hover{text-decoration:underline;text-underline-offset:5px}button:focus-visible,summary:focus-visible,a:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid #af6434;outline-offset:4px}[hidden]{display:none!important}::selection{background:var(--sage);color:var(--green)}.sr-only,.skip{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}.skip:focus{position:fixed;z-index:100;top:10px;left:10px;width:auto;height:auto;clip:auto;padding:15px;background:var(--paper)}
+
+/* Actual homepage navigation, isolated to Events. */
+.header{height:130px;margin:0 4.5%;display:flex;align-items:center;justify-content:space-between;gap:24px;position:relative;z-index:20;color:var(--green)}
+.header .brand-lockup{display:inline-flex;align-items:center;gap:13px;flex-shrink:0}
+.header .brand-badge{display:grid;place-items:center;width:82px;height:100px;padding:0;background:transparent}
+.header .brand-badge img{width:100%;height:100%;object-fit:contain;display:block;filter:brightness(0) saturate(100%);opacity:.85}
+.header .brand-name{display:none}
+.header>nav{display:flex;gap:32px;font-size:17px;margin-left:auto}
+.header>nav>a{position:relative;display:flex;align-items:center;min-height:44px}
+.header>nav>a:after{content:"";height:1px;background:currentColor;position:absolute;bottom:3px;left:0;width:0;transition:width .3s}
+.header>nav>a:hover:after{width:100%}
+.header>.book{border:1px solid currentColor;border-radius:30px;padding:12px 20px;font-size:16px;display:flex;align-items:center;gap:22px;margin-left:auto;min-height:44px;white-space:nowrap;line-height:normal}
+.header>.book:hover{background:var(--green);color:var(--paper)}
+.header .site-menu{position:relative;z-index:21;flex-shrink:0}
+.header .site-menu>summary{display:flex;align-items:center;gap:18px;min-height:44px;cursor:pointer;font-size:16px;list-style:none;border-bottom:1px solid currentColor;line-height:normal}
+.header .site-menu>summary::-webkit-details-marker{display:none}
+.header .site-menu>summary span{font-size:20px;transition:transform .2s}
+.header .site-menu[open]>summary span{transform:rotate(45deg)}
+.header .site-menu-links{position:absolute;display:flex;flex-direction:column;gap:0;right:0;top:58px;width:330px;padding:20px 26px;background:var(--green);color:var(--paper);box-shadow:0 18px 35px #102d2626;border:1px solid #657e68;max-height:calc(100dvh - 140px);overflow-y:auto;overscroll-behavior:contain}
+.header .site-menu-links>a{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:17px 0;border-bottom:1px solid #ffffff28;font-size:17px;line-height:normal}
+.header .site-menu-links>.menu-booking{font-size:12px;padding:24px 0 8px;border:0}
+.header nav a[aria-current=page]{text-decoration:underline;text-underline-offset:6px}
+.header .site-menu-links a:hover{text-decoration:underline;text-underline-offset:6px}
+.header .site-menu-links a:focus-visible{outline-color:#dfc496}
+
+@media(min-width:1600px){.header{max-width:1700px;margin-left:auto;margin-right:auto}}
+@media(max-width:1050px){.header{gap:18px}.header>.book{gap:12px;padding:12px}}
+@media(max-width:1000px){.header>nav{display:none}}
+@media(max-width:760px){.header{height:105px;margin:0 6%}.header .brand-badge{width:62px;height:78px}.header>.book{display:none}.header .site-menu{margin-left:auto}.header .site-menu>summary{min-width:80px;justify-content:space-between}.header .site-menu-links{width:min(330px,88vw);top:60px}}
+
+.small-note{font-size:13px;line-height:1.8;color:var(--muted);max-width:560px}.line-link{display:inline-flex;align-items:center;justify-content:space-between;gap:30px;min-height:48px;border:0;border-bottom:1px solid currentColor;background:none;padding:10px 0;text-decoration:none;font-size:15px}.source-note{padding:55px var(--gutter);border-top:1px solid var(--line);display:grid;grid-template-columns:1fr 1.7fr;gap:50px}.source-note h2{font-size:38px}.source-note p{font-size:14px;line-height:1.8;max-width:700px;margin-bottom:18px;color:var(--muted)}.source-note a{font-size:14px;text-decoration:underline;text-underline-offset:4px;display:inline-flex;align-items:center;min-height:44px}.service-footer{background:var(--green);color:var(--paper);padding:50px var(--gutter) 25px}.footer-call{font-size:clamp(44px,7vw,100px);letter-spacing:-.055em;display:flex;justify-content:space-between;line-height:1.1}.service-footer nav{display:flex;gap:10px 30px;flex-wrap:wrap;margin:35px 0}.service-footer nav a{min-height:44px;display:flex;align-items:center;font-size:14px}.service-footer>p{font-size:11px;border-top:1px solid #ffffff38;padding-top:22px;display:flex;justify-content:space-between;gap:20px}.service-footer>p a{display:inline-flex;align-items:center;min-height:44px}.empty-state{padding:50px 0}.empty-state>span{font-size:50px}.empty-state h3{font-size:36px;margin:15px 0}.empty-state p{font-size:15px;line-height:1.8;max-width:500px;color:var(--muted)}.notice{border-left:3px solid #9b713f;padding:15px 20px;background:#e9e6d7;font-size:14px;line-height:1.7;margin:20px 0}button:disabled{cursor:not-allowed;opacity:.55}
+@media(max-width:650px){.source-note{display:block;padding-block:35px}.source-note h2{font-size:32px;margin-bottom:20px}.source-note p{font-size:13px}.service-footer{padding-top:35px}.service-footer nav{gap:0 22px;margin:25px 0}.service-footer>p{display:block;line-height:2}.service-footer>p span{display:block}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+@media print{.header,.service-footer,[data-enhanced]{display:none!important}body{font-size:12px}}

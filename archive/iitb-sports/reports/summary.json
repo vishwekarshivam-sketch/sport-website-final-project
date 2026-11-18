@@ -1,0 +1,44 @@
+{
+  "source": "https://gymkhana.iitb.ac.in/sports/",
+  "captured_date": "2026-10-18",
+  "fixed_public_routes": 36,
+  "rendered_captures_including_variants": 37,
+  "admin_routes_documented_without_visiting": 14,
+  "parameterized_routes_documented": 1,
+  "sports_and_clubs": 19,
+  "events": 269,
+  "players": 126,
+  "yearbook_responses": 1102,
+  "source_datasets": 47,
+  "downloaded_resources": 363,
+  "downloaded_bytes": 834486088,
+  "current_unavailable_resources": [
+    {
+      "url": "https://gymkhana.iitb.ac.in/sports/pictures/phone.svg",
+      "path": "mirror/gymkhana.iitb.ac.in/sports/pictures/phone.svg",
+      "captured_at": "2026-10-18T15:32:53.923406+00:00",
+      "status": "html_fallback",
+      "http_status": 200,
+      "content_type": "text/html",
+      "bytes": 1099
+    },
+    {
+      "url": "https://court-status-backend-node-production.up.railway.app/api/sports",
+      "path": "mirror/court-status-backend-node-production.up.railway.app/api/sports",
+      "captured_at": "2026-10-18T15:32:53.923023+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://feedbackbackend-mlc8bmyp.b4a.run/api/feedback/contacts",
+      "path": "mirror/feedbackbackend-mlc8bmyp.b4a.run/api/feedback/contacts",
+      "captured_at": "2026-10-18T15:32:53.923208+00:00",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ],
+  "intermediate_photo_failures": 141,
+  "unarchived_page_images": 9,
+  "checksum_failures": [],
+  "missing_public_routes": []
+}

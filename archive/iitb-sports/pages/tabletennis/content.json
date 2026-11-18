@@ -1,0 +1,351 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Table Tennis\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "Eight Tables, AC Hall"
+    },
+    {
+      "level": "H3",
+      "text": "TT-Focused Flooring"
+    },
+    {
+      "level": "H3",
+      "text": "Team Practice Gear"
+    },
+    {
+      "level": "H3",
+      "text": "Lockers & Storage"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Camps"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Table Tennis GC"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Table Tennis League"
+    },
+    {
+      "level": "H3",
+      "text": "Institute Table Tennis Open"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the hall."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Table Tennis",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.6ebc7017ca2a5a956881.jpg"
+    },
+    {
+      "alt": "Eight Tables, AC Hall",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.7133e34a3f13db3d6b6b.jpg"
+    },
+    {
+      "alt": "TT-Focused Flooring",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.fecca0360e74ef172aca.jpg"
+    },
+    {
+      "alt": "Team Practice Gear",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.6ebc7017ca2a5a956881.jpg"
+    },
+    {
+      "alt": "Lockers & Storage",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.bffa92cabf53196d70f9.jpg"
+    },
+    {
+      "alt": "Team practice in the Gymkhana TT hall.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.8d1fe8308237b7179450.jpg"
+    },
+    {
+      "alt": "Camps",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.6ebc7017ca2a5a956881.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.fecca0360e74ef172aca.jpg"
+    },
+    {
+      "alt": "Table Tennis GC",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.7133e34a3f13db3d6b6b.jpg"
+    },
+    {
+      "alt": "Institute Table Tennis League",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.bffa92cabf53196d70f9.jpg"
+    },
+    {
+      "alt": "Institute Table Tennis Open",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.8d1fe8308237b7179450.jpg"
+    },
+    {
+      "alt": "Table Tennis GC — the hostel season's marquee event.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.bffa92cabf53196d70f9.jpg"
+    },
+    {
+      "alt": "Sameer Chopra",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/tabletennis.1a32b5919326a40bdf25.png"
+    },
+    {
+      "alt": "Table Tennis gallery 1",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.6ebc7017ca2a5a956881.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p3.6ebc7017ca2a5a956881.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p2.fecca0360e74ef172aca.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p1.7133e34a3f13db3d6b6b.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p4.bffa92cabf53196d70f9.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/p5.8d1fe8308237b7179450.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "TT\nIIT BOMBAY TABLE TENNIS / GYMKHANA HALL\nCOACH DHAVAL KARNIK\nPODIUM FINISHES 2022 & 2023\nPOWAI · IIT BOMBAY\nDOSSIER NO. 11\n§\nTABLE TENNIS · GYMKHANA HALL\nTable Tennis\nat IIT Bombay.\n\nTable Tennis at IIT Bombay is a thriving sport, defined by passion, precision, and perseverance. Under the guidance of Coach Dhaval Karnik, the TT community has seen remarkable growth in both participation and performance, with podium finishes at the Inter-IIT Sports Meet in 2022 and 2023. Whether it's intense team practices, spirited ladder matches, or late-night recreational games, the energy in the TT hall is always amazing — players of all skill levels are welcomed and supported.\n\nTABLES\n2\nAir-conditioned hall\nANNUAL EVENTS\n1\nCamps, GC & leagues\nINTER-IIT PODIUMS\n2022, 2023\nBack-to-back finishes\nSECRETARY\nSameer\nInstitute Table Tennis Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nEight tables · Air-conditioned · World-class kit.\n\nEight Tables, AC Hall\nAn air-conditioned court at the Gymkhana with 8 of the most widely used tables in the world, including the Stag Americas and Stag 1000Dx.\nBeginner-friendly rackets and balls provided through an issuance system.\nTT-Focused Flooring\nFloor fully matted with TT-specific flooring to avoid slips and injuries.\nCurtains and AC-diffusers being installed to reduce glare and ball wobble.\nTeam Practice Gear\nLadders, ropes, custom-made rackets, and 3-star balls available for team practice and exercise.\nA robot has also been ordered to enhance team practice.\nLockers & Storage\nMore than 30 players can get access to lockers to store their equipment.\nStructured sessions emphasise technique, strategy, and sportsmanship for all skill levels.\nFIG. A\nTEAM PRACTICE IN THE GYMKHANA TT HALL.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nCamps\n\nRegular camps are held for beginners, intermediate, and advanced players, run by Coach Dhaval Karnik. Sessions focus on technique, strategy, and match play, welcoming players of all skill levels across the academic year.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo structured training. Table tennis sessions run through the semester under coaching staff at the Gymkhana hall.\n\nCONTINUE READING →\nN° 03\nTable Tennis GC\n\nThe Table Tennis General Championship is one of the most keenly contested hostel events of the season, with teams competing for the title across singles and doubles formats. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nInstitute Table Tennis League\n\nAn open-format league bringing together the institute’s strongest players for a season-long competitive circuit. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nInstitute Table Tennis Open\n\nAn open tournament for all skill levels, from first-time players to seasoned competitors. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nTABLE TENNIS GC — THE HOSTEL SEASON'S MARQUEE EVENT.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nSupan Shah\n\nINSTITUTE TABLE TENNIS SECRETARY\n\n+91 96533 96151\n\n§ 05\n · GALLERY\nFrom the hall.\nFIG. 01 / 05\nTABLE TENNIS · GYMKHANA HALL\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nGymkhana Hall · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.4020806480025!2d72.9093683747526!3d19.133869182082652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e0!3m2!1sen!2sin!4v1721551340933!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nTT\nIIT BOMBAY TABLE TENNIS / GYMKHANA HALL\nCOACH DHAVAL KARNIK\nPODIUM FINISHES 2022 & 2023\nPOWAI · IIT BOMBAY\nDOSSIER NO. 11\n§\nTABLE TENNIS · GYMKHANA HALL\nTable Tennis\nat IIT Bombay.\n\nTable Tennis at IIT Bombay is a thriving sport, defined by passion, precision, and perseverance. Under the guidance of Coach Dhaval Karnik, the TT community has seen remarkable growth in both participation and performance, with podium finishes at the Inter-IIT Sports Meet in 2022 and 2023. Whether it's intense team practices, spirited ladder matches, or late-night recreational games, the energy in the TT hall is always amazing — players of all skill levels are welcomed and supported.\n\nTABLES\n2\nAir-conditioned hall\nANNUAL EVENTS\n1\nCamps, GC & leagues\nINTER-IIT PODIUMS\n2022, 2023\nBack-to-back finishes\nSECRETARY\nSameer\nInstitute Table Tennis Secretary\n§ 01\n · FACILITIES\nWhat's on offer.\n\nEight tables · Air-conditioned · World-class kit.\n\nEight Tables, AC Hall\nAn air-conditioned court at the Gymkhana with 8 of the most widely used tables in the world, including the Stag Americas and Stag 1000Dx.\nBeginner-friendly rackets and balls provided through an issuance system.\nTT-Focused Flooring\nFloor fully matted with TT-specific flooring to avoid slips and injuries.\nCurtains and AC-diffusers being installed to reduce glare and ball wobble.\nTeam Practice Gear\nLadders, ropes, custom-made rackets, and 3-star balls available for team practice and exercise.\nA robot has also been ordered to enhance team practice.\nLockers & Storage\nMore than 30 players can get access to lockers to store their equipment.\nStructured sessions emphasise technique, strategy, and sportsmanship for all skill levels.\nFIG. A\nTEAM PRACTICE IN THE GYMKHANA TT HALL.\n§ 02\n · EVENTS\nThe fixtures.\n\nFive events. Tap a headline to read the full brief.\n\nN° 01\nCamps\n\nRegular camps are held for beginners, intermediate, and advanced players, run by Coach Dhaval Karnik. Sessions focus on technique, strategy, and match play, welcoming players of all skill levels across the academic year.\n\nCONTINUE READING →\nN° 02\nNSO\n\nPart of the Government of India’s National Sports Organization scheme, under which all incoming first-year IIT students sign up for a sport and undergo structured training. Table tennis sessions run through the semester under coaching staff at the Gymkhana hall.\n\nCONTINUE READING →\nN° 03\nTable Tennis GC\n\nThe Table Tennis General Championship is one of the most keenly contested hostel events of the season, with teams competing for the title across singles and doubles formats. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 04\nInstitute Table Tennis League\n\nAn open-format league bringing together the institute’s strongest players for a season-long competitive circuit. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nN° 05\nInstitute Table Tennis Open\n\nAn open tournament for all skill levels, from first-time players to seasoned competitors. Details for this year’s edition will be announced soon.\n\nCONTINUE READING →\nFIG. B\nTABLE TENNIS GC — THE HOSTEL SEASON'S MARQUEE EVENT.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nSupan Shah\n\nINSTITUTE TABLE TENNIS SECRETARY\n\n+91 96533 96151\n\n§ 05\n · GALLERY\nFrom the hall.\nFIG. 01 / 05\nTABLE TENNIS · GYMKHANA HALL\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nGymkhana Hall · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/tabletennis",
+  "captured_at": "2026-10-18T15:27:46.232184+00:00"
+}

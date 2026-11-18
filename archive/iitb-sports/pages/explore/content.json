@@ -1,0 +1,317 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Sports & Clubs."
+    },
+    {
+      "level": "H2",
+      "text": "Explore the clubs."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "Aquatics",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/aquatics.png"
+    },
+    {
+      "alt": "Athletics",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/athletics.jpg"
+    },
+    {
+      "alt": "Badminton",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/badminton.png"
+    },
+    {
+      "alt": "Basketball",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/basketball.png"
+    },
+    {
+      "alt": "Board Games",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/boardgames.png"
+    },
+    {
+      "alt": "Cricket",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/cricket.png"
+    },
+    {
+      "alt": "Football",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/football.png"
+    },
+    {
+      "alt": "Hockey",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/hockey.png"
+    },
+    {
+      "alt": "Indian Games",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/khokho.png"
+    },
+    {
+      "alt": "Lawn Tennis",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/tennis.png"
+    },
+    {
+      "alt": "Squash",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/squash.png"
+    },
+    {
+      "alt": "Table Tennis",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/tabletennis.png"
+    },
+    {
+      "alt": "Volleyball",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/volleyball.png"
+    },
+    {
+      "alt": "Weightlifting",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/weightlifting.png"
+    },
+    {
+      "alt": "Adventure Club",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/adventure.png"
+    },
+    {
+      "alt": "Dark Knight Chess Club",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/chess.png"
+    },
+    {
+      "alt": "Rubik's club",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/Rubiks.png"
+    },
+    {
+      "alt": "Ultimate Frisbee Club",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/Frisbee.png"
+    },
+    {
+      "alt": "Yogastha",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/images/yoga.png"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/aquatics",
+      "text": "Aquatics"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/athletics",
+      "text": "Athletics"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badminton",
+      "text": "Badminton"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/basketball",
+      "text": "Basketball"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/boardgames",
+      "text": "Board Games"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/cricket",
+      "text": "Cricket"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/football",
+      "text": "Football"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/hockey",
+      "text": "Hockey"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/indiangames",
+      "text": "Indian Games"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/tennis",
+      "text": "Lawn Tennis"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/squash",
+      "text": "Squash"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/tabletennis",
+      "text": "Table Tennis"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/volleyball",
+      "text": "Volleyball"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/weightlifting",
+      "text": "Weightlifting"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/adventureclub",
+      "text": "Adventure Club"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/chess",
+      "text": "Dark Knight Chess Club"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/rubik",
+      "text": "Rubik's club"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/frisbee",
+      "text": "Ultimate Frisbee Club"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yoga",
+      "text": "Yogastha"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "EVERY DISCIPLINE\n§\nONE INSTITUTE\nSports & Clubs.\n\nWelcome to the Sports page! Here are some popular sports and clubs at IIT Bombay:\n\n§ 01\n ·  SPORTS\nAquatics\nAthletics\nBadminton\nBasketball\nBoard Games\nCricket\nFootball\nHockey\nIndian Games\nLawn Tennis\nSquash\nTable Tennis\nVolleyball\nWeightlifting\n§ 02\n ·  CLUBS\nExplore the clubs.\n\nExplore the sports clubs at IIT Bombay.\n\nAdventure Club\nDark Knight Chess Club\nRubik's club\nUltimate Frisbee Club\nYogastha",
+  "media": [],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nEVERY DISCIPLINE\n§\nONE INSTITUTE\nSports & Clubs.\n\nWelcome to the Sports page! Here are some popular sports and clubs at IIT Bombay:\n\n§ 01\n ·  SPORTS\nAquatics\nAthletics\nBadminton\nBasketball\nBoard Games\nCricket\nFootball\nHockey\nIndian Games\nLawn Tennis\nSquash\nTable Tennis\nVolleyball\nWeightlifting\n§ 02\n ·  CLUBS\nExplore the clubs.\n\nExplore the sports clubs at IIT Bombay.\n\nAdventure Club\nDark Knight Chess Club\nRubik's club\nUltimate Frisbee Club\nYogastha\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/explore",
+  "captured_at": "2026-10-18T15:26:30.456218+00:00"
+}

@@ -1,0 +1,168 @@
+{
+  "cricket": {
+    "name": "Cricket ground",
+    "x": 52.5,
+    "y": 57,
+    "sport": "cricket",
+    "title": "At the heart of the game.",
+    "description": "The central field at the Gymkhana, with the athletics track wrapping around it.",
+    "photos": [
+      {
+        "src": "assets/grounds/cricket-wide.jpg",
+        "alt": "Cricket field and athletics track facing the Gymkhana.",
+        "caption": "The ground, framed by the athletics track.",
+        "label": "Across the ground"
+      },
+      {
+        "src": "assets/grounds/cricket-pitch.jpg",
+        "alt": "Cricket players at the central pitch.",
+        "caption": "A closer view of the central pitch.",
+        "label": "At the crease"
+      },
+      {
+        "src": "assets/grounds/cricket-play.jpg",
+        "alt": "Cricket players with the track in the foreground.",
+        "caption": "The game, seen from the edge of the track.",
+        "label": "In play"
+      }
+    ],
+    "note": ""
+  },
+  "football": {
+    "name": "Main football ground",
+    "x": 23,
+    "y": 50,
+    "sport": "football",
+    "title": "Room for the full game.",
+    "description": "The full-size football ground, to the left of the central cricket field.",
+    "photos": [
+      {
+        "src": "assets/grounds/football-view.jpg",
+        "alt": "Main football ground at IIT Bombay.",
+        "caption": "Play on the main football ground under floodlights.",
+        "label": "At ground level"
+      },
+      {
+        "src": "assets/grounds/football-aerial.jpg",
+        "alt": "Aerial detail of main football ground at IIT Bombay.",
+        "caption": "Main football ground \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": ""
+  },
+  "hockey": {
+    "name": "Hockey ground",
+    "x": 78,
+    "y": 82,
+    "sport": "hockey",
+    "title": "Find your next move.",
+    "description": "The hockey ground on the lower-right side of the sporting campus.",
+    "photos": [
+      {
+        "src": "assets/grounds/hockey-aerial.jpg",
+        "alt": "Aerial detail of hockey ground at IIT Bombay.",
+        "caption": "Hockey ground \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": "A ground-level photograph of this specific facility is not yet verified."
+  },
+  "basketball": {
+    "name": "Basketball court",
+    "x": 63,
+    "y": 86,
+    "sport": "basketball",
+    "title": "Make the court yours.",
+    "description": "The outdoor basketball court below the cricket field, beside the hockey ground.",
+    "photos": [
+      {
+        "src": "assets/grounds/basketball-aerial.jpg",
+        "alt": "Aerial detail of basketball court at IIT Bombay.",
+        "caption": "Basketball court \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": "A ground-level photograph of this specific facility is not yet verified."
+  },
+  "pool": {
+    "name": "Swimming pool",
+    "x": 70,
+    "y": 18,
+    "sport": "aquatics",
+    "title": "A rhythm of your own.",
+    "description": "The swimming pool beside the indoor sports buildings at the top of this aerial.",
+    "photos": [
+      {
+        "src": "assets/grounds/pool-view.jpg",
+        "alt": "Swimming pool at IIT Bombay.",
+        "caption": "The swimming pool and its surrounding deck.",
+        "label": "At ground level"
+      },
+      {
+        "src": "assets/grounds/pool-aerial.jpg",
+        "alt": "Aerial detail of swimming pool at IIT Bombay.",
+        "caption": "Swimming pool \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": ""
+  },
+  "turf": {
+    "name": "Football turf",
+    "x": 26,
+    "y": 30,
+    "sport": "football",
+    "title": "A smaller pitch. Same passion.",
+    "description": "The artificial-grass football turf above the main full-size football ground.",
+    "photos": [
+      {
+        "src": "assets/grounds/turf-view.jpg",
+        "alt": "Football turf at IIT Bombay.",
+        "caption": "The artificial-grass football turf under lights.",
+        "label": "At ground level"
+      },
+      {
+        "src": "assets/grounds/turf-aerial.jpg",
+        "alt": "Aerial detail of football turf at IIT Bombay.",
+        "caption": "Football turf \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": ""
+  },
+  "badminton": {
+    "name": "Badminton \u00b7 old SAC",
+    "x": 93,
+    "y": 41,
+    "sport": "badminton",
+    "title": "Step inside. Play on.",
+    "description": "The badminton courts inside old SAC, in the building indicated on the right of the aerial.",
+    "photos": [
+      {
+        "src": "assets/grounds/badminton-aerial.jpg",
+        "alt": "Aerial detail of badminton \u00b7 old sac at IIT Bombay.",
+        "caption": "Badminton \u00b7 old SAC \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": "A ground-level photograph of this specific facility is not yet verified."
+  },
+  "track": {
+    "name": "100m synthetic track",
+    "x": 9,
+    "y": 55,
+    "sport": "athletics",
+    "title": "Every stride starts here.",
+    "description": "The 100-metre synthetic straight beside the main football ground. This is separate from the oval track around cricket.",
+    "photos": [
+      {
+        "src": "assets/grounds/track-aerial.jpg",
+        "alt": "Aerial detail of 100m synthetic track at IIT Bombay.",
+        "caption": "100m synthetic track \u2014 detail from the campus aerial.",
+        "label": "From above"
+      }
+    ],
+    "note": "A ground-level photograph of this specific facility is not yet verified."
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "GYMKHANA BOOKINGS"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Gymkhana Bookings"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "←"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "→"
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    },
+    {
+      "tag": "BUTTON",
+      "text": ""
+    }
+  ],
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Athletics\nat IIT Bombay."
+    },
+    {
+      "level": "H2",
+      "text": "What's on offer."
+    },
+    {
+      "level": "H3",
+      "text": "400m Grass Track"
+    },
+    {
+      "level": "H3",
+      "text": "100m Synthetic Track"
+    },
+    {
+      "level": "H3",
+      "text": "Field Event Zones"
+    },
+    {
+      "level": "H3",
+      "text": "Training Equipment"
+    },
+    {
+      "level": "H2",
+      "text": "The fixtures."
+    },
+    {
+      "level": "H3",
+      "text": "Summer Camp"
+    },
+    {
+      "level": "H3",
+      "text": "NSO"
+    },
+    {
+      "level": "H3",
+      "text": "Campathon"
+    },
+    {
+      "level": "H3",
+      "text": "Crossy GC"
+    },
+    {
+      "level": "H3",
+      "text": "Triathlon GC"
+    },
+    {
+      "level": "H3",
+      "text": "Mixed Relay"
+    },
+    {
+      "level": "H2",
+      "text": "The record."
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H3",
+      "text": ""
+    },
+    {
+      "level": "H2",
+      "text": "Get in touch."
+    },
+    {
+      "level": "H2",
+      "text": "From the track."
+    },
+    {
+      "level": "H2",
+      "text": "Find us."
+    }
+  ],
+  "images": [
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IITB Sports Logo",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/sports-logo-transparent.ecff47bad9273a2a8fbe.png"
+    },
+    {
+      "alt": "IIT Bombay Athletics track",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/5.9815608d81c25908140e.jpg"
+    },
+    {
+      "alt": "400m Grass Track",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/1.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "100m Synthetic Track",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/2.8fb720f715abadcfd439.jpg"
+    },
+    {
+      "alt": "Field Event Zones",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/3.f045caf1b6d794e89929.jpg"
+    },
+    {
+      "alt": "Training Equipment",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/4.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "The 100m synthetic track — speed work and technique drills.",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/2.8fb720f715abadcfd439.jpg"
+    },
+    {
+      "alt": "Summer Camp",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/1.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "NSO",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/2.8fb720f715abadcfd439.jpg"
+    },
+    {
+      "alt": "Campathon",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/3.f045caf1b6d794e89929.jpg"
+    },
+    {
+      "alt": "Crossy GC",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/4.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "Triathlon GC",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/5.9815608d81c25908140e.jpg"
+    },
+    {
+      "alt": "Mixed Relay",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/1.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "Field event zones — long jump pit in action.",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/3.f045caf1b6d794e89929.jpg"
+    },
+    {
+      "alt": "Praveen Kumar",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/Praveen.ea94397714feb79bd281.jpg"
+    },
+    {
+      "alt": "Athletics gallery 1",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/1.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/1.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/2.8fb720f715abadcfd439.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/3.f045caf1b6d794e89929.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": false,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/4.0080a104db10f6157a8d.jpg"
+    },
+    {
+      "alt": "",
+      "loaded": true,
+      "src": "https://gymkhana.iitb.ac.in/sports/static/media/5.9815608d81c25908140e.jpg"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "HOME"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "SPORTS"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "LIVE GC SCORECARD"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "YEARBOOK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "EVENTS TIMELINE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/turfbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/badmintonbooking",
+      "text": ""
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "CONTACT US"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "PLAYER DATABASE"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/explore",
+      "text": "Sports"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/GC",
+      "text": "Live GC Scorecard"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/yearbook",
+      "text": "Yearbook"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/events-timeline",
+      "text": "Events Timeline"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact Us"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/player-database",
+      "text": "Player Database"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/feedback",
+      "text": "FEEDBACK"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports",
+      "text": "Home"
+    },
+    {
+      "href": "https://gymkhana.iitb.ac.in/sports/contact",
+      "text": "Contact"
+    },
+    {
+      "href": "https://www.linkedin.com/company/iit-bombay-sports?originalSubdomain=in",
+      "text": ""
+    },
+    {
+      "href": "https://www.instagram.com/iitbombaysports/?hl=en",
+      "text": ""
+    },
+    {
+      "href": "https://www.facebook.com/iitbombaysports/",
+      "text": ""
+    }
+  ],
+  "mainText": "A\nIIT BOMBAY SPORTS / ATHLETICS\nCOACHED BY IRFAN SIR & RENU MA'AM\n400M GRASS TRACK\nPOWAI · IIT BOMBAY\nWELCOME TO\n§\nAthletics\nat IIT Bombay.\n\nComprising track and field events, Athletics is one of the most spirited and inclusive sports at IIT Bombay. With a well-maintained grass track and year-round training under the guidance of Irfan Sir and Renu Ma'am, the team strives for all-round excellence. Known for its strong team culture, IITB Athletics is where beginners rise to greatness — supported and cheered by teammates at every step. The journey matters just as much as the finish line.\n\nTRACKS\n1\nGrass + Synthetic\nCOACHES\n2\nIrfan Sir · Renu Ma'am\nFIXTURES\n3\nAnnual events\nDISCIPLINES\n20+\nTrack & field events\n§ 01\n · FACILITIES\nWhat's on offer.\n\nFour venues. One athletics programme.\n\n400m Grass Track\nMain training ground for all track events — sprints, hurdles, middle- and long-distance running.\nWell-maintained grass surface suitable for year-round endurance and technique work.\n100m Synthetic Track\nLocated beside the football ground, used for short-distance sprints and technique drills.\nSynthetic surface provides consistent performance in all weather conditions.\nField Event Zones\nDesignated areas for long jump, high jump, shot put, and javelin.\nStandard pits and markings available for regular competitive-standard practice.\nTraining Equipment\nStarting blocks, hurdles, cones, resistance bands, agility ladders, sleds, and medicine balls.\nTools span all disciplines — from sprint mechanics to field event conditioning.\nFIG. A\nTHE 100M SYNTHETIC TRACK — SPEED WORK AND TECHNIQUE DRILLS.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nSummer Camp\n\nSummer athletics training camp for beginners and advanced athletes. Held annually under the coaching of Irfan Sir and Renu Ma'am, the camp covers all track and field disciplines over an intensive training block, culminating in a demonstration event for the campus community.\n\nCONTINUE READING →\nN° 02\nNSO\n\nThe National Sports Organization scheme, available to all first-year students, allows incoming students to train formally in athletics throughout the year. NSO training sessions run multiple evenings a week and are a gateway for students to develop a lifelong connection to the sport.\n\nCONTINUE READING →\nN° 03\nCampathon\n\nA campus-wide marathon and endurance running event open to all members of the IIT Bombay community. Campathon draws students, faculty, and staff alike and has grown into one of the most popular participatory sporting events on the calendar.\n\nCONTINUE READING →\nN° 04\nCrossy GC\n\nThe Cross Country Running General Championship — an inter-hostel competition held annually on campus. Hostels field runners across multiple distance categories in a head-to-head format, with points contributing to the overall GC standings.\n\nCONTINUE READING →\nN° 05\nTriathlon GC\n\nA multi-sport endurance general championship combining swimming, cycling, and running. Held in two categories: Team Triathlon (team of 3, at least one female member) and Individual Triathlon, the event is one of the most demanding fixtures on the sports calendar.\n\nCONTINUE READING →\nN° 06\nMixed Relay\n\nTeam relay events featuring mixed-gender participation. The mixed relay is a celebration of teamwork and speed, with every hostel fielding squads that train together in the lead-up to the event.\n\nCONTINUE READING →\nFIG. B\nFIELD EVENT ZONES — LONG JUMP PIT IN ACTION.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nPrashil Vasoya\n\nINSTITUTE ATHLETICS SECRETARY\n\n+91 88661 33501\n\n§ 05\n · GALLERY\nFrom the track.\nFIG. 01 / 05\nATHLETICS · TRACK & FIELD\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nNew Gymkhana · IIT Bombay · Powai",
+  "media": [
+    {
+      "poster": "",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d752.6671652193382!2d72.91190082224743!3d19.134256741593973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b80820306e3f%3A0xa4024d1ba55c8ed1!2sIITB%20New%20Gymkhana!5e1!3m2!1sen!2sin!4v1752435717790!5m2!1sen!2sin",
+      "tag": "IFRAME"
+    }
+  ],
+  "text": "HOME\nSPORTS\nLIVE GC SCORECARD\nYEARBOOK\nEVENTS TIMELINE\nGYMKHANA BOOKINGS\nCONTACT US\nPLAYER DATABASE\nFEEDBACK\nHome\nSports\nLive GC Scorecard\nYearbook\nEvents Timeline\nGymkhana Bookings\nContact Us\nPlayer Database\nFEEDBACK\nA\nIIT BOMBAY SPORTS / ATHLETICS\nCOACHED BY IRFAN SIR & RENU MA'AM\n400M GRASS TRACK\nPOWAI · IIT BOMBAY\nWELCOME TO\n§\nAthletics\nat IIT Bombay.\n\nComprising track and field events, Athletics is one of the most spirited and inclusive sports at IIT Bombay. With a well-maintained grass track and year-round training under the guidance of Irfan Sir and Renu Ma'am, the team strives for all-round excellence. Known for its strong team culture, IITB Athletics is where beginners rise to greatness — supported and cheered by teammates at every step. The journey matters just as much as the finish line.\n\nTRACKS\n1\nGrass + Synthetic\nCOACHES\n2\nIrfan Sir · Renu Ma'am\nFIXTURES\n3\nAnnual events\nDISCIPLINES\n20+\nTrack & field events\n§ 01\n · FACILITIES\nWhat's on offer.\n\nFour venues. One athletics programme.\n\n400m Grass Track\nMain training ground for all track events — sprints, hurdles, middle- and long-distance running.\nWell-maintained grass surface suitable for year-round endurance and technique work.\n100m Synthetic Track\nLocated beside the football ground, used for short-distance sprints and technique drills.\nSynthetic surface provides consistent performance in all weather conditions.\nField Event Zones\nDesignated areas for long jump, high jump, shot put, and javelin.\nStandard pits and markings available for regular competitive-standard practice.\nTraining Equipment\nStarting blocks, hurdles, cones, resistance bands, agility ladders, sleds, and medicine balls.\nTools span all disciplines — from sprint mechanics to field event conditioning.\nFIG. A\nTHE 100M SYNTHETIC TRACK — SPEED WORK AND TECHNIQUE DRILLS.\n§ 02\n · EVENTS\nThe fixtures.\n\nSix events. Tap a headline to read the full brief.\n\nN° 01\nSummer Camp\n\nSummer athletics training camp for beginners and advanced athletes. Held annually under the coaching of Irfan Sir and Renu Ma'am, the camp covers all track and field disciplines over an intensive training block, culminating in a demonstration event for the campus community.\n\nCONTINUE READING →\nN° 02\nNSO\n\nThe National Sports Organization scheme, available to all first-year students, allows incoming students to train formally in athletics throughout the year. NSO training sessions run multiple evenings a week and are a gateway for students to develop a lifelong connection to the sport.\n\nCONTINUE READING →\nN° 03\nCampathon\n\nA campus-wide marathon and endurance running event open to all members of the IIT Bombay community. Campathon draws students, faculty, and staff alike and has grown into one of the most popular participatory sporting events on the calendar.\n\nCONTINUE READING →\nN° 04\nCrossy GC\n\nThe Cross Country Running General Championship — an inter-hostel competition held annually on campus. Hostels field runners across multiple distance categories in a head-to-head format, with points contributing to the overall GC standings.\n\nCONTINUE READING →\nN° 05\nTriathlon GC\n\nA multi-sport endurance general championship combining swimming, cycling, and running. Held in two categories: Team Triathlon (team of 3, at least one female member) and Individual Triathlon, the event is one of the most demanding fixtures on the sports calendar.\n\nCONTINUE READING →\nN° 06\nMixed Relay\n\nTeam relay events featuring mixed-gender participation. The mixed relay is a celebration of teamwork and speed, with every hostel fielding squads that train together in the lead-up to the event.\n\nCONTINUE READING →\nFIG. B\nFIELD EVENT ZONES — LONG JUMP PIT IN ACTION.\n§ 03\n · ACHIEVEMENTS\nThe record.\n§ 04\n · CONTACT\nGet in touch.\n\nPrashil Vasoya\n\nINSTITUTE ATHLETICS SECRETARY\n\n+91 88661 33501\n\n§ 05\n · GALLERY\nFrom the track.\nFIG. 01 / 05\nATHLETICS · TRACK & FIELD\n←\n→\n§ 06\n · LOCATION\nFind us.\n\nNew Gymkhana · IIT Bombay · Powai\n\nS\nIIT Bombay Sports\nQUICK LINKS\nHome\nContact\nFOLLOW US\n\nCOPYRIGHT © 2025 IIT BOMBAY SPORTS",
+  "title": "IIT B Sports",
+  "url": "https://gymkhana.iitb.ac.in/sports/athletics",
+  "captured_at": "2026-10-18T15:26:39.932109+00:00"
+}
